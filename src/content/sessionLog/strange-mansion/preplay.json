@@ -1,0 +1,4246 @@
+{ "title": "プリプレイ",
+  "sectionNum": 0,
+  "isPreplay":true,
+  "charaData":[
+    "strange-mansion/datasheet-シルブ・アグ",
+    "strange-mansion/datasheet-ラヴィ",
+    "strange-mansion/datasheet-トゥーア・ルベス",
+    "strange-mansion/datasheet-ベルナデッタ・ローレンス",
+    "strange-mansion/datasheet-イング・ルナシス"
+  ],
+  "data":
+  [
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ピポッ",
+    "color": "#653294",
+    "timestamp": "00:40",
+    "content": "ひとまず文字色コレと、立ち絵11番に設定しておきます"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "00:56",
+    "content": "じゃあ7番あたりを貰おうかしら"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:29",
+    "content": "こんばんはー"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:32",
+    "content": "こんばんは"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:34",
+    "content": "では本日はピポッさんのキャラ作成会ということで、予定より早いですがもう始めてしまいましょう"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:34",
+    "content": "よろしくお願いします"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:34",
+    "content": "よろしくお願いします！"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:34",
+    "content": "こんばんは"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:34",
+    "content": "こんばんはー"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:35",
+    "content": "https://yutorize.2-d.jp/ytsheet/sw2.5/?id=iEKTEf"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:35",
+    "content": "仮作成のキャラシがこちらでしたね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:35",
+    "content": "はい、そうです"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:35",
+    "content": "現在はポイント形式で能力値を入れてます"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:35",
+    "content": "種族：タビット　生まれ：操霊術師　になります"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:36",
+    "content": "作業中ですが少し落ち着いたので見学に伺いました。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:36",
+    "content": "で、ここからGM報酬から経験点2000、名誉点20、成長2回を引き出したうえでの作成をしようかと"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:36",
+    "content": "了解です"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:37",
+    "content": "とりあえずまずは能力値決定のダイスを振りましょうか"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:37",
+    "content": "はーい"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:37",
+    "content": "タビットは 1d+1d+1d+2d+(2d+6)+2d ですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:38",
+    "content": "ですね　まず3回行きます　知力12出ろ！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:38",
+    "content": "x3 1d6+1d6+1d6+2d6+(2d6+6)+2d6<br>SwordWorld2.5 : #1<br>(1D6+1D6+1D6+2D6+(2D6+6)+2D6) → 4[4]+1[1]+3[3]+6[1,5]+(8[3,5]+6)+4[1,3] → 32<br><br>#2<br>(1D6+1D6+1D6+2D6+(2D6+6)+2D6) → 6[6]+1[1]+5[5]+6[5,1]+(2[1,1]+6)+7[3,4] → 33<br><br>#3<br>(1D6+1D6+1D6+2D6+(2D6+6)+2D6) → 4[4]+1[1]+4[4]+12[6,6]+(3[2,1]+6)+4[3,1] → 34"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:38",
+    "content": "むむ……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:38",
+    "content": "owari no dice"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:38",
+    "content": "おう。。。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:38",
+    "content": "精神と知力の両方が良い感じのやつがないですね……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:39",
+    "content": "この3つから強いて選ぶなら長男かなって感じですがその場合精神が微妙ですし……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:39",
+    "content": "しかも全部期待値下回ってますね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:39",
+    "content": "時にGM"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:39",
+    "content": "ＧＭ報酬で得たお金で"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:39",
+    "content": "降りなおしとかができませんでしたっけ、追加で？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:39",
+    "content": "GM報酬のGMお金でガチャするのは可能ですか？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:40",
+    "content": "OKです"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:40",
+    "content": "ありがとうございます！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:40",
+    "content": "GM報酬でアイテムが買えるならGM報酬で能力値ガチャできても良い"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:40",
+    "content": "じゃああと41回ガチャできます"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:40",
+    "content": "草"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:40",
+    "content": "ひゅー！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:41",
+    "content": "確率的には40回振ったら68％の確率で12は出る……！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:41",
+    "content": "まあそれでは……能力値ガチャどうぞ！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:42",
+    "content": "はい！　まず100G！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:42",
+    "content": "1d6+1d6+1d6+2d6+(2d6+6)+2d6<br>SwordWorld2.5 : (1D6+1D6+1D6+2D6+(2D6+6)+2D6) → 3[3]+4[4]+2[2]+5[2,3]+(10[6,4]+6)+7[4,3] → 37"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:42",
+    "content": "ﾝﾝﾝ…"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:42",
+    "content": "知力は良い感じですが精神がそこそこ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:43",
+    "content": "少なくとも長男から三男よりはよく、さらに言うとポイントシステムで12を取る時は莫大な犠牲を払うので"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:43",
+    "content": "それよりかは強いですが……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:43",
+    "content": "やはり知力！　200G目いきます！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:43",
+    "content": "まあ４０回チャレンジできるなら"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:43",
+    "content": "GOGO！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:44",
+    "content": "1d6+1d6+1d6+2d6+(2d6+6)+2d6　200G目<br>SwordWorld2.5 : (1D6+1D6+1D6+2D6+(2D6+6)+2D6) → 1[1]+4[4]+1[1]+8[2,6]+(3[1,2]+6)+5[3,2] → 28"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:44",
+    "content": "あと２，３回は気楽にチャレンジしてみるのも手かとは。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:44",
+    "content": "はい次！　300G目！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:44",
+    "content": "1d6+1d6+1d6+2d6+(2d6+6)+2d6　300G目<br>SwordWorld2.5 : (1D6+1D6+1D6+2D6+(2D6+6)+2D6) → 5[5]+1[1]+1[1]+11[5,6]+(6[4,2]+6)+5[2,3] → 35"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:44",
+    "content": "うーむ……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:44",
+    "content": "そ、そろそろ揺り返しが来ても"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:44",
+    "content": "四男が一番強い400G目いきます！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:44",
+    "content": "1d6+1d6+1d6+2d6+(2d6+6)+2d6　400G目<br>SwordWorld2.5 : (1D6+1D6+1D6+2D6+(2D6+6)+2D6) → 5[5]+6[6]+4[4]+8[3,5]+(7[1,6]+6)+5[4,1] → 41"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:44",
+    "content": "1d6+1d6+1d6+2d6+(2d6+6)+2d6　500G目<br>SwordWorld2.5 : (1D6+1D6+1D6+2D6+(2D6+6)+2D6) → 6[6]+3[3]+6[6]+7[3,4]+(7[2,5]+6)+7[5,2] → 42"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:45",
+    "content": "そっちじゃないんだよなあ（合計値が上がってるけど前半分という）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:45",
+    "content": "1d6+1d6+1d6+2d6+(2d6+6)+2d6　600G目<br>SwordWorld2.5 : (1D6+1D6+1D6+2D6+(2D6+6)+2D6) → 3[3]+1[1]+4[4]+9[3,6]+(5[2,3]+6)+9[6,3] → 37"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:45",
+    "content": "やばい　ガチャで石を溶かしてる時の焦燥感があります"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:45",
+    "content": "は！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:45",
+    "content": "触媒、触媒ですよピポッさん！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:46",
+    "content": "パソコンの前に、こー。１２に関係するモノを備えてからダイスロール！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:46",
+    "content": "無料分込みだと次が丁度10連目になりますね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:46",
+    "content": "じゃあ物理2d6を12にして置いておきましょう"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:47",
+    "content": "10連目いきます！　こうなったらひくまで！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:47",
+    "content": "1d6+1d6+1d6+2d6+(2d6+6)+2d6　700G目<br>SwordWorld2.5 : (1D6+1D6+1D6+2D6+(2D6+6)+2D6) → 2[2]+3[3]+3[3]+3[1,2]+(7[5,2]+6)+8[5,3] → 32"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:47",
+    "content": "1d6+1d6+1d6+2d6+(2d6+6)+2d6　800G<br>SwordWorld2.5 : (1D6+1D6+1D6+2D6+(2D6+6)+2D6) → 6[6]+3[3]+6[6]+10[4,6]+(6[1,5]+6)+11[5,6] → 48"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:47",
+    "content": "そうじゃないんだよなあ！？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:47",
+    "content": "精神は良い……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:47",
+    "content": "ろ、ろくは出てる"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:47",
+    "content": "なんなら生命も10とHP確保の面では優秀ですよ11男"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:48",
+    "content": "でも……12が……！"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "黄色の月@見学",
+    "color": "#000000",
+    "timestamp": "20:48",
+    "content": "ケンガク！"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "20:48",
+    "content": "こんばんはですー！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:48",
+    "content": "後で成長2回もあるので妥協して11でもいいんですが、知力11もまだという"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:48",
+    "content": "こんばんはー"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:49",
+    "content": "次いきます！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:49",
+    "content": "1d6+1d6+1d6+2d6+(2d6+6)+2d6　900G<br>SwordWorld2.5 : (1D6+1D6+1D6+2D6+(2D6+6)+2D6) → 3[3]+5[5]+6[6]+5[3,2]+(7[5,2]+6)+9[5,4] → 41"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:49",
+    "content": "1d6+1d6+1d6+2d6+(2d6+6)+2d6　1000G<br>SwordWorld2.5 : (1D6+1D6+1D6+2D6+(2D6+6)+2D6) → 5[5]+4[4]+1[1]+7[3,4]+(10[6,4]+6)+8[3,5] → 41"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:49",
+    "content": "おっ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:49",
+    "content": "これはなかなかよいのでは？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "20:49",
+    "content": "知力10！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:49",
+    "content": "ようやく知力精神がともに良い感じのやつが"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:50",
+    "content": "これ以上やると本当に終わりが無さそうなのと"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:50",
+    "content": "生命7とそれなりにちゃんとした値を出してるので"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:50",
+    "content": "このあたりにします……！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:50",
+    "content": "了解です！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:50",
+    "content": "えーと、13男！キミに決めた！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:50",
+    "content": "兎さんだから多産だ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:52",
+    "content": "えーと、11/10/7/13/26/18 になりますね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:52",
+    "content": "たのもしい"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:52",
+    "content": "頼れる知力！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "20:53",
+    "content": "パワ！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:53",
+    "content": "あとは経歴・冒険に出た理由・それとGM報酬から成長2回なのですが"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:53",
+    "content": "どういう順に振ればよいでしょうか？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:53",
+    "content": "成長2回から振ってしまいましょう"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:53",
+    "content": "了解ですー"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:53",
+    "content": "gr 1回目<br>SwordWorld2.5 : [2,6]-&gt;(敏捷度 or 精神力)"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:53",
+    "content": "gr 2回目<br>SwordWorld2.5 : [6,6]-&gt;(精神力)"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:54",
+    "content": "なんか知力ムキムキウサギになってきた"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:54",
+    "content": "精神ぱわー"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "20:54",
+    "content": "知力がみなぎる……溢れるゥ……！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:54",
+    "content": "MPはあればあるほど良い"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:54",
+    "content": "知力5は逃しましたが、バフバラまきウサギとしては精神も有り難いのでこれは嬉しいです"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:54",
+    "content": "ですです"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "20:54",
+    "content": "MPが一杯あることの強さ、フロライ握って実感してます"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:55",
+    "content": "では続いて経歴表と冒険に出た理由表ですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:55",
+    "content": "はーい、まず経歴3回行きます"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:55",
+    "content": "x3 3d6<br>SwordWorld2.5 : #1<br>(3D6) → 10[2,3,5] → 10<br><br>#2<br>(3D6) → 10[6,3,1] → 10<br><br>#3<br>(3D6) → 7[1,3,3] → 7"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:56",
+    "content": "許嫁がいる（いた）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:56",
+    "content": "大きな嘘をついている（いた）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:56",
+    "content": "奇妙な予言をされたことがある"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:57",
+    "content": "「ボクには許嫁が居るんだ！」（大きな嘘）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "20:57",
+    "content": "どこに嘘を絡めてもおいしい気配だぜ！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:58",
+    "content": "ふーむ、冒険に出た理由も振って考えます"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:58",
+    "content": "2d6<br>SwordWorld2.5 : (2D6) → 10[5,5] → 10"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:58",
+    "content": "予言によって"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:58",
+    "content": "草"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:58",
+    "content": "予言……！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "20:58",
+    "content": "予言が運命を決めまくっている……！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:58",
+    "content": "どう考えても奇妙な予言に従っている！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:58",
+    "content": "予言！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "20:59",
+    "content": "いいですね、経歴と理由がシナジーを"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:59",
+    "content": "「冒険に出たら許婚（婚約者）ができるでしょう」と予言されたことがあるので「許婚がいる」と言いまくっている……？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:59",
+    "content": "とんでもない虚言ウサギだ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:59",
+    "content": "でも性格的には凄まじい自信家なキャラを考えていたので"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:00",
+    "content": "そのぐらいの大ボラを言いまくってる方が合ってるかも"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "21:00",
+    "content": "（将来的に）「許嫁がいまぁす！」"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:01",
+    "content": "嫁がいる、ではなく許嫁がいるという嘘、謎の謙虚性があって面白い"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:01",
+    "content": "あ、そうか。過去形だから居たってかたちでもいいんですね。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:01",
+    "content": "そうなんですよね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:02",
+    "content": "大きな嘘をついていたから、許嫁との関係が破断になってこっちも過去形に"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:02",
+    "content": "とかも可能です"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "21:02",
+    "content": "悲しい物語にもなった！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:02",
+    "content": "居なくなった許嫁を探しているけど。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:02",
+    "content": "まわりからは認識されてない許嫁なので、大ウソ呼ばわりされてるとかもいけるかも。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:03",
+    "content": "＜いまじなりーいいなずけ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:03",
+    "content": "可能性は無限大！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:03",
+    "content": "それはそれでヤバウサギ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "21:03",
+    "content": "どう転がしても楽しい！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:03",
+    "content": "とりあえず経歴全部採用の方針でいきます！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:05",
+    "content": "では次は技能やアイテム、言語等ですが……こちらはすでに作成しているデータから変更なしですかね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:05",
+    "content": "はい、そちらはそのままで"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:05",
+    "content": "初期作成ボーナス100G+借金200G想定で、1500Gの範囲で作成してます"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:06",
+    "content": "一回仮出しした時から腕輪がスマルティエになって100G下がってます"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:06",
+    "content": "了解です"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:07",
+    "content": "頼れるウサギさんが実像を結んできましたね。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:07",
+    "content": "では、キャラプロフィール等はセッション開始までにまとめていただくという感じで、"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:07",
+    "content": "本日やることはもうなさそうですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:07",
+    "content": "そうですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:07",
+    "content": "お疲れ様でした！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:08",
+    "content": "おつかれさまです！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:08",
+    "content": "お疲れ様でした！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "21:08",
+    "content": "お疲れ様ですぜ！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "21:08",
+    "content": "ちまちまコマ作成しつつ当日を楽しみにしていくぞ～"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:52",
+    "content": "こんばんは"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "20:52",
+    "content": "こんばんはー"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "20:52",
+    "content": "こんばんは"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "20:59",
+    "content": "時間になりましたし、そろそろ始めていきたいと思います"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:00",
+    "content": "よろしくお願いします！"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:00",
+    "content": "こんばんはー"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:00",
+    "content": "こんばんは"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:00",
+    "content": "見"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:00",
+    "content": "ぎりぎりアウトだ、すみません。"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:00",
+    "content": "よろしくお願いします。"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "21:00",
+    "content": "トウチャク！"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "21:00",
+    "content": "こんばんはですー！"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:00",
+    "content": "こんばんはー"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:00",
+    "content": "お、そしてヒロトさんのキャラ骨子が"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "黄色の月@見学",
+    "color": "#333333",
+    "timestamp": "21:00",
+    "content": "お風呂沸かしに思ったより手間取ってしまった……ギリギリ着すみません！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:01",
+    "content": "では本日は（本日も）キャラ作成会！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:01",
+    "content": "よろしくお願いしまーす"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:01",
+    "content": "よろしくお願いします"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:01",
+    "content": "よろしくお願いします"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:01",
+    "content": "よろしくお願い致します。（くいっ）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:01",
+    "content": "よろしくお願いします"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:02",
+    "content": "トゥーアさんかわいい"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:02",
+    "content": "独学系女子、4歳です（？）"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:02",
+    "content": "若い！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:02",
+    "content": "まずは能力値ダイス振ればいいんですかね？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:03",
+    "content": "そうですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:03",
+    "content": "シャドウだと1d+1d+2d+2d+2d+2dですかね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:03",
+    "content": "x3 1d+1d+2d+2d+2d+2d<br>SwordWorld2.5 : #1<br>(1D6+1D6+2D6+2D6+2D6+2D6) → 3[3]+6[6]+3[2,1]+6[3,3]+8[4,4]+4[3,1] → 30<br><br>#2<br>(1D6+1D6+2D6+2D6+2D6+2D6) → 4[4]+4[4]+10[6,4]+7[3,4]+5[3,2]+6[1,5] → 36<br><br>#3<br>(1D6+1D6+2D6+2D6+2D6+2D6) → 3[3]+6[6]+4[2,2]+5[3,2]+4[1,3]+10[4,6] → 32"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:04",
+    "content": "次男が良さそうですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:04",
+    "content": "次男が筋力もあり中々"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:04",
+    "content": "お、技と体が高い感じですね、次男くん。"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:04",
+    "content": "後今回はキャラ作成会という事で"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:04",
+    "content": "100G消費すれば追加で能力値ガチャが回せますが、どうします？"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:05",
+    "content": "一回自分も100G能力値ガチャをやって見たさがあるぜ（どきどき）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:05",
+    "content": "上振れを狙うか、次の収入に回すか……！"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:05",
+    "content": "がーっちゃっちゃっちゃ（笑い声"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:05",
+    "content": "ここに1000G溶かした人もおります"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:06",
+    "content": "むぅ…次男にしておきますかね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:06",
+    "content": "了解です！"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:06",
+    "content": "溶かしていたぜ……（畏怖）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:06",
+    "content": "では次は経歴表と冒険に出た理由表ですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:07",
+    "content": "あ、立ち絵位置は暫定で6番頂いております！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:07",
+    "content": "では経歴"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:07",
+    "content": "x3 3d6<br>SwordWorld2.5 : #1<br>(3D6) → 8[2,2,4] → 8<br><br>#2<br>(3D6) → 8[4,1,3] → 8<br><br>#3<br>(3D6) → 7[1,4,2] → 7"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:08",
+    "content": "「家族に異種族がいる」<br>「異種族の友人がいる」<br>「裏切られたことがある」"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:08",
+    "content": "こわいはなし"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:08",
+    "content": "三番目こわい"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:09",
+    "content": "最初二つは良い感じに平和だったのに最後で一気に不穏"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:09",
+    "content": "あからさまにダブルクロされ者なのだ！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:09",
+    "content": "全体的に異種族との因縁がありそうな予感！"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:09",
+    "content": "冒険に出た理由によってはダブクロが加速しそうです"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:09",
+    "content": "でも面白そうでもありますね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:09",
+    "content": "冒険に出た理由"
+  },
+  {
+    "type": "message",
+    "tabNum": "1 diceroll",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:10",
+    "content": "2d6<br>SwordWorld2.5 : (2D6) → 7[2,5] → 7"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:10",
+    "content": "「失われた場所を取り戻す」"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:10",
+    "content": "なんかそれっぽい"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:10",
+    "content": "村焼かれんちゅっぽいなぁ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:10",
+    "content": "明らかになにか起きている"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:11",
+    "content": "なにかあった未来……ってコト！？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:13",
+    "content": "異種族の集落で育てられたけど、偶然出会ったよそ者(生まれて初めて出会った同族とか？)に集落のことを教えてしまったら襲撃を受けて散り散りになった…みたいな？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:14",
+    "content": "ああ、責任まで負おうとしている。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:14",
+    "content": "積極的ＰＣ１ムーブ！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:14",
+    "content": "＜村が滅んだ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:14",
+    "content": "かなしいはなし"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:14",
+    "content": "悲しい物語だぜ……！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:15",
+    "content": "シャドウは戦闘集団・暗殺者集団として活躍したとされる種族……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:16",
+    "content": "そういうことがあってもおかしくなさそうですね……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:16",
+    "content": "家族が異種族で、友達も異種族。。。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:17",
+    "content": "橋渡しみたいなアレだったのかもしれない。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:17",
+    "content": "異種族の里…具体的に何の里だろう"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:18",
+    "content": "穢れ持ちの何かか、あるいは稀少系か"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:18",
+    "content": "シャドウを歓迎する種族、もしくはシャドウの力を頼りにしたい種族"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:18",
+    "content": "ソレイユ？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:18",
+    "content": "夜の護衛としてソレイユだと助かりそうですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:19",
+    "content": "対になってるやつだ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:19",
+    "content": "なるほど"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:19",
+    "content": "ソレイユなら種族の違いとか気にせず仲良くしてくれそうですしね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:20",
+    "content": "そして襲撃はたぶん夜に行われたのでしょう"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:20",
+    "content": "シーンとティダンの関係性でもゆうめいだ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:20",
+    "content": "うわぁ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:20",
+    "content": "ソレイユは夜だと抵抗下がっちゃいますからね……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:20",
+    "content": "どんどん辛くなってきたな……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:20",
+    "content": "け、計画性がある。少年の心に傷が残っちゃうよ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:21",
+    "content": "しかしうむ、そーゆーことなら一肌脱がねばですね。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:21",
+    "content": "https://yutorize.2-d.jp/ytsheet/sw2.5/?id=IA0j4X　ＧＭ、大丈夫そうでしたらば今回この子でもよろしいでしょうか？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:21",
+    "content": "＜私の使用キャラ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:21",
+    "content": "ソレイユ！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:22",
+    "content": "OKです！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:23",
+    "content": "太陽の子！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:23",
+    "content": "これで今回冒険する5人が決まった感じかね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "MAO＠作業",
+    "color": "#9f0500",
+    "timestamp": "21:23",
+    "content": "虎＆馬があるなら視界内に出てってあげるのもまた礼儀(｀・ω・´)"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:24",
+    "content": "ですね。これでパーティメンバー決定かと"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:24",
+    "content": "さすがMAOさんだ　ロールの引き出し方を心得ている…！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:25",
+    "content": "ソレイユ！シャドウ！タビット！エルフ！ルーンフォーク！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:25",
+    "content": "うぬら5人か……！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:25",
+    "content": "確かパンチ系とも伺ってましたので、であればＷグラップラーシナジーも発生しやすくなるはず。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:25",
+    "content": "すごい　人間がいません"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:25",
+    "content": "おお"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:26",
+    "content": "まとめるとこうですね<br>《前衛》<br>・ヒロトさん:イングさん（拳闘士のシャドウ）<br>・MAOさん:ラヴィさん（拳闘士のソレイユ）<br>《後衛》<br>・ピポッさん:シルブさん（軍師タビット）<br>・弓百弓さん:ベルナデッタさん（神官エルフ）<br>・黄色の月さん:トゥーアさん（銃士ルンフォ）"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:26",
+    "content": "トゥーアさんもマギシューなので"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:26",
+    "content": "相性はいいはず＜投げっプラーと"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:26",
+    "content": "なるほどね"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:26",
+    "content": "ダブルグラップラーだぜ！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:26",
+    "content": "アタッカー／アタッカー／バッファー／ヒーラー／アタッカー"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:27",
+    "content": "良い感じですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:27",
+    "content": "防護点貫通もございます（チャカッ）"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:27",
+    "content": "2R目からは命中を全員盛り盛りしていきますので"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:27",
+    "content": "ガンガン当てていってください（怒涛の攻陣2）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:28",
+    "content": "今までずっとPCたちが倒されてしまわないかの心配をしてたんですが、"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:28",
+    "content": "この分だとエネミーがあっさり倒されてしまうことを心配した方が良さそうですね……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:28",
+    "content": "あと、余っているB技能１レベル分の経験値スカウトかレンジャーか他の何かか、と<br>特技は仮に武器習熟を入力してありますが両手利きや鎧貫きも候補"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:28",
+    "content": "有難すぎ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:28",
+    "content": "このPT、かなり先手必勝で攻め落とす感じなので"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:28",
+    "content": "前衛がグラップラー2枚だから事故が怖いっちゃ怖い"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:28",
+    "content": "てすてす立ち絵てす"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:28",
+    "content": "先制が肝要ですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:29",
+    "content": "うちも立ち絵テストしとくか"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:29",
+    "content": "動く前に殺す！の意気が大事という訳ね…！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:29",
+    "content": "そうですね、今回のことだけを考えると先に挙げたようにラヴィは投げっプラーですので"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:29",
+    "content": "手数が増えると言うのはとても相性が良い気はします。汁部おじいちゃんが命中もあげてくれますし。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:30",
+    "content": "いかん、おいしそうな誤字にｗ＜汁部"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:30",
+    "content": "非常食じゃないですよ！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:30",
+    "content": "歳取ってるからおにくかたいし……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:30",
+    "content": "ちょっとこっちに寄せた方がいい？(7→8)"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:30",
+    "content": "かもですね＞立ち絵"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:31",
+    "content": "今の私が6番なので、必要に応じてずらしてまいります"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:31",
+    "content": "あ、今私が４番ですがＧＭが１を使うと仮定して"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:31",
+    "content": "一つずつ右にずらすほうがひょっとしたらイングさんがいい感じになる？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:31",
+    "content": "12にしてみました"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:32",
+    "content": "５だよ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:32",
+    "content": "３・５・７・９・１１というわけですね（7番に移動！）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:32",
+    "content": "ですです、そんな感じで。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:32",
+    "content": "なるほどね@9番"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:33",
+    "content": "スペース的にいい具合な気がします"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:33",
+    "content": "調整しやすくするために今回の卓に出す予定の受付嬢の立ち絵出しておこう"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:33",
+    "content": "おお"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:33",
+    "content": "GMは1番を使わせていただきます"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:33",
+    "content": "かわいらしいですね（くいっ）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:34",
+    "content": "ちょっと気難しい雰囲気のエルフ、マロンです"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:35",
+    "content": "美人さんだ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:35",
+    "content": "なるほどね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:35",
+    "content": "おおー、美人さんですね。"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:35",
+    "content": "っと、すみません。ちょっと離席を。"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:36",
+    "content": "はーい"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:36",
+    "content": "了解ですー"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:36",
+    "content": "はーい！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:36",
+    "content": "姓がフィールズとかなのかもしれない"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:36",
+    "content": "そうですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:36",
+    "content": "マロン・フィールズ……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:37",
+    "content": "立ち絵用ツールのオススメとかあるんです？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:37",
+    "content": "CLIP STUDIO PAINT"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:37",
+    "content": "草"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:37",
+    "content": "たしかにおすすめはできますが"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:37",
+    "content": "自分はPicrewから良さげな立ち絵を探してますぜ！（キャラシにリンク有ります）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:37",
+    "content": "それは立ち絵作成とか編集とかからになるのでは……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:37",
+    "content": "このマロンの立ち絵はpixaiで作りました"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:38",
+    "content": "ベルはStable Diffusionに生成させたものをクリスタでちょっと加筆してます"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:38",
+    "content": "未知なる剣亭だとけっこうAIで生成してる人が多い印象ですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:38",
+    "content": "自分もStableDiffusion系で出したのを加工してますね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:38",
+    "content": "あとは里場さんGMも使ってるPixai！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:40",
+    "content": "AIで出すのだとBingがお手軽かもしれません"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:41",
+    "content": "もどりましたー"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:41",
+    "content": "日本語でもいけるので　そこから上手く出るかどうかでpixai（AI）かPicrew(ツール）か……みたいな流れで練ってくと良いでしょうか？"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:41",
+    "content": "おかえりなさいー"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:41",
+    "content": "おかえりなさいまし！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:41",
+    "content": "そうですね、私もＡＩを使ったりしています。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:42",
+    "content": "https://www.bing.com/chat?q=Microsoft+Copilot&amp;FORM=hpcodx<br>こちらでbing使ってイメージ出せるかもです"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:43",
+    "content": "なくても全然楽しめるけどネ　立ち絵あることでイメージが固まるなんてこともあるし"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:43",
+    "content": "ですね～、テキストでの表現が基本と言えば基本。"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:43",
+    "content": "おかえりなさいです"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:44",
+    "content": "最近は気軽にＡＩとかもできるようになってきましたので"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:44",
+    "content": "そのあたりがご負担でなければてしてししたりするのも楽しいかもしれません。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:45",
+    "content": "ふむふむ"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:47",
+    "content": "Q.加筆してるのに袖は放置なの？<br>A.めんどくて……"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:47",
+    "content": "めんどくさいのは致し方ないですね……"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:47",
+    "content": "だいたいでいいと思うｗ"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:48",
+    "content": "心の目は開くこともできるけど、瞑ることもできるんじゃよ。。。"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:48",
+    "content": "私は基本AI生成絵は加筆修正してないので修正してるだけでえらい"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:48",
+    "content": "いいこと言うなぁw＞心の目は瞑ることもできる"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:48",
+    "content": "わかりがございますね（白抜きだけでもヒィヒィ言ってる人）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:49",
+    "content": "まあ、その辺は御自由にしていただければ"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:49",
+    "content": "白抜きも難しいんですよね（シルブもちょっとあれな部分がある）"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:49",
+    "content": "でもこのラヴィの立ち絵、私にしては珍しくがんばって手をいれたんですよね、２か所ほど、やむを得ず。"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:50",
+    "content": "目とか手とかはガチャ回すより直した方がはやいなってなること多いすからね"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:50",
+    "content": "（おむねの中央が透けてしまってたため"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:50",
+    "content": "あぶない！"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:51",
+    "content": "あー……w"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:51",
+    "content": "いけないぜ……！"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:51",
+    "content": "それは危険"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:51",
+    "content": "言われるまで気づかなかったのです、コワイネｗ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:51",
+    "content": "戦闘特技は武器習熟って感じすかね？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:52",
+    "content": "使う格闘武器は何にする予定です？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:52",
+    "content": "シンプルにダメージが＋１されて、ひとつよい武器を買えちゃう特技でしたね。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:53",
+    "content": "装備力だ！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:53",
+    "content": "支援充実してそうだし拳なら両手利きっつっても全然当たりそう"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:54",
+    "content": "ここまで切り取るとちと小さいか＞立ち絵戻しとこ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:54",
+    "content": "ですね、今回の構成と言うのはありますが"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:54",
+    "content": "グラ2＋器用3＋キャッツアイ　で基本6"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:55",
+    "content": "そこにシルブさんの支援と私の投げが嵌まれば、実質３のアドですものね。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:55",
+    "content": "で、ラヴィさんが先に投げ成功すれば実質8"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:55",
+    "content": "2Rからはシルブ鼓咆で命中+1して実質9"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:56",
+    "content": "今回は、なので両手利き取るなら早めにLv3目指したいところではある"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:56",
+    "content": "あ、そういえば"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:56",
+    "content": "いずれは何らかの流派を目指してるのではありませんでしたっけ？"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "弓百弓",
+    "color": "#ff9020",
+    "timestamp": "21:56",
+    "content": "てかみんなもうキャラ名じゃん"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "21:56",
+    "content": "変えとこ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:56",
+    "content": "＜ヒロトさんの子"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:57",
+    "content": "実はそうなのでございました（くいっ）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:57",
+    "content": "たしか一撃パンチ系の流派の話してましたね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "21:57",
+    "content": "カスロットでしたっけ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:57",
+    "content": "カスロット豪砂拳でしたね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:57",
+    "content": "となると両手はあまりよくないのかな？　それとも使い分けで行ける感じなのかしら？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "21:57",
+    "content": "そんなことも言ってたね　あれの前提特技は鎧貫きだな"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:58",
+    "content": "あの流派、目玉技が鎧貫き変化かつ両手利きと併用できないんですよね(打ち分けは可能なはず)"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:58",
+    "content": "バタス派ですね！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:58",
+    "content": "あ、そうなのですね。なら両手利きは将来的に必要になる。"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:59",
+    "content": "あ、そうだ。"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:59",
+    "content": "よければログはやれます。基本シンプルにそのまま、あとそんなに早くはありませんが。よろしければ。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "21:59",
+    "content": "防護点破壊、実際つよそうだぜ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "21:59",
+    "content": "と、言うことであれば今回とっておくのもありかもしれないですね。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "21:59",
+    "content": "目玉技はダメ固定値上昇＆相手の防護点を半永続で3分の2にする(累積可)"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "21:59",
+    "content": "あーいえ、ログは自分でやりますので"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:00",
+    "content": "お気持ちだけありがたく"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:00",
+    "content": "今回の組み合わせだと効果を発揮しやすいというのはありますので。＜両手利き＝攻撃回数増加にラウンド間持続する命中バフ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:00",
+    "content": "防護点を十分破壊したら両手利き、って使い分けられたら楽しそうね"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:00",
+    "content": "了解しました、ありがとうございます。＜ログ編集"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:00",
+    "content": "まあ流派修得までそれなりに時間かかりそうですし、今の段階ではどっちでも良さそうですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:01",
+    "content": "そうそう　手数が多いとバメージバフが活きやすいのよね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:01",
+    "content": "あとはヒロトさんがどういうのをやりたいかですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:01",
+    "content": "ですね、それが一番大事でした。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:01",
+    "content": "ですです！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:01",
+    "content": "ただまぁ防護点や回避に弱いことに違いはない＞両手利き"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "22:03",
+    "content": "じゃあ両手利き取って武器はアイアンボックスあたりにしておきましょうかね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "22:04",
+    "content": "余ってるB技能枠、レンジャーいないなら取ってもいいのかなぁ、という感じですけど"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:05",
+    "content": "あ、たしかにいない！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:05",
+    "content": "アーバンライフなパーティー"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:05",
+    "content": "自分経験点残してるんで必要そうなら取りますよ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:06",
+    "content": "イングくんのイメージ的にはどんな感じでしょ？＜レンジャー"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:06",
+    "content": "Ｂ特技、フレーバー的なところにも寄与してくれますので"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:06",
+    "content": "両手利き取るなら早めにLv3目指したいだろうし(イメージ的に取りたいB技能があるなら取っていいと思う)"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:06",
+    "content": "ベルナデッタさんが取得してくださるならレンジャーに決め打ちしなくても大丈夫そうかとは。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:07",
+    "content": "そういえば草焚き要員もありましたな…！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:07",
+    "content": "ですです、ストックしておくのもありですよね。＜経験点。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:07",
+    "content": "早めLv3は目指したい所でもありますからね　戦闘特技的に"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:08",
+    "content": "命中不安がある時に鎧貫き撃ち分けられると便利っすからね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "22:09",
+    "content": "散り散りになった里の仲間たちを探しているとなると、レンジャーかスカウトあってもおかしくない感はありますが"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:10",
+    "content": "それは確かに"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:10",
+    "content": "ソレイユを探すなら確かにレンジャー技能はあるな……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:13",
+    "content": "そうですね、そうした感じでバックボーンに根差した感じの探索技能だと"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:14",
+    "content": "実データ以上に、キャラの深みが出せる可能性があるので、とてもよいかと～"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:14",
+    "content": "いいじゃない"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "22:14",
+    "content": "ではレンジャー、と"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:14",
+    "content": "はーい"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:14",
+    "content": "こー、レンジャー技能があると"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:15",
+    "content": "一人荒野を旅して焚火で身体を暖めるなんて描写も説得力がでますからね～"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:15",
+    "content": "ですねぇ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:16",
+    "content": "わくわくだぜ！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:16",
+    "content": "今まで旅をしてきた感が出てきましたね……！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:17",
+    "content": "あ、あとそういえば今回は剣の恩寵ルールを採用でしたよね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:17",
+    "content": "名乗りパートでございますね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:17",
+    "content": "そうですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:18",
+    "content": "まあ普段やるときは名乗りとかカットしてやってるので名乗りはカットの方向でいこうかと思ってましたが"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:18",
+    "content": "せっかくですし名乗りパートも入れてやってみますか"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:19",
+    "content": "忘れがちな奴＞剣の恩寵使うには最初に自己紹介しなきゃいけない"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:19",
+    "content": "あるある"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:20",
+    "content": "シナリオに入る前にキャラ紹介パートを設けますので、そこで名乗りゼリフを言っていただければと"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:20",
+    "content": "了解ですー"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:20",
+    "content": "かしこまりました！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "22:20",
+    "content": "はい"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:20",
+    "content": "了解しましたー"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:21",
+    "content": "「天が呼ぶ地が呼ぶ人が呼ぶ、悪を倒せとオレを呼ぶ！」（嘘"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:21",
+    "content": "全知"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:21",
+    "content": "まあ剣の恩寵は「プレイヤーの意気込み」に対して授けるものなのでセッション開始時の「よろしくお願いします」でもう付与しちゃっても良いのかもしれない……（ガバガバGM並の思考）"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:21",
+    "content": "その辺はGMがやりやすいようにでよいかとー"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:22",
+    "content": "あと、今回は5人中2人が新規作成冒険者ですので、報酬は「1～3レベル」の方で出させていただこうかと思います（ルルブI p.399「報酬総額の目安」参照）"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:22",
+    "content": "ですです！自分のやりやすいスタイルが一番だぜ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:22",
+    "content": "はーい"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:22",
+    "content": "ですねー＜ＧＭのやりやすさが一番"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:22",
+    "content": "そのうえで個人的には「一言」があるだけで「なるほどなぁ」となったりするので、あると嬉しいですね。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:23",
+    "content": "はい、了解しました。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:23",
+    "content": "大丈夫、ラヴィは名誉点の使い方がよくわかってないので名簿上はまだ新人冒険者ですｗ"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:25",
+    "content": "「新規」と「1～3Lv」って目安報酬が全然違うんすよね。額にして倍の差がある"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:25",
+    "content": "このあたりの目安調整が結構難しいですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:26",
+    "content": "了解でございます。私も駆け出し冒険者の分類ですのでご心配なく"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:26",
+    "content": "未知なる剣亭ですと成長度合いはバラつくので、どっちによるか調整が難しい"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ヒロト",
+    "color": "#999999",
+    "timestamp": "22:26",
+    "content": "了解です"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:27",
+    "content": "多分GMは初期作成じゃなくて1～3Lvの方で報酬出すよ、ってつもりで言ったんだと思うんですけど……w"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:28",
+    "content": "ですです"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:29",
+    "content": "初期作成の方が少ないので1～3レベルの方で出しちゃっても良いかな、と"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:30",
+    "content": "なので依頼達成で1000G、そのほかの報酬で300G、剣のかけら4～6個くらいを目安にします"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:30",
+    "content": "あ、了解しました"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:30",
+    "content": "中々多め！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:32",
+    "content": "雑談でも言いましたが、だいたい依頼達成で1000G、そのほかの報酬で300G、剣のかけら4～6個くらいを目安にしますね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:33",
+    "content": "はーい！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:33",
+    "content": "了解です！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:33",
+    "content": "了解しました。"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:33",
+    "content": "後は火曜日の本番に向けて相談しつつ、完成したら貼ってこう！みたいな感じになりますかね？"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:34",
+    "content": "かな？"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:34",
+    "content": "ですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:34",
+    "content": "あとはもっぺん動画を見ておこうかなｗ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:34",
+    "content": "はーい"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:34",
+    "content": "察しが悪い方です？"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:34",
+    "content": "＜怖くない方の"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:35",
+    "content": "あとはそうですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:35",
+    "content": "だいたいそんな感じでいこうかと"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:35",
+    "content": "察しが悪い方を見た後の察しがいい方、脳裏にずっと察しが悪い方が張り付いて集中できないんだよな……w"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:35",
+    "content": "ずっとゾーンがチラついてしまう呪い"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:36",
+    "content": "察しがいい方は記事で復習するのもアリかもだぜ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:36",
+    "content": "あ、あともう一つ"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:36",
+    "content": "火～金の四日間、21～24。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:36",
+    "content": "おお"
+  },
+  {
+    "type": "message",
+    "tabNum": "3",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:36",
+    "content": "二日以上のセッション久しぶりだなぁ、とても楽しみです。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:36",
+    "content": "今回のセッションでは戦闘ルールに上級戦闘を採用しようと思うのですが大丈夫ですかね？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:37",
+    "content": "（ルルブ2 p.51）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:37",
+    "content": "お、上級ですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "イング",
+    "color": "#999999",
+    "timestamp": "22:37",
+    "content": "はい"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:37",
+    "content": "む、上級戦闘。了解です、目を通しておきますね。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:37",
+    "content": "了解しました　確認しておきます"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:38",
+    "content": "かしこまりました！見直しておきますぜ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:39",
+    "content": "上級了解　主に後衛ができること増える"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "イング",
+    "color": "#999999",
+    "timestamp": "22:39",
+    "content": "m単位で距離が管理される"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:39",
+    "content": "上級の場合わりと問題になるのが「前衛が前に走れるか」で"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:39",
+    "content": "今回は足早い方が前衛なので、その辺は大丈夫そうという認識です"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:40",
+    "content": "射程距離が大事になるという訳でございますね（どきどき）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:40",
+    "content": "26ｍ/78ｍ　グラップラーなのでたぶん移動力はある方なはず。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:40",
+    "content": "まあ基本屋内での戦闘になるので敵との距離はそんな広くならない予定です"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:41",
+    "content": "ドワーフの神官戦士とか稀に10m走れなくて不確定な切り札になるからね……w"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "イング",
+    "color": "#999999",
+    "timestamp": "22:41",
+    "content": "不確定な切り札w"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:41",
+    "content": "ドワーフェ..."
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:41",
+    "content": "かなしいねｗ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:41",
+    "content": "15m走れる、良かったぜ（ほっ）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:42",
+    "content": "おじいちゃんも10m走れるので、ギリギリ管理しやすい方"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "イング",
+    "color": "#999999",
+    "timestamp": "22:43",
+    "content": "20/60か"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:43",
+    "content": "あとは乱戦エリアのルールがややこしいのですが、とりあえず今回のセッションにおいては後衛のキャラは「敵と近接でやりあってるキャラ」の前後3～4mの位置には入らないようにすれば問題ないかと"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:44",
+    "content": "乱戦形成されると3m半径が乱戦で含まれちゃいますからね　了解です"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:44",
+    "content": "だいたい10m程距離とっていれば魔法使い的には丁度いい・・・はず"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:44",
+    "content": "かしこまりました！近くても5mぐらいがいいという訳ですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:46",
+    "content": "乱戦の人数増えてくると5mでも巻き込まれちゃうかも"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:46",
+    "content": "ライダー居ないなら10部位超えることは滅多にないだろうけど……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:46",
+    "content": "乱戦エリアの人数（部位数）が11以上だと前後5mになりますね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:46",
+    "content": "まあさすがにそこまではいかないかと"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:47",
+    "content": "11人、凄まじい数"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:47",
+    "content": "味方前衛は２人だけですし"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:47",
+    "content": "まぁ今回はね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:47",
+    "content": "いっぱいだぜ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:47",
+    "content": "その数いると、上級の場合「後衛に妨害無視して抜けてくる」のほうが怖いですね……"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:49",
+    "content": "それもまぁ先手必勝ってことで"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:49",
+    "content": "動きそうな奴から殺すべし！という算段ね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:49",
+    "content": "まあかなり強いパーティになってる気がするので大丈夫でしょう！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:50",
+    "content": "今回シルブおじいちゃんが居てくれるので"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:50",
+    "content": "先制はかなり安心してます（油断とも言いますね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:50",
+    "content": "先制8からいけます"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:50",
+    "content": "ﾋﾟﾝｿﾞﾛｼﾀﾗｺﾞﾒﾝﾈ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:51",
+    "content": "まあこちらも6はあるので"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:51",
+    "content": "スカウトも齧っておりますので頭数はお任せください（どやっ）"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:51",
+    "content": "なんとかなるでしょう、きっと、めいびー"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:54",
+    "content": "こちらから言うことはざっくりこんなところですかね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:55",
+    "content": "了解しました、ありがとうございます。プレセッションおつかれさまでした。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:55",
+    "content": "お疲れ様でした"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ベルナデッタ",
+    "color": "#ff9020",
+    "timestamp": "22:55",
+    "content": "お疲れ様ですー"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:55",
+    "content": "改めまして皆様明日からもよろしくお願いいたします。"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:56",
+    "content": "よろしくお願いしますー"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:56",
+    "content": "明日もよろしくお願いします"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "イング",
+    "color": "#999999",
+    "timestamp": "22:57",
+    "content": "お疲れさまでした、明日はよろしくお願いします"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:57",
+    "content": "ではこちらはそろそろ失礼を。あとはなにかあればディスコでですかね？"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:57",
+    "content": "お疲れさまでした！明日からワクワクだぜ！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:57",
+    "content": "ですね"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:58",
+    "content": "何かあればdiscordで"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "ラヴィ",
+    "color": "#9f0500",
+    "timestamp": "22:58",
+    "content": "はーい、それではいったんおやすみなさーいノシ"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "GM",
+    "color": "#000000",
+    "timestamp": "22:58",
+    "content": "本日はお疲れ様でした！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "シルブ",
+    "color": "#653294",
+    "timestamp": "22:58",
+    "content": "お疲れ様でしたー　おやすみなさい！"
+  },
+  {
+    "type": "message",
+    "tabNum": "1",
+    "name": "トゥーア",
+    "color": "#0c797d",
+    "timestamp": "22:59",
+    "content": "皆様で楽しい卓にして行ければ幸いだぜ！おやすみなさーい！"
+  }
+  ]
+}

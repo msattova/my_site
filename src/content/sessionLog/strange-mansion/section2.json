@@ -1,0 +1,1449 @@
+{
+  "title": "依頼",
+  "sectionNum": 2,
+  "data": [
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:47",
+      "content": "未知なる剣亭——ハーヴェス王国の治安の悪い地域に居を構え、近頃盛況の冒険者ギルド。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:47",
+      "content": "その一室に君たちは集められていた。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:48",
+      "content": "了解"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:48",
+      "content": "君たちから見てテーブルの反対側、椅子に腰掛けている女性はこのギルドで受付嬢として働いているエルフだ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:48",
+      "content": "名をマロン。"
+    },
+    {
+      "type": "still",
+      "imageSrc": "/img/strange-mansion/charactors/NPC/malon.png",
+      "alt": "ギルドの受付嬢マロンの立ち絵",
+      "caption": "ギルドの受付嬢、マロン。性格に難あり",
+      "isPortrait": true
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:49",
+      "content": "おいしそうですよ、ベルナデッタさん。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:49",
+      "content": "＜マロンさん"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:49",
+      "content": "栗……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:49",
+      "content": "依頼を求めてこのギルドに来ていた君たちは、彼女に声をかけられてこの一室にやってきた。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:50",
+      "content": "栗みたいなおちち……！？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:50",
+      "content": "片目かくれ、いいですよね。ミステリアス。。。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "21:50",
+      "content": "「さて、ではさっそく依頼の話をしましょうか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:50",
+      "content": "「はーい！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:50",
+      "content": "赤毛の恵体美女が、幼子のような元気いっぱいの返事をする。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:51",
+      "content": "健康的な小麦色の肌には太陽を模したタトゥー──つまりはソレイユだ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:51",
+      "content": "「丁度金がなくてのう。　仕事をまわしてくれるのは助かるけぇ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:51",
+      "content": "よし、恵体アピールノルマ終了！ｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:52",
+      "content": "「しかし……全員背が高いのう、首が疲れてしょうがないわい」キョロキョロ今回のメンツを見ている/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:52",
+      "content": "「かしこまりました。」反射する眼鏡と共にぺこりと一礼し、席に座る。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:52",
+      "content": "「わざわざ声をかけてくれるなんてね……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:52",
+      "content": "スカーフで隠されている彼女の首元には特徴的な硬質部位。ルーンフォークのそれだ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:52",
+      "content": "「よろしく頼む」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "21:53",
+      "content": "「依頼主の希望でね。あなたたちのような駆け出し冒険者に頼んでやってくれないかって……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "21:53",
+      "content": "「まあ、その話は今はいいでしょう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:53",
+      "content": "「ラヴィはね、シルブがちっちゃいんだと思う」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:54",
+      "content": "「ワシからすりゃおまんらがやたらでかいんじゃ！」声が部屋に響く/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:54",
+      "content": "足元のうさちゃんをひょいっと胸元に抱き上げて──"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:54",
+      "content": "「これなら首、だいじょーぶ？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:54",
+      "content": "「必要に応じてこちらがしゃがんでいきましょうか……と思いましたが」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:54",
+      "content": "「なんじゃああああああ！？？！」　爆音でびびる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:54",
+      "content": "「その位置でしたら大丈夫そうですね」爆音にちょっと眉が歪んでいる。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:54",
+      "content": "「っ、さ、騒がしいわね……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "21:55",
+      "content": "（人選、間違ったかも）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:55",
+      "content": "「…」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:55",
+      "content": "くわんくわんくわん──となるが手は離さない。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:55",
+      "content": "豊満！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:55",
+      "content": "しまった、マロンさんの信用ポイントが！（汗）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:55",
+      "content": "「ええい離さんか！　いやもういいわい！　いまは仕事の話じゃ！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "21:56",
+      "content": "テーブルを人差し指でとんとんとんと突く"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:56",
+      "content": "「うん、おはなしおねがい、マロンさん」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "21:56",
+      "content": "やや呆れた様子でため息をついて、"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:56",
+      "content": "このメンツ大丈夫でしょうか……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "21:56",
+      "content": "「……まずは、これを見てちょうだい」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:56",
+      "content": "（『もういい』と言われたので素直に抱きかかえてあげたまま）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:57",
+      "content": "<ruby><rb>私</rb><rp>（</rp><rt>わたくし</rt><rp>）</rp></ruby>がしっかりしなければ……！（くいっ）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "21:57",
+      "content": "マロンは手に持った資料の中から二枚をテーブルの上に置き、君たちの方に向ける。"
+    },
+    {
+      "type": "still",
+      "imageSrc": "/img/strange-mansion/resources/map_1F.png",
+      "alt": "屋敷1階の図面",
+      "caption": "屋敷1階の図面"
+    },
+    {
+      "type": "still",
+      "imageSrc": "/img/strange-mansion/resources/map_2F.png",
+      "alt": "屋敷2階の図面",
+      "caption": "屋敷2階の図面"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:57",
+      "content": "「なんじゃ？　魔動機文明語の……なんぞ間取りみたいじゃな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:57",
+      "content": "大丈夫、知力は高いはず。トータルでは"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "21:57",
+      "content": "「そう。間取り」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "21:57",
+      "content": "「これは、あなたたちに探索してもらう屋敷の間取りよ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:58",
+      "content": "「何かあるのか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:58",
+      "content": "「ふむ……」じーっと間取りを見てみる。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "21:58",
+      "content": "「魔導器文明時代に建てられた古いものでね、だから間取り図の言語も、魔動機文明語になっている」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:58",
+      "content": "「間取りまで分かっているのに、わざわざ調査を？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:59",
+      "content": "「この間取り……何か変……」魔動機文明言語は分かるので、部屋の分類も読めている。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:59",
+      "content": "「わざわざワシらが冒険する必要がある何かがある家って事かか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:59",
+      "content": "ノ　ル　マ　達　成"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "21:59",
+      "content": "「……少なくとも、依頼主はそう判断したみたい」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:59",
+      "content": "この屋敷……何か変"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:59",
+      "content": "「そーなの？」（きょとん"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "21:59",
+      "content": "「これから、依頼主からの手紙を読み上げます」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:00",
+      "content": "「ええ──ひとまずは、依頼主様のお話を優先いたしましょう」くい、と眼鏡を直す。"
+    },
+    {
+      "type": "request",
+      "title": "屋敷の調査依頼",
+      "content": [
+        "先日、友人のウィローヒルズ氏が魔動機文明時代に建てられたという朽ちた屋敷を購入しました。",
+        "近々リフォームして住む予定だそうですが、屋敷には良くない噂があり、 入手した屋敷の図面もなんだか奇妙なので冒険者の皆さんに事前に調査していただきたいのです。",
+        "",
+        "（備考：この依頼の件についてはウィローヒルズ氏に確認をいただいています。",
+        "屋敷にモンスターや魔法生物、魔動機などがいた場合は、討伐・破壊しても構わないとのことです。",
+        "また、発見した物品については好きにしてもらって構わないと聞いています。",
+        "ですが、屋敷の施設等はなるべくそのままにしておいて欲しいとのことでした）",
+        "",
+        "屋敷の来歴について知りたければ彼に屋敷を売った土地所有者に尋ねてください。",
+        "土地所有者の居住地の情報と魔導器文明語で書かれた屋敷の図面を添付しておきます。",
+        "",
+        "～依頼主：レイホール～"
+      ]
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:01",
+      "content": "「……以上」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:02",
+      "content": "<ruby><rb>雨</rb><rp>（</rp><rt>レイ</rt><rp>）</rp></ruby>　<ruby><rb>穴</rb><rp>（</rp><rt>ホール</rt><rp>）</rp></ruby>……ってコト！？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:02",
+      "content": "お気づきに"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:02",
+      "content": "「よくない噂、のう……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:02",
+      "content": "「なんだろうね。おばけとかでるのかな？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:02",
+      "content": "「良くない噂……何があったのかしら」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:02",
+      "content": "「べ、別に怖いとかじゃなくて！ちょっと……気にならない？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:03",
+      "content": "「ああ、今回のメンツの理由が少し分かったけぇ。　炎は使わない奴らをあつめたんじゃな？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:03",
+      "content": "「<ruby><rb>私</rb><rp>（</rp><rt>わたくし</rt><rp>）</rp></ruby>も同意いたします。」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:03",
+      "content": "「なに、幽霊なんぞワシの魔道の手にかかれば簡単じゃき！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:03",
+      "content": "「加えて私の場合は……魔動機文明語を扱えるのが今回抜擢された理由でございましょうか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:03",
+      "content": "「まあ、そうね。仮に戦闘になったとしても屋敷への被害がなるべく少なるなるメンバーにしたつもり」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:04",
+      "content": "「すごい！　あたまいーコンビだ！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:04",
+      "content": "「それも当たり。魔導器文明時代のものとなれば、その時代の言語で書かれた文書もあるでしょうし」&gt;トゥーアに"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:04",
+      "content": "「あ、わかった。じゃあラヴィとイングは前でぼこすかする係でしょ！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:04",
+      "content": "あ、そういう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:04",
+      "content": "（えっへんと胸を張る"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:05",
+      "content": "ウィロー：柳"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:05",
+      "content": "柳岡→ウィローヒルズ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:05",
+      "content": "なるほどね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:05",
+      "content": "「まあ、そうね。さすがに前衛が不在では困るでしょうから」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:05",
+      "content": "「……目付け役ってこと…………？」頭痛が痛いのポーズ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:06",
+      "content": "「ぼこすかって…まぁ長物振り回すよりはたしかにマシなのか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:06",
+      "content": "「いえ、やる。頼まれたからにはやるから。完遂して見せるわ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:06",
+      "content": "「えへへ、おーあたり。がんばろーねイング！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:07",
+      "content": "「前線は任せるけぇの。　ワシは後ろから支援しちゃる。天才じゃからな！！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:07",
+      "content": "「あぁ。やるからにはしっかりしないとな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:07",
+      "content": "「お二人とも<ruby><rb>拳闘士</rb><rp>（</rp><rt>グラップラー</rt><rp>）</rp></ruby>ということで。ラヴィ様とイング様の腕前を頼りにさせて頂きます」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:08",
+      "content": "微笑みと共に傍らのガンベルトを揺らす。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:09",
+      "content": "「……さて。人選について納得してもらえたところで前渡し報酬の方を渡しましょうか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:09",
+      "content": "1人につき一個ずつ〈ヒーリングポーション〉が与えられます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:10",
+      "content": "「ほお！　太っ腹じゃなあ！」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:10",
+      "content": "「有難く頂きます。即効の回復薬ですね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:11",
+      "content": "「助かる」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:11",
+      "content": "「わーい、ありがとー！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:11",
+      "content": "お薬とても助かる～"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:12",
+      "content": "「ちなみに、そんなことにはならないと思うけれど——調査が長引くようなら屋敷の土地を持つハヴィングランド氏の家に泊めてもらって」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:12",
+      "content": "「彼の家は屋敷の付近にあるから」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:12",
+      "content": "おいしいぜ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:12",
+      "content": "たすかります"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:13",
+      "content": "と言って、依頼の手紙に添えられていたハヴィングランドの家の位置の情報を冒険者たちに渡す"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:13",
+      "content": "「確か……その方が屋敷の来歴もご存知ということでしたね」くいっ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:13",
+      "content": "「あ、じゃあ先におはなし聞きにいったほーがいーのかな？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:14",
+      "content": "「かもね。中の様子とか事前に分かったら嬉しいわ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:14",
+      "content": "「近いなら都合がええ、ついでに話が聞けるなら聞いたほうがいいじゃろ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:14",
+      "content": "「情報は少しでも多い方がいいからな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:15",
+      "content": "「顔通しも兼ね、一度ご挨拶に伺う事を提案致します。」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:15",
+      "content": "「じゃあハヴィングランドさんのお家に寄ってから、ウィローヒルズさんのお家だね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:16",
+      "content": "「『カシオリ』を仕入れる資金があればよかったのですが……」しょぼん。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:16",
+      "content": "ちがった、お家の持ち主は柳岡さんだ（汗）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:16",
+      "content": "あぶないあぶない。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:16",
+      "content": "「菓子……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:17",
+      "content": "「まぁ俺たち『駆け出し』だからな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:17",
+      "content": "「いや」「今は仕事に集中しないと……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:17",
+      "content": "「左様でございますね、イング様。」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:17",
+      "content": "「出来る事から着実にやって参りましょう」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:18",
+      "content": "「冒険者にそんなもん求めておらんじゃろ。　気にせんでええ」　元役人仕え視点"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:18",
+      "content": "「おかし、がんばればもらえたりするよ！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:19",
+      "content": "「土産を渡したいっちゅうなら、さっさとこの屋敷がええもんか悪いもんか調べた土産話をもってけばええじゃろ」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:19",
+      "content": "「ほ、本当かしら……」傾いている＞おかし"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:19",
+      "content": "「……それと、もしあなたたちが調査に行き詰まったときのためにこれを貸しておきます」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:19",
+      "content": "そう言ってマロンは耳飾りのような道具を君たちの前に1個だけ出す"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:20",
+      "content": "「ん？これは？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:21",
+      "content": "「魔道具の類でしょうか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:21",
+      "content": "「それは通話のピアス（ET p.142）の片割れ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:21",
+      "content": "「そ、それ……相当値が張るやつだったはずじゃ……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:21",
+      "content": "「ええ。私の私物です」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:21",
+      "content": "「多分ワシらの報酬総額と同じぐらいじゃろソレ」（多分もっと多い）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:22",
+      "content": "あ、そうか。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:22",
+      "content": "今更だけど、マロンさんが栗原さんなのかｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:22",
+      "content": "「なんと」目が大きく開かれている。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:22",
+      "content": "そういうことですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:22",
+      "content": "ハッ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:22",
+      "content": "「もう片方はマロンさんが持ってるのか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:22",
+      "content": "「ほへ～すごいねぇ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:23",
+      "content": "「──で、どんなのなの？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:23",
+      "content": "（なんかすごそうなことくらいしかわからなかった"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:23",
+      "content": "「これに話しかけると一日に一回、10分だけ、ピアスのもう片方を持ってる人と話ができます」"
+    },
+    {
+      "type": "still",
+      "imageSrc": "/img/strange-mansion/stills/telephonePierce.png",
+      "alt": "通話のピアスについて説明するマロン",
+      "caption": "「要するに、どんなに遠く離れていても私と会話できるの」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:24",
+      "content": "「あなたたちが探索に行き詰まったときはそれを使って。私がアドバイスしてあげるから」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:24",
+      "content": "このピアス"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:24",
+      "content": "つまりマロンさんの「ここからは私の推測なのですが」が聞ける……ってコト！？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:25",
+      "content": "そういう事だったとは……！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:25",
+      "content": "そういうことです"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:25",
+      "content": "通話のピアス、言うて高いからないやろなーと思ってたが　本当に貸与してくれるとは……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:25",
+      "content": "「ありがとうございます。必要になった際は遠慮なく頼らせて貰えれば」くいっ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:25",
+      "content": "ちゃんと終わったら返そうね！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:26",
+      "content": "「すごーい！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:26",
+      "content": "「ありがとー、マロンさん！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:26",
+      "content": "「ほお……まあ大体の事はワシらがやっちゃる。　保険ぐらいに借りておくけぇ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:26",
+      "content": "「ええ。万一の時はあなたたちが一時間かけても解けない謎があったとしても、5分で解いて残りの5分で丁寧に解説してあげましょう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:26",
+      "content": "よくみたら20000Gだった、報酬総額より遥かに高い"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:26",
+      "content": "「ず、ずいぶんな自信ね……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:27",
+      "content": "原作の栗原さん、割と性格悪いし友達にはなりたくないタイプの人なんですよね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:27",
+      "content": "すごいたかい！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:27",
+      "content": "「すごいな…」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:27",
+      "content": "マロンのこの発言はその辺イメージしてます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:27",
+      "content": "「独学の身ではありますが、負けていられませんね……！」くいっ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:28",
+      "content": "「なんぞ気になる言い方じゃのう……まあええわい」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:28",
+      "content": "「つまり私たちは実働隊というわけね？難しい依頼でもなさそうだし、さっさと終わらせましょ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:28",
+      "content": "記事版栗原さんも今この話する…？感はあったが"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:28",
+      "content": "そんなに"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:29",
+      "content": "「それじゃ、屋敷の調査、頑張ってね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:29",
+      "content": "「うんっ、ラヴィがんばるね！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:29",
+      "content": "まぁ雨穴と栗原は悪友って感じよな"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:29",
+      "content": "「じゃあ行くとするか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:29",
+      "content": "「委細承知いたしました。」「トゥーア、頑張ります」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:29",
+      "content": "「うし、出陣じゃあああああああああああああ！！！！！」うるさい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:30",
+      "content": "ふふふ、素直だからそうした京言葉的なあれは通じないぞ、ラヴィｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:30",
+      "content": "＜がんばれと言われれば素直にがんばる子"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:30",
+      "content": "トゥーア・ルベス、4ちゃいです"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:30",
+      "content": "「ぇ゛っ……」音圧によろめく"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:30",
+      "content": "おわかい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:30",
+      "content": "そうだ、今日はおねいさんだからがんばらねば。"
+    }
+  ]
+}

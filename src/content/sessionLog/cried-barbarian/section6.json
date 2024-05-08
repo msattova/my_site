@@ -1,0 +1,2838 @@
+{
+  "title": "邂逅",
+  "sectionNum": 6,
+  "data": [
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "20:55",
+      "content": "こんばんはー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "20:58",
+      "content": "wa"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:01",
+      "content": "きました"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:02",
+      "content": "あとはドリュウさん待ちですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:10",
+      "content": "来た"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:10",
+      "content": "やあ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:11",
+      "content": "見た"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:11",
+      "content": "勝った！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:11",
+      "content": "ではこれで全員ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:11",
+      "content": "揃いましたね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:11",
+      "content": "では開始します"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:11",
+      "content": "よろしくお願いしますー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:12",
+      "content": "やるぜ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:12",
+      "content": "よろしくお願いします"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:12",
+      "content": "よろしゅ～"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:13",
+      "content": "君たちは草原を抜け城壁の前に広がる前庭へと足を踏み入れた"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:14",
+      "content": "繰り広げられている戦のためだろうか、"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:14",
+      "content": "あちこちが踏み荒らされて見るも無惨な有様である。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:15",
+      "content": "そして、君たちが足を踏み入れたその時。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:15",
+      "content": "奥に見える城門が開き蛮族の小部隊が現れた。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:16",
+      "content": "蛮族たちは君たち冒険者に気付いた様子はなく、そのまま左手に見える陣地へと一目散に走っていく。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:19",
+      "content": "「今のは……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:19",
+      "content": "「不意打ちの機会と見るか、侵入のチャンスと見るべきか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:19",
+      "content": "「わたしは、前者と見る。放置しておいて挟撃されたらうまくない」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:20",
+      "content": "「あれが蛮族の根城ってことね。占領された城を奪還するみたいなシチュエーション？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:21",
+      "content": "「そもそも蛮族は誰と戦っているんだ？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:22",
+      "content": "「……それを確かめるには、さっきから戦闘の音が聞こえるあちら——陣地の方へ行くしかなさそう……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:22",
+      "content": "「わたしは行きたい。君たちはどう思うね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:22",
+      "content": "「へぇ、案外血の気あるんだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:23",
+      "content": "「私も賛成。ひょっとしたら味方を増やせるかもだし」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:23",
+      "content": "「老いてなお盛んと言うやつさ。これで、な」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:24",
+      "content": "「決まりだ。乗り込もうぜ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:25",
+      "content": "「エルフの歳を数えるのは角持ちくらいよ。ま、ついでに件の少年が混じってないか探しておこう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:25",
+      "content": "「……………………」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:26",
+      "content": "ツノアリヒトモドキ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:27",
+      "content": "差別ワードだ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:27",
+      "content": "エリア移動：前庭→陣地"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:28",
+      "content": "木の柵で守られた小さな陣地は、今まさに蛮族の部隊と戦っているところだった。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:28",
+      "content": "キャキャッ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:28",
+      "content": "正面の柵は破壊され、陣地を守る兵士の数はもう5、6人しかいない"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:28",
+      "content": "しかも指揮をしているのは、まだ幼い、金髪の少年だ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:29",
+      "content": "ふむ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:29",
+      "content": "ほう、ショタ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:30",
+      "content": "攻める蛮族の数に比して、兵士たちはあまりに少ない。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:30",
+      "content": "この陣地はもはや風前の灯と言えた。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:31",
+      "content": "しかし、君たちが加勢すれば、状況を打開できるかもしれない"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:31",
+      "content": "というわけで金髪の少年たちに加勢し、助けようとするなら、蛮族との戦闘になります。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:32",
+      "content": "「わたしはいく。子供はこの世の宝だ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:32",
+      "content": "「子どもとは、そうであるだけで守られるべきものだ。何者であれ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:33",
+      "content": "「あれが、この場に迷い込んだ愚物だとしても、死ぬほどの罪悪ではなかろうよ、子供ならな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:34",
+      "content": "（……大人なら見捨ててたって言ってるようにも聞こえるんですけど）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:35",
+      "content": "「ま、あの少年が件のアルくんかもしれないしね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:35",
+      "content": "「現地人かもしんないけどね～。一先ず、小さな将軍にはご挨拶してから行こうじゃないか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:36",
+      "content": "「よし、突っ込むぞ！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:37",
+      "content": "「話を聞かない脳筋がいるんだった……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:37",
+      "content": "そのままアレックスに突っ込まされてしまおうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:37",
+      "content": "「いいじゃなないか、おとりだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:38",
+      "content": "「……挨拶は、勝ってからでも遅くはないだろうしまあ、いいんじゃないかな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:38",
+      "content": "「オトナの野郎は、子どもの盾になって死ぬくらいで丁度いい」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:38",
+      "content": "「それに、子供を見捨てて、何が大人なものかね。どんな生き方であれな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:39",
+      "content": "では戦闘準備～"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:39",
+      "content": "なにかありますか？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:39",
+      "content": "なし！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:39",
+      "content": "特にないぜ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:40",
+      "content": "特には"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:40",
+      "content": "お次はまもちき"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:41",
+      "content": "今回の敵は3種"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:41",
+      "content": "２ｄ６<br>SwordWorld2.5 : (2D6) → 5[2,3] → 5"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:41",
+      "content": "うち一体はゴブリンなので2回おねがいします"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:41",
+      "content": "2ｄ6+5<br>SwordWorld2.5 : (2D6+5) → 3[1,2]+5 → 8"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:41",
+      "content": "x2 2d6 平目<br>SwordWorld2.5 : #1<br>(2D6) → 12[6,6] → 12<br><br>#2<br>(2D6) → 11[6,5] → 11"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:41",
+      "content": "？？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:41",
+      "content": "眼帯姉御は一味違った"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:42",
+      "content": "ドーチェさんが前回に引き続きすごい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:43",
+      "content": "敏捷かな？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:43",
+      "content": "ちょっと待ってくださいね……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:44",
+      "content": "x2 2d6+4  まもちき<br>SwordWorld2.5 : #1<br>(2D6+4) → 8[4,4]+4 → 12<br><br>#2<br>(2D6+4) → 10[4,6]+4 → 14"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:45",
+      "content": "お、弱点まで抜けた"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:45",
+      "content": "すいません、焦りすぎてた……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:45",
+      "content": "敵の構成はダガーフッドx1、ゴブリンx1、ボルグx1です"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:47",
+      "content": "立ち絵は全部ゴブリンですがあくまでゴブリンは一体だけですのでよしなに"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:48",
+      "content": "ではお次は先制ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:48",
+      "content": "よしきた"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:48",
+      "content": "目標値は11"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:48",
+      "content": "２ｄ６<br>SwordWorld2.5 : (2D6) → 6[2,4] → 6"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:48",
+      "content": "2d6+3<br>SwordWorld2.5 : (2D6+3) → 9[3,6]+3 → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:48",
+      "content": "2d6  平目<br>SwordWorld2.5 : (2D6) → 8[3,5] → 8"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:49",
+      "content": "2ｄ6+4<br>SwordWorld2.5 : (2D6+4) → 8[2,6]+4 → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:49",
+      "content": "では先制も取れたので初期配置決めましょう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:50",
+      "content": "後衛！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:50",
+      "content": "前にいとこうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:50",
+      "content": "うしろー"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:51",
+      "content": "全員後ろか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:52",
+      "content": "前でいいんだっけ個のパーティ？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:52",
+      "content": "後ろにいても貰うもんないね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:52",
+      "content": "じゃあ前で"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:53",
+      "content": "敵はゴブリン、ダガーフッドが前、ボルグが後方にいます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:54",
+      "content": "では戦闘開始！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:54",
+      "content": "まず誰から動きます？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:54",
+      "content": "じゃあ行きます、"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:54",
+      "content": "次行きます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:54",
+      "content": "ゴブリンにシールドバッシュ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:55",
+      "content": "2d6+6 命中<br>SwordWorld2.5 : (2D6+6) → 12[6,6]+6 → 18"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:55",
+      "content": "今回も基本固定値で処理します"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:55",
+      "content": "つよい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:55",
+      "content": "当たりました"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:55",
+      "content": "k17+5@11<br>SwordWorld2.5 : KeyNo.17c[11]+5 → 2D:[3,3]=6 → 4+5 → 9"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:56",
+      "content": "防護点2点なので7点のダメージ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴブリン",
+      "color": "#000000",
+      "timestamp": "21:56",
+      "content": "ゴブリンのHPを7減少(16 → 9)"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:57",
+      "content": "そして追加効果で転倒させる！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴブリン",
+      "color": "#000000",
+      "timestamp": "21:57",
+      "content": "ゴブッ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴブリン",
+      "color": "#000000",
+      "timestamp": "21:58",
+      "content": "うーんシールドバッシュつよい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:58",
+      "content": "流石だね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:58",
+      "content": "頭突きもあるしね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:59",
+      "content": "頭突きは同じくゴブリンに２点"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴブリン",
+      "color": "#000000",
+      "timestamp": "21:59",
+      "content": "防護点無視の頭突きつよーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴブリン",
+      "color": "#000000",
+      "timestamp": "21:59",
+      "content": ""
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴブリン",
+      "color": "#000000",
+      "timestamp": "21:59",
+      "content": "ゴブリンのHPを2減少(9 → 7)"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:00",
+      "content": "魔法はダガーフットの法が良いかな"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:00",
+      "content": "それとも、削れてるゴブリン？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:00",
+      "content": "こっちが殴ってから考えよう"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:00",
+      "content": "はい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:00",
+      "content": "転倒のメリットの都合もあるからね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:01",
+      "content": "んじゃあ転んでるうちに"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:01",
+      "content": "ドーチェさんがゴブリン殴ってからノーナさんって感じですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:01",
+      "content": "了解"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:02",
+      "content": "2d6+5 キャッツアイからの命中　ゴブリンに必殺攻撃<br>SwordWorld2.5 : (2D6+5) → 9[4,5]+5 → 14"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:03",
+      "content": "いけーっ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:03",
+      "content": "あおっと＋１入力忘れてた"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴブリン",
+      "color": "#000000",
+      "timestamp": "22:03",
+      "content": "まあどっちにしろヒット"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:04",
+      "content": "k28+5#1<br>SwordWorld2.5 : KeyNo.28c[10]a[+1]+5 → 2D:[1,5]=7 → 6+5 → 11"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴブリン",
+      "color": "#000000",
+      "timestamp": "22:04",
+      "content": "これは……死"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴブリン",
+      "color": "#000000",
+      "timestamp": "22:04",
+      "content": "ゴブリンのHPを9減少(7 → -2)"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴブリン",
+      "color": "#000000",
+      "timestamp": "22:05",
+      "content": "「ゴブブッ……！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:06",
+      "content": "「いっちょアガリ～～」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:06",
+      "content": "「やるね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:07",
+      "content": "「お見事！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:07",
+      "content": "では次はノーナさんかな"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:08",
+      "content": "はーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:08",
+      "content": "前衛のボルクにエネルギーボルト"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:08",
+      "content": "このメンバーの場合、転倒させれらるPCがいるので、転倒させる→転倒した敵を他の前衛が殴る→攻撃魔法　の順序が一番オトクですね　転倒中が一番近接攻撃は当てやすいので、魔法はその結果みてから対象を決める"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:08",
+      "content": "前衛はダガーフッドですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:08",
+      "content": "ミス！　ダガーフッド"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:08",
+      "content": "に"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:09",
+      "content": "2ｄ6+5<br>SwordWorld2.5 : (2D6+5) → 7[6,1]+5 → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:09",
+      "content": "OK。抵抗失敗です"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:09",
+      "content": "k10+5<br>SwordWorld2.5 : KeyNo.10c[10]+5 → 2D:[5,3]=8 → 4+5 → 9"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:09",
+      "content": "二点追加ァ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:09",
+      "content": "つよい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ダガーフッド",
+      "color": "#000000",
+      "timestamp": "22:09",
+      "content": "ダガーフッドのHPを11減少(12 → 1)"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:10",
+      "content": "「ギリギリまでは追い込んだ、後は任せるぞ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:10",
+      "content": "「了解！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:10",
+      "content": "では手番もらって、ダガーフッドにトドメの一撃をば"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:10",
+      "content": "2d6+4 命中<br>SwordWorld2.5 : (2D6+4) → 8[6,2]+4 → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:11",
+      "content": "ヒット"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:11",
+      "content": "k22+4@10  ダメージ<br>SwordWorld2.5 : KeyNo.22c[10]+4 → 2D:[4,5]=9 → 7+4 → 11"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:11",
+      "content": "はーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:11",
+      "content": "範囲攻撃覚えてえなぁ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:11",
+      "content": "ヨシ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ダガーフッド",
+      "color": "#000000",
+      "timestamp": "22:12",
+      "content": "「ダギャギャーッ！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:12",
+      "content": "瀕死のダガーフッドに狙い定め矢を放つ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:13",
+      "content": "吸い込まれるように矢はダガーフッドを刺した。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:13",
+      "content": "「……これで、よしっと」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:13",
+      "content": "「残り一匹だ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:13",
+      "content": "では敵のターン"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:15",
+      "content": "前に出て……適当に前衛を攻撃！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:15",
+      "content": "choice[アレックス, ドーチェ]<br>SwordWorld2.5 : (choice[アレックス,ドーチェ]) → アレックス"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:15",
+      "content": "アレックスを狙います"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:15",
+      "content": "命中は固定値で処理して11"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "22:15",
+      "content": "２ｄ６＋７　回避<br>SwordWorld2.5 : (2D6+7) → 5[1,4]+7 → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:15",
+      "content": "回避成功！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:16",
+      "content": "「ボルーーーーーっっっ！」ぶん……と武器を振り回す"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:16",
+      "content": "が、しかし"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:17",
+      "content": "攻撃は空振り。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:17",
+      "content": "ではPCたちのターンですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:18",
+      "content": "はーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "22:18",
+      "content": "ボルグにシールドバッシュ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "22:18",
+      "content": "２d６+２+２+２　命中<br>SwordWorld2.5 : (2D6+2+2+2) → 6[2,4]+2+2+2 → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:18",
+      "content": "ヒット"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "22:19",
+      "content": "k17＋５@１１<br>SwordWorld2.5 : KeyNo.17c[11]+5 → 2D:[2,2]=4 → 2+5 → 7"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:19",
+      "content": "防護点3点あるので4点もらいます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:19",
+      "content": "そして転倒"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:20",
+      "content": "ボルグのHPを4減少(23 → 19)"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:20",
+      "content": "なるほど"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:20",
+      "content": "シールドバッシュは"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:21",
+      "content": "盾役と回避の療法をやれる優秀な技なんだな"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:22",
+      "content": "「ボルっ！？」どしん。と倒れる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:23",
+      "content": "では次だれいきます？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:23",
+      "content": "動こうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:23",
+      "content": "2d6+5+1 命中、必殺攻撃<br>SwordWorld2.5 : (2D6+5+1) → 6[3,3]+5+1 → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:23",
+      "content": "ヒット"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:24",
+      "content": "k28+5#1<br>SwordWorld2.5 : KeyNo.28c[10]a[+1]+5 → 2D:[5,1]=7 → 6+5 → 11"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:24",
+      "content": "8点受けます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:25",
+      "content": "あ、いや弱点が物理ダメージ+2か"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:25",
+      "content": "さっきのも忘れてたな……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:25",
+      "content": "じゃあ決着だ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:25",
+      "content": "ボルグのHPを2減少(19 → 17)"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:25",
+      "content": "「杖が欲しいなら剣をあげよう！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:25",
+      "content": "ボルグのHPを10減少(17 → 7)"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:25",
+      "content": "弱点すっかり忘れてたわね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:26",
+      "content": "姓名点とHP見間違えた"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:26",
+      "content": "なるほど"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:27",
+      "content": "では次手番もらいます。イエサラでトドメさせればノーナさんのMPも節約できますし"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:27",
+      "content": "いけーっ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:27",
+      "content": "2d6+4  命中<br>SwordWorld2.5 : (2D6+4) → 7[6,1]+4 → 11"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:27",
+      "content": "転倒中だからセーフかな"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:28",
+      "content": "k22+4@10<br>SwordWorld2.5 : KeyNo.22c[10]+4 → 2D:[4,1]=5 → 3+4 → 7"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:29",
+      "content": "防護点が3点で弱点で+2なので……6点のダメージ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:29",
+      "content": "ボルグのHPを6減少(7 → 1)"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:30",
+      "content": "「ちっ。仕留めきれなかった」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:30",
+      "content": "お膳立てが上手いGMの鑑"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:30",
+      "content": "「後は任せてもらおう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:30",
+      "content": "エネルギーボルト"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:30",
+      "content": "照れるぜ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:31",
+      "content": "2ｄ6+5<br>SwordWorld2.5 : (2D6+5) → 10[5,5]+5 → 15"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:31",
+      "content": "抵抗失敗！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:31",
+      "content": "k(10)+5<br>SwordWorld2.5 : KeyNo.10c[10]+5 → 2D:[6,4 5,4]=10,9 → 5,5+5 → 1回転 → 15"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:31",
+      "content": "回った！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "22:31",
+      "content": "尾、まわっとる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:31",
+      "content": "ボルグのHPを15減少(1 → -14)"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:31",
+      "content": "では、イエサラさんの矢が刺さった位置に直撃させます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:31",
+      "content": "「君の一手があったからこそ、討てた」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:32",
+      "content": "「君は、良い腕をしているよ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:32",
+      "content": "「あはは。そんな風に言ってもらえると嬉しいね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ボルグ",
+      "color": "#000000",
+      "timestamp": "22:33",
+      "content": "「…………っ！」泣きっ面に蜂。叫ぶこともできず絶命した"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:33",
+      "content": "では戦闘終了！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:33",
+      "content": "剥ぎ取りやっちゃいましょう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "22:34",
+      "content": "２ｄ６　フッド<br>SwordWorld2.5 : (2D6) → 5[4,1] → 5"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:34",
+      "content": "なし！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:34",
+      "content": "ボルグ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:34",
+      "content": "2ｄ6<br>SwordWorld2.5 : (2D6) → 8[3,5] → 8"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:34",
+      "content": "意匠を凝らした武器（150G/白黒A）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:35",
+      "content": "2d6 ごぶ<br>SwordWorld2.5 : (2D6) → 7[5,2] → 7"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:35",
+      "content": "武器（30G/黒白B）"
+    },
+    {
+      "type": "message",
+      "tabNum": "2",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:36",
+      "content": "【vs蛮族混成小隊】戦利品<br>意匠を凝らした武器（150G/白黒A）<br>武器（30G/黒白B）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "22:36",
+      "content": "「とにかく倒せたな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:37",
+      "content": "「ああ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:37",
+      "content": "豪勢な武器を確保しつつ、子どものもとに向かう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:38",
+      "content": "では君たちが少年のもとへ向かうと、少年は君たちに気付いたようだ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:38",
+      "content": "「あ、先ほどはありがとうございました！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:39",
+      "content": "「もしかして、あなたたちは冒険者の方々、ですか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:39",
+      "content": "「ああ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:39",
+      "content": "「君は？　小さな将軍さん」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:39",
+      "content": "「僕の名前はアルです」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:40",
+      "content": "「そっか……冒険者の人達がここに来てるってことは、ちゃんと依頼を出してくれたんだ……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:40",
+      "content": "と、小さく安堵する"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:40",
+      "content": "「ああ、君の恋人の、フィナだったか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:41",
+      "content": "「彼女の涙が枯れ果てるまえに君が見つかってよかったよ。君の師匠に合わせる顔が出来たというものだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:41",
+      "content": "「……っ！　あいつは、フィナはそんなんじゃないから！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:41",
+      "content": "「そ、そんなことより！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:42",
+      "content": "「あなたたちはこれから、この魔域の核を壊しに行くんですよね？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:43",
+      "content": "「そして、君を連れ帰る」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:44",
+      "content": "「なら、核を壊しに行くのに、僕も同行させてくれませんか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:44",
+      "content": "「僕……は戦力にならないかもしれないけど、僕の指示に従ってくれる騎士——あいつらは、役に立つはずです」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:44",
+      "content": "アルの指差す先には、金属鎧を纏った兵士たちがいた。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:45",
+      "content": "数は6人。どことなく存在感のない、尋常の生き物とは思えない雰囲気だ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "22:45",
+      "content": "「その兵士は君が作ったのか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:46",
+      "content": "「……たぶん。僕が魔域に入ってしばらくして、気がついたらこいつらがその辺をうろついてました」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:46",
+      "content": "「それで、声をかけてみたら僕の指示に従ってくれるみたいで……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:46",
+      "content": "「魔域の……まあ、システムみたいなもんだね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:47",
+      "content": "「僕が今まで生きていられたのも、こいつらが蛮族と戦ってくれたからです」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:48",
+      "content": "「君、それは本音なのかもしれないが」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:48",
+      "content": "「フィナくんに合うときには、君を思っていたから生き残れたといい給えよ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:48",
+      "content": "「こういうことは、大事なのだ。いろいろ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:49",
+      "content": "「えっ……うーん？　よくわかんないですけど……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:49",
+      "content": "「まあ、そうしときます」と言わないと逃がしてくれそうにない気がした"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:50",
+      "content": "「そ、それより、僕も一緒に行って構いませんか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:50",
+      "content": "「みな、どう思う」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:51",
+      "content": "「ここを襲撃してた蛮族はあらかた片がつきましたが、あの城の方にはまだまだいるはずです」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "22:51",
+      "content": "「ついてきても無理はしないで欲しいな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:51",
+      "content": "「いくら冒険者さんたちでも、あの数は大変かな……なんて思うんです、けど……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:52",
+      "content": "「ふぅん……」まもちき？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "22:53",
+      "content": "何に対するまもちきでしょう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:54",
+      "content": "「私も、無茶はしないならいいかなって思うけれど」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:55",
+      "content": "アルに対して"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:56",
+      "content": "アルに対して魔物ではないかと疑う場合はまず真偽判定ですかね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:56",
+      "content": "まあ要するに実力を測るって意味ね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:56",
+      "content": "あ、そういう……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "22:57",
+      "content": "データ的にどんな程度か見て測ってみたい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "22:57",
+      "content": "データは用意してないですね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:58",
+      "content": "じゃあ、私もまもちき振りたい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:59",
+      "content": "これはデータ要求じゃなくて、半分フレーバーで"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "22:59",
+      "content": "ビビって股間が縮こまってねえかという、ハラスメント度胸試し"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "22:59",
+      "content": "疑繰り深いなあ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:00",
+      "content": "だめならやめます"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:00",
+      "content": "このゲーム、猫も杓子もデータは「魔物データ」だからねぇ……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:00",
+      "content": "うーむ……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:01",
+      "content": "まぁ下ネタのフレーバー判定なんで、めんどかったらそれだけでアウトでいいです"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:01",
+      "content": "（度胸試しをセージ+知力で振らせるのは妥当ではないのでは）と考えている"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:01",
+      "content": "な、なるほど"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:03",
+      "content": "任意の修得してる技能のレベル+知力で振ってもらいましょうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:03",
+      "content": "では、スカウト知力で5"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:03",
+      "content": "たしかに……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:03",
+      "content": "4だ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:03",
+      "content": "10以上ならビビリます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:04",
+      "content": "2ｄ6+4<br>SwordWorld2.5 : (2D6+4) → 12[6,6]+4 → 16"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "23:04",
+      "content": "草"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:04",
+      "content": "ここで6ゾロかあ……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:04",
+      "content": "大人げない！！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:04",
+      "content": "では、ノーナは不意打ち気味にアル少年の股間を鷲掴みにして"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:04",
+      "content": "縮こまっているのを発見します。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:04",
+      "content": "「君は、怯えているね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:04",
+      "content": "「ちょっ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:04",
+      "content": "「えっ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "23:05",
+      "content": "「……なっ！？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "23:05",
+      "content": "「ど、どこ掴んでんだよアンタ！」いきなりの行動に敬語が抜け落ちる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:06",
+      "content": "「君にあるのは勇猛でない、そうならば、君のここには熱血通っている筈だ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:06",
+      "content": "「君の、男の証だが」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:06",
+      "content": "「……だが、君は縮んでいる。恐れている」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:06",
+      "content": "「ならばこそ、私は君を連れて行くことに賛成しよう。勇猛な子供は始末に追えないが」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:07",
+      "content": "「蛮族の前にお前に怯えるだろ！！」引きはがしておこう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:07",
+      "content": "「内に恐怖を持ち、宿すものは無謀をめったにしないものだからな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:07",
+      "content": "「あ、こら、まて、フォルト家伝統の恐怖判定術だぞ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:07",
+      "content": "引き剥がされた"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:08",
+      "content": "「どこにそんな陰湿な森があるのよ……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "23:08",
+      "content": "「………………」ぺたり。脚から力が抜けてしまう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "23:08",
+      "content": "こわ～"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:09",
+      "content": "「だ、大丈夫アルくん！？　ごめんね、なんかその……うん、ごめんね？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:09",
+      "content": "言葉が出てこないがとりあえず謝っておく"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:10",
+      "content": "「……闇の妖精に忘却させる魔法あったよね？」＞イサエラにｺｿｺｿと"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:10",
+      "content": "「あっ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:11",
+      "content": "「でも忘れさせるのはちょっと……無理、かも」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:11",
+      "content": "※【フォーゲット】ランク13"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:12",
+      "content": "アルくんの股間を最初に握ったのはフィナではない、このノーナだ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:12",
+      "content": "「そもそも今日は闇の妖精さんとは契約してないし…………」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:12",
+      "content": "「いいではないか。この年頃の男は、女に股間を掴まれて喜ぶものだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:12",
+      "content": "最低のハラスメント発言をしながら"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:12",
+      "content": "「それて、君たち、彼を連れて行くかね？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:13",
+      "content": "（うう……まさか闇の妖精と契約してなかったことを後悔することになるなんて……）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:14",
+      "content": "「……アルくんが、まだ私達と一緒に来たいって言ってくれるなら、まあ……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:14",
+      "content": "「ハァ……まあ、最低限の自衛は、できるね？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "23:14",
+      "content": "「………………はっ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:14",
+      "content": "つ、連れて行きづれ～～～～！！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "23:15",
+      "content": "「えっと、あ、はい。邪魔にならないように、死なないように動くくらいならできるつもりです」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:16",
+      "content": "「あの引き籠りからは距離を取って歩くんだヨ」（ｺｿｺｿと"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "23:16",
+      "content": "「大丈夫です……何も、何もなかったので……」顔をあおざめさせながら"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:17",
+      "content": "「死ぬなよ、少年」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:17",
+      "content": "（これは後日菓子折かな……）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:17",
+      "content": "「君が死んだら」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:18",
+      "content": "「君のフィナくんに君が亡くなる前に股間に触れ合う関係になったとあることないこと言うからな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:18",
+      "content": "「気張れよ？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:18",
+      "content": "「その場合は私が事実無根だと証言するからそのつもりで」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:19",
+      "content": "「まあ、それはそうと、頑張って生きてね……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:19",
+      "content": "「この引き籠りアガリは……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "23:19",
+      "content": "「今が一番死にたい気分かもしれないけど……ヤケだけは起こさないでね……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:20",
+      "content": "「ああ。生きていれば、良いこともあるさ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:20",
+      "content": "「ナイトメアがそう断ずるのだ。誰にとっても人生は絶望ばかりではない」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:20",
+      "content": "「どうしてくれようコイツ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:20",
+      "content": "「アルくん、君の冒険は、いい思い出で終わるとも」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:21",
+      "content": "「では、行こうか諸君」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "23:21",
+      "content": "「へいへい」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:22",
+      "content": "……まあ、そんなこんながあり。アルくんとアルくんの従える〈幻想の騎士〉たちが仲間になりました"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "23:22",
+      "content": "はい。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "23:22",
+      "content": "ゲットだぜ"
+    }
+  ]
+}

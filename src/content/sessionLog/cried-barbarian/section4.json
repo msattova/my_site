@@ -1,0 +1,558 @@
+{
+  "title": "キール村到着",
+  "sectionNum": 4,
+  "data": [
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:50",
+      "content": "……それからまた時間が経って"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:51",
+      "content": "君達を乗せた馬車はキール村へと到着した"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:51",
+      "content": "キール村は人口100人ほどの小村だ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:52",
+      "content": "住民のほとんどは農業従事者であり、狩人は現在ただ一人のみ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:52",
+      "content": "その狩人ですら蛮族と戦うのは困難であるのだから、この村が蛮族に襲われては当然、ひとたまりもない"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:54",
+      "content": "村に到着した君達を<ruby><rb>奈落の魔域</rb><rp>（</rp><rt>シャロウアビス</rt><rp>）</rp></ruby>へと案内する狩人、カルゼはそう言った"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "14:54",
+      "content": "「……だから、『蛮族を見た』なんてあいつが言ったらみんな大騒ぎしたんだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "14:55",
+      "content": "「けれど、それはぜんぶ勘違いや見間違いだった」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "14:56",
+      "content": "「俺はあいつ——アルの狩りの師匠みたいなもんでな、だからあいつが嘘をつくような奴だとは思っちゃいない」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "14:56",
+      "content": "「けれど、村長をはじめとする、多くの村人は違った」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "14:56",
+      "content": "「あいつは嘘吐きだ。興味を惹きたいがためにそんなことを言う——ってな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:57",
+      "content": "「ま、累犯じゃあねぇ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:58",
+      "content": "「で、現実として今、出ているのだろう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:58",
+      "content": "「嘘が本当になったとしても、初めから本当だとしても、わたしたちの仕事は変わらない」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "14:59",
+      "content": "「ま、そうだな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "14:59",
+      "content": "「……奈落の魔域を発見したのもアルだった」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:00",
+      "content": "「俺の娘——フィナと一緒に薬草摘みをしていたら、空に走るオーロラを見たんだとよ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:00",
+      "content": "「ハルーラ様の導きってやつさ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:01",
+      "content": "「で、アルはそのことをすぐ村人、村長に報告しようとした」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:01",
+      "content": "「けれど、その報告の中に『蛮族』って単語を入れちまったのがまずかった」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:02",
+      "content": "「アルは魔域だけじゃなく蛮族も目撃してたんだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:02",
+      "content": "「みんな、蛮族という一言を聞いて『またいつものやつか』ってなったんだよ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "15:03",
+      "content": "「それでまともに取り合ってもらえなかったわけか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:03",
+      "content": "「……ああ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:03",
+      "content": "「アルが姿を消したのは、その日の夕方のことだった」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:04",
+      "content": "「フィナは——アルのと仲良くしていた俺の娘は、泣きながら俺に言ったんだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:04",
+      "content": "「『僕がいなくなれば、さすがにみんな信じるだろう』」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:05",
+      "content": "「『そうして誰かが奈落の魔域を見つければ、本当だと分かってくれるはずだ——』って言って、アルは一人……魔域に」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:06",
+      "content": "「まあ、結果はアルの思惑通りだな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:07",
+      "content": "「俺が森の中を調べたら、古い城跡のところに小さな魔域を発見した」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:07",
+      "content": "「それで俺は村長を説得して、依頼を出させたんだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "15:08",
+      "content": "「……それが何日前になるのかな？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:09",
+      "content": "「アルが消えはのは三日前の夕方。俺が魔域を発見したのが翌朝——二日前のことだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "15:09",
+      "content": "「ふむ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "15:10",
+      "content": "「ドーチェ。君は専門家だろう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "15:10",
+      "content": "「アル少年は、生きていると思うかね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "15:11",
+      "content": "「専門家とはこそばゆいね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "15:13",
+      "content": "「じゃあ専門家の御意見として言うと、中身が平和なら村にいるより幸せに生きてるんじゃないかな」（嫌味っぽく"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:13",
+      "content": "「平和なら、な」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:13",
+      "content": "「俺が急がせたのは、その可能性が低いと判断したからでもある」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:15",
+      "content": "「さっき俺も魔域を発見したって言っただろ？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:15",
+      "content": "「その時に見てしまったんだよ……魔域から蛮族が出てくるのを」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "15:15",
+      "content": "「ふむ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "15:16",
+      "content": "「魔域ってのは中の核を壊すまで出て来れねえんじゃなかったのか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:16",
+      "content": "「それが、魔域の核とやらが破壊されたってわけじゃあなさそうだった」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "15:16",
+      "content": "「……ってことは蛮族だけが知る秘密の出入り手段があるってことか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "15:17",
+      "content": "「なんでか、外に湧き出てくる時はあるからね～」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "15:17",
+      "content": "「出入口があることがある場合もあると聞くし、今回のはそれかも……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "15:17",
+      "content": "「真相はどうあれ、急いだ方がいいだろう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "15:18",
+      "content": "「アル少年が死骸になっていても」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "15:18",
+      "content": "「何らかの奇跡が起きて、<ruby><rb>中身が平和</rb><rp>（</rp><rt>・・・・・</rt><rp>）</rp></ruby>で」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "15:18",
+      "content": "「そこに美麗な蛮族でもいたら」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "15:18",
+      "content": "「どちらにせよ、君の娘が泣くことにはなるだろうからね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:19",
+      "content": "「そいつは、勘弁してほしい可能性だね……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "15:19",
+      "content": "「素直に死んでた方がマシ、って状態じゃなければいいね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "15:20",
+      "content": "「ところで、魔神は漏れ出てきてないんだね？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:20",
+      "content": "「ああ。まだそういうのは確認してない」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "15:21",
+      "content": "「うし。なら魔神が出てくる前に片づけるか！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:21",
+      "content": "「……っても、魔域の周囲は俺が目撃した蛮族がうろついてるんで、あんましちゃんとは確認できてねぇが」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:21",
+      "content": "「まあとにかく、なるべく早くに頼む」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "15:22",
+      "content": "「うむむ……なるほど」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "15:22",
+      "content": "「では、早速殴り込むとするかね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:23",
+      "content": "「——この先を真っ直ぐに進めば魔域のあった城跡だ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:23",
+      "content": "「っても、森の中じゃ方向感覚を失いやすい」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "15:23",
+      "content": "「ついでに蛮族がうろついてるのが面倒だね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:24",
+      "content": "「アルや俺の足跡を追ったり、周囲をよく見たり、まあそんな感じで頑張ってくれ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:24",
+      "content": "「俺はここで引き返させてもらう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "カルゼ",
+      "color": "#000000",
+      "timestamp": "15:25",
+      "content": "「蛮族に襲われた時、俺は足手纏いになっちまうからな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:27",
+      "content": "カルゼは冒険者たちに後を託し、村へ帰っていった。"
+    }
+  ]
+}

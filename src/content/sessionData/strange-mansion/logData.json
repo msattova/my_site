@@ -1,0 +1,64 @@
+{
+  "title": "変な屋敷",
+  "url": "http://hatosami.cloudfree.jp/logs/sw2.5/20240422/strange-mansion/",
+  "siteDescription": "魔動機文明時代に建てられたという屋敷は何か「変」だった。未知なる剣亭の冒険者たちが直面する屋敷の恐るべき過去と秘密とは————",
+  "siteName": "hatosami.cloudfree.jp",
+  "rights": "本作は、「グループＳＮＥ」及び「株式会社ＫＡＤＯＫＡＷＡ」が権利を有する『ソード・ワールド2.0／2.5』の、二次創作です。<br />\n      (C)GroupSNE<br />\n      (C)KADOKAWA<br />",
+  "participants": [
+    { "name": "里場", "color": "#000", "role": "gm", "charactor": {} },
+    {
+      "name": "MAO",
+      "color": "#9f0500",
+      "role": "pl",
+      "charactor": {
+        "name": "ラヴィ",
+        "charactorSheet": "https://yutorize.2-d.jp/ytsheet/sw2.5/?id=IA0j4X",
+        "imageSrc": "/img/strange-mansion/charactors/ravi.webp"
+      }
+    },
+    {
+      "name": "黄色の月",
+      "color": "#0c797d",
+      "role": "pl",
+      "charactor": {
+        "name": "トゥーア・ルベス",
+        "charactorSheet": "https://yutorize.2-d.jp/ytsheet/sw2.5/?id=PHvpFD",
+        "imageSrc": "/img/strange-mansion/charactors/tuhre.png",
+        "copyright": {
+          "name": "真正面メーカー",
+          "link": "https://picrew.me/ja/image_maker/212956"
+          }
+      }
+    },
+    {
+      "name": "弓百弓",
+      "color": "#ff9020",
+      "role": "pl",
+      "charactor": {
+        "name": "ベルナデッタ・ローレンス",
+        "charactorSheet": "https://charasheet.vampire-blood.net/5170749",
+        "imageSrc": "/img/strange-mansion/charactors/bernadette.png"
+      }
+    },
+    {
+      "name": "ピポッ",
+      "color": "#653294",
+      "role": "pl",
+      "charactor": {
+        "name": "シルブ・アグ",
+        "charactorSheet": "https://yutorize.2-d.jp/ytsheet/sw2.5/?id=iEKTEf",
+        "imageSrc": "/img/strange-mansion/charactors/silv.webp"
+      }
+    },
+    {
+      "name": "ヒロト",
+      "color": "#999999",
+      "role": "pl",
+      "charactor": {
+        "name": "イング・ルシナス",
+        "charactorSheet": "https://yutorize.2-d.jp/ytsheet/sw2.5/?id=1whP9P",
+        "imageSrc": "/img/strange-mansion/charactors/yingu.png"
+      }
+    }
+  ]
+}

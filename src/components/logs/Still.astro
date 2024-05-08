@@ -1,0 +1,25 @@
+---
+import Picture from "astro:assets";
+
+const { picSrc, alt, caption, isPortrait = false } = Astro.props;
+---
+
+{
+  isPortrait && (
+    <figure class="insert-pic">
+      <img src={picSrc} alt={alt} />
+      <figcaption>{caption}</figcaption>
+    </figure>
+  )
+}
+
+{
+  !isPortrait && (
+    <div class="still">
+      <figure>
+        <img src={picSrc} alt={alt} />
+        <figcaption>{caption}</figcaption>
+      </figure>
+    </div>
+  )
+}

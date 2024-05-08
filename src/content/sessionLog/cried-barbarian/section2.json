@@ -1,0 +1,550 @@
+{
+  "title": "キール村からの依頼",
+  "sectionNum": 2,
+  "data": [
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:42",
+      "content": "受付嬢の話によると、依頼内容は以下の通りだった"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:42",
+      "content": "依頼人はキール村の村長ヘンザー・キール（人間/男/40）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:42",
+      "content": "キール村はギルドから馬車で4時間ほどのところにある村。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:42",
+      "content": "（依頼人は急いで来てほしいと言っており、移動費用を出すつもりでいる）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:43",
+      "content": "そのため、君達は馬車に乗って向かうことになる。手配はすでにギルド側で進めている"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:43",
+      "content": "依頼内容は、行方不明になった少年の捜索と奈落の魔域の破壊。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:43",
+      "content": "また、前渡し報酬として《ヒーリングポーション》を一人1個支給される。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "13:44",
+      "content": "あっ　ごめん、能力値の入力ミスに気が付いた（Cから+6が抜けてる…！）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "13:44",
+      "content": "おや"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "13:44",
+      "content": "「断る理由はない」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:45",
+      "content": "「うんうん！　みんな良い顔だね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:45",
+      "content": "「ちなみに、<ruby><rb>奈落の魔域</rb><rp>（</rp><rt>シャロウアビス</rt><rp>）</rp></ruby>についてはどのくらい知っているかな？」見識判定。目標値8"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "13:46",
+      "content": "2d6<br>SwordWorld2.5 : (2D6) → 10[4,6] → 10"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "13:46",
+      "content": "武器だけ調整していい？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "13:46",
+      "content": "どうぞ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "13:46",
+      "content": "「知ってるぜ、不意に現れる奈落の飛び地で中は異界になってるんだよな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "13:46",
+      "content": "2d6+4&gt;=8 見識<br>SwordWorld2.5 : (2D6+4&gt;=8) → 6[3,3]+4 → 10 → 成功"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "13:47",
+      "content": "2d6 平目<br>SwordWorld2.5 : (2D6) → 12[6,6] → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "13:47",
+      "content": "こんなところで６ゾロ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "13:47",
+      "content": "振るまでもなかった（出身）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "13:47",
+      "content": "そうじゃん"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "13:48",
+      "content": "2ｄ6+5<br>SwordWorld2.5 : (2D6+5) → 9[5,4]+5 → 14"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "13:48",
+      "content": "高い"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "13:48",
+      "content": "「ほどほどに、だ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "13:48",
+      "content": "「中に入ってしまったら、<ruby><rb>核</rb><rp>（</rp><rt>コア</rt><rp>）</rp></ruby>を破壊しないと出られないんですよね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "13:48",
+      "content": "「……たまに出入口があったりもするらしいですけど」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "13:50",
+      "content": "直しようは色々あるけど弄り過ぎない範囲ってことで妥協しつつ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "13:50",
+      "content": "「宝の眠る場所だよ。リスクは相応にあるがね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "13:51",
+      "content": "「……さてね。サイズはどんくらい？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "13:52",
+      "content": "害獣の巣という言葉は飲み込んだ。言葉を選ぶ程度の論理はある"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:53",
+      "content": "「まだ小規模みたいだね。具体的な大きさは書かれてないけど」ぺらっと紙をめくりつつ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:54",
+      "content": "「具体的なことは、現地で見て確認してもらうことになるかな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "13:54",
+      "content": "「りょーかい」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "13:55",
+      "content": "ノーナ、ババァだから"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:55",
+      "content": "「……うん、ひとまず依頼についてはこんなところかな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "13:55",
+      "content": "一般よりも少し踏み込んだ差別者として動いてもいいかな＞アビスボーンやナイトメアに対する"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:56",
+      "content": "そこで、外から受付嬢に声がかけられる"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "13:56",
+      "content": "ちゃんと中指立てるので差別はご遠慮なくどうぞ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:56",
+      "content": "どうやら馬車の手配が完了したようだ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "13:56",
+      "content": "冒険者だから手は組めるけど、まぁ良くない者とは想ってる的な"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:57",
+      "content": "「みんな、いつでも出発できるってさ！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ギルド受付嬢",
+      "color": "#000000",
+      "timestamp": "13:57",
+      "content": "「というわけだから、準備ができたら行ってきてね！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "13:57",
+      "content": "「俺はすぐにでも行けるぜ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "13:57",
+      "content": "「手が早いこって」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "13:58",
+      "content": "「我々やきみらのようなヤカラの手を借りるほどに、余裕がないのだろ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "13:59",
+      "content": "というわけでやりたいことがなければ馬車の中の自己紹介シーンへ移行しようかと"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "13:59",
+      "content": "我々＝アレックスくんと自分　君等　ドーチェさんとイエサラさん"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "13:59",
+      "content": "「う～ん……〈悪魔の血盤〉でも買ってく？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "13:59",
+      "content": "差別主義者ムーブ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:00",
+      "content": "「わたしに金はないから、このままでいい」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:00",
+      "content": "「だよね～」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:01",
+      "content": "「私もちょっと無理かも」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:02",
+      "content": "「当たって砕けろだ。攻略できなかったらそこまでの<ruby><rb>運命</rb><rp>（</rp><rt>さだめ</rt><rp>）</rp></ruby>だってことだろ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:03",
+      "content": "差別・ワールドだ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:03",
+      "content": "「わたしは魔城で死にたくはない。<ruby><rb>君</rb><rp>（</rp><rt>アレックス</rt><rp>）</rp></ruby>もそうだとは思うが」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:03",
+      "content": "「冒険者として土を棺桶にする覚悟は決めているが、それでも選べるのなら、もっとマシな場所はあるさ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:04",
+      "content": "直接的には言わないけど、言葉のあちこちに奈落とかナイトメアとかアビスボーンを「どう」想ってるか出てくる言動をするキャラにします"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:04",
+      "content": "「悪いが俺は冒険者じゃなくてね。魔域で死ぬならそれまでだって思うぜ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:05",
+      "content": "放浪者なのでギルドに登録せず、メシのタネだけ探しに来てた。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:05",
+      "content": "「ま、こんな寄せ集めに共同出資で揉めたくもないしね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:06",
+      "content": "「帰りの切符は自力で勝ち取るってことで」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:07",
+      "content": "「やるだけはやろう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:07",
+      "content": "「大丈夫！　なんとかなると思えば大抵なんとかなるって母さんも言ってたし！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:08",
+      "content": "「今回はアタリかな～、ハズレかな～……」（ぼそっと）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:08",
+      "content": "シーン移行して大丈夫ですかね？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:08",
+      "content": "この辺で馬車に乗るかい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:09",
+      "content": "のろう"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:09",
+      "content": "あいよー"
+    }
+  ]
+}

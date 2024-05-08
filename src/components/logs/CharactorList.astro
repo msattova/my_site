@@ -1,0 +1,55 @@
+---
+const { charactors } = Astro.props;
+const charactorList = [].map.call(Object(charactors), (el) => {
+  return el;
+});
+
+//console.log(charactorList);
+---
+
+<nav class="navigation" id="js-nav" aria-hidden="true" inert>
+  <div class="disable-check">
+    <input type="checkbox" name="remove" id="js-checkboxRemove" checked />
+    <label for="js-checkboxRemove">メインタブ以外を非表示</label>
+  </div>
+  <div class="disable-check">
+    <input type="checkbox" name="remove" id="js-timestampRemove" checked />
+    <label for="js-timestampRemove">タイムスタンプを非表示</label>
+  </div>
+  <div class="check">
+    <input type="checkbox" name="imageclip" id="js-checkboxImageclip" />
+    <label for="js-checkboxImageclip">画像を小さく表示</label>
+  </div>
+  <ul class="nav-list" id="charactor-list">
+    {
+      charactorList.map((chara) => (
+        <li>
+          <figure class={`chara part${chara.index}`}>
+            <figcaption>
+              <div class="charactor-name">
+                {chara.name} (
+                <a href={`${chara.charactorSheet}`} target="_blank">
+                  キャラクターシート
+                </a>
+                )
+              </div>
+              <div class="player-name">{chara.playerName}</div>
+            </figcaption>
+            <div class="charactor-image">
+              <img src={`${chara.imageSrc}`} alt={`${chara.name}の立ち絵`} />
+            </div>
+            {chara.copyright && (
+              <p class="copyright">
+                <small>
+                  <a href={chara.copyright.link} target="_blank">
+                    &copy; {chara.copyright.name}
+                  </a>
+                </small>
+              </p>
+            )}
+          </figure>
+        </li>
+      ))
+    }
+  </ul>
+</nav>

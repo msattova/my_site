@@ -1,0 +1,10 @@
+---
+const {tabNum, color, name, timestamp} = Astro.props;
+---
+
+<div class=`message tab${tabNum}` style=`color: ${color}`>
+  <div class="name">{name}</div>
+  <div class="text">
+    <slot />
+    <span class="timestamp">[{timestamp}]</span></div>
+</div>

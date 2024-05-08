@@ -1,0 +1,35 @@
+---
+//コンポーネント
+import LogTemplateComponent from "@components/logs/LogTemplateComponent.astro";
+
+//モジュール
+import { SectionData } from "@modules/sectionData";
+
+import { getCollection, getEntries, getEntry } from "astro:content";
+
+const sessionId = "strange-mansion";
+
+const collections = await getCollection("sessionLog");
+const data = collections
+  .filter((el) => el.id.includes(sessionId))
+  .sort((a, b) => a.data.sectionNum - b.data.sectionNum)
+  .map(
+    (el) =>{
+      //console.log(el.data.charaData);
+      return new SectionData(
+        el.data.title,
+        el.data.data,
+        el.data.isPreplay ? true : false,
+        el.data.charaData ? el.data.charaData : []
+      )}
+  );
+
+const logData = await getEntry("sessionData", `${sessionId}/logData`).then(
+  (res) => res.data
+);
+
+const sections = data;
+
+---
+
+<LogTemplateComponent sections={sections} logData={logData} />

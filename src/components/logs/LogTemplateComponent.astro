@@ -1,0 +1,70 @@
+---
+//レイアウト
+import LogBaseLayout from "@layouts/logs/LogBaseLayout.astro";
+
+//コンポーネント
+import Gauge from "@components/logs/Gauge.astro";
+import Still from "@components/logs/Still.astro";
+import AllayData from "@components/logs/AllayData.astro";
+import EnemyData from "@components/logs/EnemyData.astro";
+
+import Section from "@layouts/logs/Section.astro";
+import Message from "@layouts/logs/Message.astro";
+import Request from "@layouts/logs/Request.astro";
+import Note from "@layouts/logs/Note.astro";
+
+// モジュール
+import { ElementTypes } from "@modules/elementTypes";
+
+const { sections, logData } = Astro.props;
+---
+
+<LogBaseLayout sections={sections} logData={logData}>
+  {
+    sections.map((el, i) => (
+      <Section title={el.title} isPreplay={el.isPreplay} num={i} charaData={el.charaData}>
+        {el.content.map((msg) =>
+          msg.type === ElementTypes.message ? (
+            <Message
+              tabNum={msg.tabNum}
+              color={msg.color}
+              name={msg.name}
+              timestamp={msg.timestamp}
+            >
+              <Fragment set:html={msg.content} />
+            </Message>
+          ) : msg.type === ElementTypes.still ? (
+            <Still
+              picSrc={msg.imageSrc}
+              alt={msg.alt}
+              caption={msg.caption}
+              isPortrait={msg.isPortrait}
+            />
+          ) : msg.type === ElementTypes.request ? (
+            <Request title={msg.title}>
+              {msg.content.length > 1 ? (
+                <Fragment set:html={msg.content.join("<br/>")} />
+              ) : (
+                <Fragment set:html={msg.content[0]} />
+              )}
+            </Request>
+          ) : msg.type === ElementTypes.note ? (
+            <Note title={msg.title}>
+              {msg.content.length > 1 ? (
+                <Fragment set:html={msg.content.join("<br/>")} />
+              ) : (
+                <Fragment set:html={msg.content[0]} />
+              )}
+            </Note>
+          ) : msg.type === ElementTypes.allayData ? (
+            <AllayData dataSrc={msg.dataSrc} />
+          ) : (
+            msg.type === ElementTypes.enemyData && (
+              <EnemyData dataSrc={msg.dataSrc} />
+            )
+          )
+        )}
+      </Section>
+    ))
+  }
+</LogBaseLayout>

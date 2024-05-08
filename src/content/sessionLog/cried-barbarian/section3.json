@@ -1,0 +1,558 @@
+{
+  "title": "自己紹介をしよう！",
+  "sectionNum": 3,
+  "data": [
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:10",
+      "content": "……そんな成り行きで組むことになった寄せ集めパーティの君達は冒険の支度を済ませると、"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:10",
+      "content": "馬車へと乗り込んでいく。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:11",
+      "content": "そうして、御者が馬を走らせ、村に着くまでのいくばくかの時間"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:11",
+      "content": "君達は馬車の中で共に過ごすこととなった"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:13",
+      "content": "「……そうだ、自己紹介しない？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:13",
+      "content": "「私達ってこれから一緒に仕事するわけだしさ、互いのことはちゃんと知っといた方が良いと思うんだよね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:13",
+      "content": "「そうだね。なんとなく魔法が使えるのと武器が振れるの、くらいしか知らないし、手の内は明かしておこう。お互いに、ね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:14",
+      "content": "「では、わたしからだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:14",
+      "content": "「ノーナ。ノーナ・フォルト」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:15",
+      "content": "「老いぼれた後にこの家業に入ったものだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:15",
+      "content": "「年相応の実力はないが、多少の知恵はある。頭を使う所では約立てるだろうさ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:16",
+      "content": "「もっとも、長丁場の戦いに自信はない。そこは、君たちに期待させてもらう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:16",
+      "content": "「おおっ。知恵者ってことかあ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:16",
+      "content": "（その顔で老いぼれって…エルフの年齢はわかりづれぇなあ…）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:17",
+      "content": "「確かに、賭け方もなんだか慎重な感じだったね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:19",
+      "content": "（森の引き籠り&quot;らしい&quot;なぁ）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:20",
+      "content": "「じゃ～二番手もらうよ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:20",
+      "content": "「はいどうぞー」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:22",
+      "content": "「名前はドーチェ、姓はクラウセン」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:24",
+      "content": "「魔法は門外漢だけど、カラダで小銭くらいは稼げる身かな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:26",
+      "content": "「ただ、左目に”古傷”があってね。ま、魔域の中での……ちょっとした事故みたいなモンさ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:27",
+      "content": "（ﾁﾗｯ、と眼帯を退けて見せる。確かに一文字の切り傷跡があるが、それ以上に、薄目を開けた瞼の下の眼が暗紫色なことの方が目立った）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:28",
+      "content": "「お、アビスボーンてやつか。初めて見るな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:28",
+      "content": "「ふむ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:28",
+      "content": "「<ruby><rb>専門家</rb><rp>（</rp><rt>・・・</rt><rp>）</rp></ruby>か。頼らせてもらうよ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:28",
+      "content": "「おおっ。なんかかっこいい……かも？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:29",
+      "content": "「あんま見せると呪っちゃうかもネ～」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:29",
+      "content": "「それはこわいなぁ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:30",
+      "content": "「おかげで持久力がないから、補給は頼んじゃうかな。よろしく～」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:31",
+      "content": "「はーい。よろしく～」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:31",
+      "content": "無言で煙草を吸う。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:32",
+      "content": "「それじゃあ、次は俺か」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:32",
+      "content": "ちょい離席"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:32",
+      "content": "「アレックス。アレックス・メリノ・ケカラレルネン。耳じゃわかんねえと思うけど『羊』のリカントだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:33",
+      "content": "はーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:33",
+      "content": "毛刈られるねん"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:33",
+      "content": "メリノって「メリーの」ってこと……！？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:34",
+      "content": "「たまたまこの街によって路銀がほしくて仕事を受けに来ただけで冒険者ギルドに正式な登録はしてない。まあ<ruby><rb>放浪者</rb><rp>（</rp><rt>ヴァグランツ</rt><rp>）</rp></ruby>ってやつさ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:34",
+      "content": "そうです"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:35",
+      "content": "「武器はない。あるのは盾だけだ」背負ってる大盾を示す"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:36",
+      "content": "「この盾をガツンと叩きつける原始的なやり方で戦ってる。戦い以外は得意じゃないから知恵袋の婆さんたちに任せた」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:37",
+      "content": "「ま、ひとつよろしく」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:37",
+      "content": "「よろしく～」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:37",
+      "content": "「フーライボーというやつか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:37",
+      "content": "「流離うものの力、期待させてもらう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:38",
+      "content": "「<ruby><rb>放浪者</rb><rp>（</rp><rt>ヴァグランツ</rt><rp>）</rp></ruby>って初めて会ったかも。アウトローだねぇ。かっこいい！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:38",
+      "content": "「んじゃ、最後は私か」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:38",
+      "content": "帰還"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:38",
+      "content": "おかえりなさい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:39",
+      "content": "「見ての通りのナイトメア。でも人族を殺したことはないよ。一度もね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:40",
+      "content": "（人殺し、とめちゃくちゃ罵られたので口癖になってる）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:40",
+      "content": "「母親がソレイユでね、生む時は大変だったらしいけど、お日様を浴びてたら治ったんだってさ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:41",
+      "content": "「ｸｸｯ」（ちょっとウケた　＞人殺し"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:41",
+      "content": "「——まあ自分がもしこんなデカいの付けてる赤ん坊産んだら間違いなく死ぬだろうけど！　想像もしたくないね！　あはは！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:42",
+      "content": "「あ、それで母ちゃん生きてるようなこと言ってたのか。」腑に落ちた"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:43",
+      "content": "「……ま、余談はさておき。武器はこの弓と矢」ちょっと背中を向けて背負ってるのを見せる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:43",
+      "content": "「狩りの経験ならちょっとあってね。その流れで蛮族退治とかもしようって感じ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:44",
+      "content": "「あと他にできることと言えば——妖精と仲良くすることとか、かな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:45",
+      "content": "「それと、現在色々勉強中！　兼業で学生もちょこっとやってます！　だからまあ、多少は知識も豊富なつもり」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:45",
+      "content": "「こんなところかな。皆よろしく！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:46",
+      "content": "「よろしく」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:46",
+      "content": "「よろしくな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:46",
+      "content": "他の二人に対しても簡素だったが、より、簡素な言葉だった。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:47",
+      "content": "「妖精と仲良しのナイトメアね、そりゃーきっといい人だ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "14:48",
+      "content": "「えへへ……そう言ってもらえると嬉しいなぁ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:49",
+      "content": "では自己紹介も済んだので、やりたいことがなければ村に到着しようかと"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "14:49",
+      "content": "OK"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "14:49",
+      "content": "ヨシ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "14:50",
+      "content": "ゆこう"
+    }
+  ]
+}

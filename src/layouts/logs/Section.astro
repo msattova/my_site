@@ -1,0 +1,48 @@
+---
+import BackToIndex from "@components/logs/BackToIndex.astro";
+import AllayData from "@components/logs/AllayData.astro";
+
+const { num, title, isPreplay = false, charaData = [] } = Astro.props;
+
+const sectionClass = isPreplay ? "preplay" : "chap";
+const sectionId = isPreplay ? "chara-make" : `sec${num}`;
+
+const hasCharaData = charaData.length !== 0;
+
+---
+
+<section class={sectionClass} id={sectionId}>
+  <h2>{title}</h2>
+  {
+    isPreplay && (
+      <details>
+        <summary>クリックしてキャラメイクを開く</summary>
+        <div class="chatlog">
+          <slot />
+        </div>
+      </details>
+    )
+  }
+  {
+    !isPreplay && (
+      <div class="chatlog">
+        <slot />
+      </div>
+    )
+  }
+  {
+    hasCharaData && (
+      <details>
+        <summary>クリックしてPCデータを開く</summary>
+        <div class="chatlog">
+          {
+            charaData.map(el => (
+              <AllayData dataSrc={el} />
+            ))
+          }
+        </div>
+      </details>
+    )
+  }
+  <BackToIndex />
+</section>

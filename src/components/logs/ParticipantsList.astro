@@ -1,0 +1,29 @@
+---
+const { participants } = Astro.props;
+const arr_participants = [].map.call(Object(participants), (el) => { return el;});
+
+//const { participants } = Astro.props;
+// console.log('arr', arr_participants);
+
+const listClass = (role: string, num: number) =>
+  `subgrid-container ${role} part${num}`;
+const playerDivClass = (role: string) => `grid-item ${role}-name`;
+---
+
+<section class="participants">
+  <h2>参加者</h2>
+  <ul class="grid-container">
+    {
+      arr_participants.map((participant, index) => (
+        <li class={listClass(participant.role, index)}>
+          <div class="grid-item role">{participant.role.toUpperCase()}</div>
+          <div class={playerDivClass(participant.role)}>{participant.name}</div>
+          {Object.keys(participant.charactor).length != 0 &&
+          (<div class="grid-item charactor-name">
+            {participant.charactor.name}
+          </div>)}
+        </li>
+      ))
+    }
+  </ul>
+</section>

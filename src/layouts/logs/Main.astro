@@ -1,0 +1,23 @@
+---
+import ParticipantsList from "../../components/logs/ParticipantsList.astro";
+import Index from "../../components/logs/Index.astro";
+import CharactorList from "../../components/logs/CharactorList.astro";
+
+const { participants, sections } = Astro.props;
+const charactors = [].map.call(Object(participants), (el, i) => {
+  return ( (Object.keys(el.charactor).length === 0 && el.charactor.constructor === Object) ? null : {...el.charactor, playerName: participants[i].name, index: i});
+}).filter((el) =>  (el !== null));
+
+//console.log(sections);
+---
+
+<div class="wrapper">
+  <CharactorList charactors={charactors} />
+  <main class="main is-disable is-disable-timestamp" id="js-main">
+    <ParticipantsList participants={participants} />
+    <Index sections={sections} />
+    <div class="main-logs">
+      <slot />
+    </div>
+  </main>
+</div>

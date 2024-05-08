@@ -1,0 +1,2382 @@
+{
+  "title": "推測",
+  "sectionNum": 11,
+  "data": [
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:31",
+      "content": "ではエンディング！（ダブルクロス風の言い回し）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:32",
+      "content": "合同ED！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:32",
+      "content": "いえあ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:32",
+      "content": "まずはフライングハンズ戦の直後からやっていきましょう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:32",
+      "content": "はーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "フライングハンズ",
+      "color": "#000000",
+      "timestamp": "22:33",
+      "content": "拳闘士の残骸は斃れた。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "フライングハンズ",
+      "color": "#000000",
+      "timestamp": "22:33",
+      "content": "この屋敷のかつての主はもう甦らない。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴースト",
+      "color": "#000000",
+      "timestamp": "22:33",
+      "content": "——それを為した君たちに、ささやかな喝采が贈られる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:34",
+      "content": "「スリーカウントは……要らないようですね。」ぷう、とガンスモークを吹く。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:34",
+      "content": "「その……それは最近読んだ小説か何かかしら」＞寝ぼけ眼のカレに"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴースト",
+      "color": "#000000",
+      "timestamp": "22:35",
+      "content": "「……おめでとうございます」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:35",
+      "content": "「ワシらの！！！　勝ちじゃあああああああああああ！！！！　勝鬨を上げる時ぜよ！！！！！！！！！！！！！！！」くっそでっかい声で勝鬨をあげる/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:35",
+      "content": "「えっと──ありがとー、でいいのかな？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:35",
+      "content": "「お手数おかけしております。独学に使用したマギテック言語書籍が少々特異だった様で。」ぺこり。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:35",
+      "content": "仮にも主だった存在を倒された存在に問う。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:35",
+      "content": "「やったな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:35",
+      "content": "「これはこれで敵の不意を撃てると判断し、そのまま採用を続けております。」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:36",
+      "content": "「な、なるほど……？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴースト",
+      "color": "#000000",
+      "timestamp": "22:36",
+      "content": "「ええ。私はそのために、これまで、多くの人々をここに連れてきたのですから」とラヴィに"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:36",
+      "content": "「そっか、なら──」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:36",
+      "content": "「ゴーストさんも、よかったね」笑顔を向ける。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:37",
+      "content": "「ゴースト様。」「……未練は、落ち着きそうでしょうか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:37",
+      "content": "「んむ、仕え人として立派な務めじゃった。ご苦労じゃき」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:37",
+      "content": "心の機微を感じられるほど、この少女は聡くない。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:38",
+      "content": "故にただ、『よかったね』と、思うままに告げる。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:38",
+      "content": "稼働年数も少ない身の上だが、彼女の主を絶った形でもある。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:39",
+      "content": "しんみりした空気の中アドリブでアレなのですが、このまま残留するのも面白そうなのでダイスでどうなるか決めます"
+    },
+    {
+      "type": "message",
+      "tabNum": "3 diceroll",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:39",
+      "content": "2d6 10以上が出たら残ります<br>SwordWorld2.5 : (2D6) → 9[3,6] → 9"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:39",
+      "content": "惜しかった"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:39",
+      "content": "成仏！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:39",
+      "content": "ギリ成仏"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:39",
+      "content": "おしい！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:40",
+      "content": "オサラバでございます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴースト",
+      "color": "#000000",
+      "timestamp": "22:40",
+      "content": "「……ええ。主がみっともない姿で、知能を失い彷徨っている——それだけが私の心残りだった」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:40",
+      "content": "このまま残留するのも正直面白かったな……ダイスは偉大"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴースト",
+      "color": "#000000",
+      "timestamp": "22:40",
+      "content": "「それが果たされた今、私は輪廻へと還ることでしょう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:41",
+      "content": "ダイスが生み出す物語だぜ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:41",
+      "content": "「…そうか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴースト",
+      "color": "#000000",
+      "timestamp": "22:41",
+      "content": "はっきり認識できるだろう。ゴーストの姿が、薄れている。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴースト",
+      "color": "#000000",
+      "timestamp": "22:42",
+      "content": "「——ふふ」消えゆくなか、笑みをこぼす。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:42",
+      "content": "「あのねあのね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:42",
+      "content": "「シルブも言ってたけど、立派だったと思うよ、ゴーストさん！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:43",
+      "content": "「おまんはおまんの責務のもと、己の役目を果たした。恥じる事はにゃあ。神がいるっちゅうなら真っ当に扱ってくれるじゃろ」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:44",
+      "content": "「この屋敷がどうなるかはわかりませんが……経年劣化に負けぬ丁寧な作りと判断いたしております。」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:44",
+      "content": "「うんっ！　だからたっぷり──すやすやしてね！」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:44",
+      "content": "「ええ……安らかに」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:44",
+      "content": "「そしてその保持を可能としたのは、貴女を始めとする侍女の皆様の賜物と解釈させて頂きます。」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:45",
+      "content": "「ああ、よくやってくれたと思うぞ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:45",
+      "content": "「長い間」「お疲れさまでした。ゴースト様」静かに微笑む。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴースト",
+      "color": "#000000",
+      "timestamp": "22:45",
+      "content": "「——ああ。あの人の言う通りだったわね……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴースト",
+      "color": "#000000",
+      "timestamp": "22:46",
+      "content": "「現代の冒険者たちを信じてください——か。まさしくその通りだったわ……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:46",
+      "content": "なにっ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:46",
+      "content": "誰だっけ！？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:46",
+      "content": "伏線かな？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴースト",
+      "color": "#000000",
+      "timestamp": "22:47",
+      "content": "「一度は私の主を殺した人の言うことに従うのは癪だったけれど…………ええ……あなたは間違ってなかった……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:47",
+      "content": "おお？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:47",
+      "content": "ふむ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:48",
+      "content": "チャンピオン、二回死んでいた……！？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴースト",
+      "color": "#000000",
+      "timestamp": "22:48",
+      "content": "「——レイ、ホール…………」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:48",
+      "content": "アンデッドになる前or腕だけになる前に、誰かが殺したっぽいのかな？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:48",
+      "content": "うわあああああああ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:48",
+      "content": "なん──だって！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:48",
+      "content": "雨穴さん！！！！！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ゴースト",
+      "color": "#000000",
+      "timestamp": "22:48",
+      "content": "最期に微かな声で名を呼び、ゴーストは消えた。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:48",
+      "content": "雨穴！！！そういえば栗原さん共々平然と内見していたッ！！！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:49",
+      "content": "「…………」「レイホール……？」けげんな顔つき。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:49",
+      "content": "「レイ・ホール……？　ああ、たしか依頼人の名前じゃったか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:49",
+      "content": "「……」「確か依頼人の名前よ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:49",
+      "content": "「ハヴィングランド氏じゃないほうじゃな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:50",
+      "content": "「どーゆーこと？」？？？を大量に浮かべて。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:50",
+      "content": "「聞いてみるしかなさそうだな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:50",
+      "content": "「依頼自体はレイ・ホール氏が出しとったじゃろ。　まあ後で依頼書見直せばわかるけぇ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:50",
+      "content": "「ちょっと訊いてみる？あの人頭よさそうだったし」結局使わなかった通話のピアスを示して"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:51",
+      "content": "「仲介したマロン様にもお伺いいたしましょうか。」くい。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:51",
+      "content": "あ、いいですね＞ピアス使う"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:51",
+      "content": "いい感じの使いポイント！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:51",
+      "content": "まあフライングハンズって自分の力を出し切れずに死んだ拳闘士の悔恨が腕だけを動かしさまよってるとか言われてる魔物なので……"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:51",
+      "content": "まさか雨穴さんが瞬殺した……？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:52",
+      "content": "つまり体の状態でもう一回負けた事にもできる、説得力の化身だ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:52",
+      "content": "折角なんでマロン氏の名前大声で呼んでもろて"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:52",
+      "content": "（笑）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:52",
+      "content": "じゃあでっけぇ声担当のシルブが大声しますか"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:52",
+      "content": "うおうお！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:53",
+      "content": "では使うということで"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:53",
+      "content": "おねがいします！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:53",
+      "content": "「マロオオオオオオオオオオオオオオオオオオン！！！　ぶっ殺しゾーンあるきマロオオオオオオオオオオオオオオオオオオン！！！！！！！！！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:53",
+      "content": "ｗｗｗｗｗｗｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:53",
+      "content": "「——————————————」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:54",
+      "content": "（笑）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:54",
+      "content": "先に地下に窓ないことを言及すべきだったかも。原作に沿って"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:54",
+      "content": "「————鼓膜、破けるかと思った……………………」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:54",
+      "content": "きーん…………！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:54",
+      "content": "「おじいちゃんそこじゃないでしょ！そこも気になるけど！」耳を押さえながら"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:54",
+      "content": "「ラヴィも」（くらくらくら"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:54",
+      "content": "「うっ…」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:54",
+      "content": "「そうじゃな！　先にレイ・ホール氏じゃったな！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:55",
+      "content": "「…………えっと？　とりあえず今の状況を説明してくれる？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:55",
+      "content": "じゃああらかたの状況説明します"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:55",
+      "content": "「……という訳で、地下に客人ぶっ殺しゾーンがあったきに」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:56",
+      "content": "「んで、そこまで誘導したゴーストの言葉からして、依頼人のレイ・ホール氏はここまで知っておった可能性が高いんじゃが、その辺聞いとらんか？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:56",
+      "content": "「お屋敷の方は最低限神官の立ち合いが必要かと思われます。」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:57",
+      "content": "「……ああ。なるほど。やけに『新人冒険者に手頃な依頼でしょう』とか確信してたふうだったのはそういう……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:57",
+      "content": "「遺品回収共々、ハヴィングランド氏とギルドに引き継げればと考えておりますが……」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:57",
+      "content": "「そっちは了解。そしてレイホールについては……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:57",
+      "content": "（実際に見て来たので）察しが良すぎたレイホール氏……ってコト！？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:58",
+      "content": "察しが良いと言うか、この場合なんと形容すればいいんでしょう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:58",
+      "content": "「まず、あの人と私は個人的な付き合いのある友人でね。今回の依頼はそのコネで持ち込まれたようなものなの」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:58",
+      "content": "「もちろん、友人だからってあの人のすべてを知ってるわけではないのだけど……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:58",
+      "content": "マロンとレインは仲良し。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:59",
+      "content": "いいですね（にっこり）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "22:59",
+      "content": "「そのゴーストは、300年前からこの屋敷にいた可能性が高くて、しかもレイホールのことを知っていたのでしょう？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:59",
+      "content": "「うん、おなまえ言ってたよ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:00",
+      "content": "「なら、ゴーストはレイホールの名前をどこかで知った、あるいは聞いていたということよね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:01",
+      "content": "「語り口からして、なんならレイ・ホール氏が冒険者を頼るようにゴーストを誘導した節すら感じられたのう」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:01",
+      "content": "「レイホール様が250年前からお元気でいた、という訳でもないでしょうしね」くい。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:01",
+      "content": "「……いいえ。その可能性は否定できない」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:02",
+      "content": "「なんで？」（きょとん"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:02",
+      "content": "「あなたたちはレイホールに会ったことがないから、彼の種族も知らないか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:02",
+      "content": "「なんと」まがお。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "23:02",
+      "content": "「まさか…」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:02",
+      "content": "「彼ね、いえ、彼というのも厳密には適切でないのだけど——フロウライトなの」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:03",
+      "content": "ｶﾞﾀｯｺﾞﾝｶﾞﾗｶﾞｯｼｬｰﾝ（フロウライト大好きおじさん）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:03",
+      "content": "「今は寿命が近いって言って引き込もり気味だけどね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:03",
+      "content": "「フロウライト……たしか未知なる剣亭にも何人かおったな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:03",
+      "content": "「寿命……と言って良いのかわからんが、ソレはおおよそ400年と聞いたことがあるきに」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:04",
+      "content": "「よもや大破局の生き残りとはの」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:04",
+      "content": "「確か……魔晶石のような透き通る体を持つ種族でしたね。」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:04",
+      "content": "「そう。鉱石の身体だから、毒の罠も当然効かない」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "23:04",
+      "content": "「400年……<ruby><rb>私たち</rb><rp>（</rp><rt>エルフ</rt><rp>）</rp></ruby>に近いくらい長生きするのね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:04",
+      "content": "「そっかー、それなら長生きしてても不思議じゃないよね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:04",
+      "content": "突然癖刺しにくる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "23:05",
+      "content": "「そうだったのか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:05",
+      "content": "「これは私の推測だけど……つまりこういうことでしょう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:05",
+      "content": "「独学の参考書籍には伝説の存在と書かれていましたので、初めてお会いした際は感銘を受けました……」しみじみ。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:05",
+      "content": "出た！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:05",
+      "content": "「これは私の推測になってしまうのですが」だ！！！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:05",
+      "content": "「レイホールは300年前、まだ屋敷の主が存命だったころに客として招かれた」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:05",
+      "content": "推測が来た！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:06",
+      "content": "完璧な原作回収だ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:06",
+      "content": "「そして——詳しい経緯は不明だけど、地下の、『客人ぶっ殺しゾーン』で返り討ちにした」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:07",
+      "content": "「客として招かれるくらいだから腕は立つし、毒の罠が通用しないわけだから、レイホールは万全に近い状態で戦えたことでしょう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:07",
+      "content": "『客人ぶっ殺しゾーン』って単語、すべてをぶっとばすなぁｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:07",
+      "content": "「きっと30秒とかからないうちに殺してしまったのでしょうね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:07",
+      "content": "間取りに書いてある以上、こう読まざるを得ない"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:07",
+      "content": "はっそうか！レイホール様はやっぱり察しが悪かったんだ！！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:07",
+      "content": "なるほどね。＜フロウライトだから毒が効かない"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:07",
+      "content": "客人ぶっ殺しゾーンに来るまで罠かどうかわかってなかったから！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:08",
+      "content": "「レイホールは屋敷から生還し、残された屋敷の使用人たちは地下で起きたことを闇に葬った」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:08",
+      "content": "「しかし、屋敷の主の悔恨は深かった。腕だけになってでも戦いを欲するほどに」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:09",
+      "content": "「独力で成し遂げたと考えれば、凄まじい実力でございますね。」くい。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:09",
+      "content": "３ラウンドかぁ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "23:09",
+      "content": "そらまぁ察しの悪い方に殺されたら未練残るわな"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "23:09",
+      "content": "なる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:09",
+      "content": "「それに気付いた使用人が、あなたたちが会ったというゴースト」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:09",
+      "content": "なるぜ……"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:09",
+      "content": "3Rで倒すとは手早い"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:09",
+      "content": "察しの悪い方だったのかな……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:09",
+      "content": "「主の姿が消えない未練となって、死後もこの屋敷に残留した」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:10",
+      "content": "「そうして長い時が流れ——つい最近」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:10",
+      "content": "「レイホールの友人、ウィローヒルズがその屋敷に興味を持った」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:11",
+      "content": "「ウィローヒルズが屋敷を購入したことを知ったレイホールは、屋敷の内部を確かめようとした」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:11",
+      "content": "ウィローヒルズさんも結構長生き種族の気配がしてきましたね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:11",
+      "content": "「300年も昔とはいえ、何か良からぬものがいてもおかしくない来歴を持つ屋敷だもの。当然の心理と言えるでしょう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:11",
+      "content": "パット見（立ち絵が）人間ぽかったけど、どうなんでしょう＞ウィローヒルズ氏"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:12",
+      "content": "ウィローヒルズさんの立ち絵は出してないですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:12",
+      "content": "ウィローヒルズさんじゃなくてハヴィングランド氏でした"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:12",
+      "content": "ですね、お会いしたのはハヴィングランドさん"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:13",
+      "content": "「崩れていたという階段からか勝手口からか、あるいはハヴィングランド氏に会って鍵を借りたのか——彼は中に入って、そしてゴーストから地下の惨状を聞いた」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:14",
+      "content": "「この時、彼は新人冒険者にこの問題を解決させることを思いついたのでしょう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:14",
+      "content": "どこが変なのかなぁ☆（時計針ぐるぐる）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:15",
+      "content": "「彼は年寄りらしく後進の育成に興味があるみたいだったから」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:15",
+      "content": "そういえば招かれた場合は時計トリックは使われないはずだから"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:15",
+      "content": "「はえ～」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:15",
+      "content": "わかったようなわかってないような顔/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:15",
+      "content": "改めて来たときに自分で解いたのか、雨穴さん"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:15",
+      "content": "察しがいい！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:16",
+      "content": "「これ幸いと自分の尻を拭かせたのでしょうね。その場で、自分がやれば済む話だったのに」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:16",
+      "content": "でも入ったら一方通行だから入りはしてなかったっぽいな、レイホールさん"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:16",
+      "content": "あ、そっか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:16",
+      "content": "「時計のトリックのヒントもおそらくレイホールの仕業ね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:16",
+      "content": "ゴーストから聞いたなら別にぶっ殺しゾーンに2回目入らなくて良いのか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:17",
+      "content": "「左様でございましたか。」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:17",
+      "content": "「ゴーストに物が持てるとしても、新しい紙とインクを用意できるはずがないもの」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:17",
+      "content": "「ああ、わざわざ交易共通語、加えて屋敷にしては新しいものじゃったな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:17",
+      "content": "「えらく手の込んだ迂遠な真似するのう……」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:17",
+      "content": "「そっか、ヒントはレイホールさんがくれてたんだね」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "23:18",
+      "content": "「身勝手と言えば身勝手な話だけれど」「まぁ、確かにいい経験にはなったかもね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:18",
+      "content": "「ワシの魔道を示すにはちょうどいい場所だったぜよ！！！！！！！！！！！！！」デカい声"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:18",
+      "content": "「今度会ったら釘を刺しておきます。自分の後始末を任せることを『後進の育成』とは言わないって」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:19",
+      "content": "「かつての主の強さも忘れていなかったと思いたいのですが、それを踏まえて<ruby><rb>新人</rb><rp>（</rp><rt>われわれ</rt><rp>）</rp></ruby>に譲ったと考えると……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:19",
+      "content": "きーん。「いえ。深掘りはここまでにしておきましょうか」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "23:19",
+      "content": "「ちょうどいい塩梅ではあったようだが…」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "23:20",
+      "content": "「……もし会ったら、とびきりのディナーを御馳走してもらうわよ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:21",
+      "content": "「ええ。たしかマギテック協会で研究員としてそれなりに良い待遇を受けてるはずだから、じゃんじゃか絞り取ると良いわ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:21",
+      "content": "「——と、そろそろ時間ね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:22",
+      "content": "「では、ちゃんと屋敷の内部を調べ終えたみたいだし、依頼は達成扱いにしておきます。お疲れ様。報酬についてはまた、帰ってきてから」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "マロン",
+      "color": "#000000",
+      "timestamp": "23:23",
+      "content": "通話終了となります。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:24",
+      "content": "「かしこまりました。明日中には帰還できますかと」ぺこり。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:24",
+      "content": "「さて、あとはハヴィングランド氏にも『心残り』の顛末を伝えて」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:24",
+      "content": "電話でだいぶ「なるほど」ってなりましたね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:24",
+      "content": "なるほど～"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:24",
+      "content": "「未知なる剣亭へと帰るとするかのう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:24",
+      "content": "そういえば交易共通語のメモとか謎でしたしね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:25",
+      "content": "こっくりこっくり──"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:25",
+      "content": "気づけばいつの間にやら船を漕ぎはじめている。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "23:25",
+      "content": "「そうしましょう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:25",
+      "content": "納得の推理力だったぜ…マロン様！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "23:25",
+      "content": "「ああ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:25",
+      "content": "「うん……そ～しよ～」寝ぼけ眼で応じながら。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:26",
+      "content": "「外はもうそろそろ夜になりそうですね。」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:26",
+      "content": "「場合によってはハヴィングランド氏に宿を借りたほうがいいかもしれんのう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:26",
+      "content": "「では、凱旋じゃああああああああああああああああああああああああ！！！！！！！！！！！！！！」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:26",
+      "content": "見事な推測！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:27",
+      "content": "「かしこまりました。皆様ご無事で何よりで御座います」ぺこり。きーん。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "23:27",
+      "content": "やっぱ変な家は栗原の推理がなくっちゃな"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:27",
+      "content": "「だ～」力なく──でもちゃんと腕を上げて応じて。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:27",
+      "content": "推理が聞けてよかった"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:27",
+      "content": "ここで〆ても、きれいな感じではあるかな？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:27",
+      "content": "ぶっ殺しゾーンから勝者の間へ進み、道なりに進むと（道中にはアンデッドも罠もなく、平和なものだった）——その先は君たちが発見した、あの書室の床面の扉だった。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:28",
+      "content": "そこから1階へ降りて、屋敷を出る。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:28",
+      "content": "自分はどちらでも行けますぜ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:28",
+      "content": "どうします？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:28",
+      "content": "流れに身を任せます"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "23:29",
+      "content": "そうねぇ＞やるべきことはやったのでここで〆てもきれいな感じ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:29",
+      "content": "外はすでに薄暗く、もうじき夜だ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:29",
+      "content": "こちらもどちらでも大丈夫です。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:29",
+      "content": "ではこの辺で〆としましょうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "23:29",
+      "content": "はい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:29",
+      "content": "了解です"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "23:29",
+      "content": "はーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:29",
+      "content": "了解しました！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:30",
+      "content": "もうこの屋敷に、アンデッドはいない。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:30",
+      "content": "人殺しの妄執も、そんな人殺しを哀れに思った<ruby><rb>使用人</rb><rp>（</rp><rt>きょうはんしゃ</rt><rp>）</rp></ruby>も"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:31",
+      "content": "了解ですぜ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:31",
+      "content": "そして、使用人に招かれては地下で動く死体と成り果てた被害者たちも。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:32",
+      "content": "君たちは屋敷をあとにする。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:33",
+      "content": "死者の心残りを砕いた足で、今度は生者の心残りを溶かすために。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:33",
+      "content": "——『変な屋敷』・完"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:33",
+      "content": "ハヴィングランド様に安眠をプレゼントでございます"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:33",
+      "content": "というわけでセッション終了です！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:33",
+      "content": "お疲れ様でした！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:33",
+      "content": "いいモノ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:33",
+      "content": "お疲れ様でしたー！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:33",
+      "content": "うおうお！お疲れさまでしたー！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:34",
+      "content": "皆さんお疲れ様でした！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "23:34",
+      "content": "お疲れ様でした！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:34",
+      "content": "滅茶苦茶楽しかったー！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:34",
+      "content": "ですねー、楽しかったー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:34",
+      "content": "楽しんでいただけたなら何よりです……！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "23:34",
+      "content": "お疲れさまでした"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:34",
+      "content": "楽しかったです　まさか原作と察しの悪い方のダブルとは予測できませんでした……！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:35",
+      "content": "部屋の謎解きで使うのか……？からのマロン様真相推理パート、燃えましたね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:35",
+      "content": "通話のピアス残せておいて良かったですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:35",
+      "content": "その辺は割とアドリブでしたね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:35",
+      "content": "いい感じの〆になりましたねー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:36",
+      "content": "おじいちゃんのシャウトが実にいい感じにｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "23:36",
+      "content": "ちゃんと電話できてよかった"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:37",
+      "content": "通話のピアスの本来の想定用途は、時計の暗号が解けなかった時に冒険者+知力を振ってもらって、それでも目標値に届かず、詰まった場合にかける、といったものでした。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:37",
+      "content": "詰み対策だったんですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:38",
+      "content": "なるほど"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:38",
+      "content": "シルブ様が天才でたすかったぜ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:38",
+      "content": "細やかな配慮だ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:38",
+      "content": "物理時計がその辺にあったのでナントカなりました＞時計"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "23:38",
+      "content": "ほうほう"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:38",
+      "content": "GMとしてもサクサク解いていってくれたので本当に助かりました"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:40",
+      "content": "あとはマロンが残った謎を解く、というのは最初に想定していた流れですが、それが通話のピアス越しっていうのは想定外でしたね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:40",
+      "content": "あ、そうだったのですね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:40",
+      "content": "＜ピアス越しが想定外"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:40",
+      "content": "ギルドに戻ってきてから答え合わせ、という流れを想定してました。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:41",
+      "content": "ああ、なるほど"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "23:41",
+      "content": "通話してないのずっと心残りだったんで……w"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:41",
+      "content": "「おお、原作再現」みたいに思ってたのですが"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:41",
+      "content": "なるほどなるほど＜ギルドに戻ってから"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:41",
+      "content": "原作で電話してたから、ここでするのかなと思ってました（答え合わせ）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:41",
+      "content": "ピアスの貸与自体、実はセッション開始前後くらいに急に決めたことだったので……"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:41",
+      "content": "そういう事でしたとは……！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:41",
+      "content": "実際にこう、顔を合わせて謎を語ってもらうより"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:42",
+      "content": "そうとは……＞セッション直後"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:42",
+      "content": "しかも貸与理由もあくまで詰み対策くらいにしか考えてませんでした"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:42",
+      "content": "ピアス越しになったことで、より原典のリスペクトっぽくなっててよかったかもですね、そのあたりは。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:42",
+      "content": "結果としていい感じに合流してましたねー！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "23:42",
+      "content": "ギリギリまでいろいろ調整するのあるある"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:42",
+      "content": "あるある"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:42",
+      "content": "というわけで皆さんのおかげで良い終わり方ができたかな、と思います"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:43",
+      "content": "あらためてありがとうございました！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:43",
+      "content": "こちらこそとても楽しく遊ばせて頂きました。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:43",
+      "content": "こちらこそ、楽しかったです！　ありがとうございました！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:43",
+      "content": "改めまして皆さんありがとうございます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "23:43",
+      "content": "ありがとうございました　楽しかった～"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:43",
+      "content": "ありがとうございました！皆様とご一緒できて本当嬉しかったです！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:44",
+      "content": "ご縁がありましたらばまたの機会にも遊んで頂けましたらば幸いです。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "23:44",
+      "content": "では解散！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:44",
+      "content": "散！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "23:44",
+      "content": "お疲れ様でした！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "23:45",
+      "content": "おつかれさまでしたーノシ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:45",
+      "content": "お疲れさまでした！予備ログもOK！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "23:45",
+      "content": "おやすみなさいませー！"
+    }
+  ]
+}

@@ -1,0 +1,718 @@
+{
+  "title": "回廊を抜け天守へ",
+  "sectionNum": 8,
+  "data": [
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "20:58",
+      "content": "来た"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:00",
+      "content": "こんばんはー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:00",
+      "content": "や"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:01",
+      "content": "ドリュウさん待ち？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:01",
+      "content": "ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:02",
+      "content": "21:05まで待ってみて来なかったらメンション飛ばしてみます"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:02",
+      "content": "りょ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:03",
+      "content": "うい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:05",
+      "content": "飛ばしました"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:07",
+      "content": "やっとうまく操作できた"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:07",
+      "content": "おかえり"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:08",
+      "content": "PCの起動にはまだ時間かかりそうですかね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:08",
+      "content": "起動というか席に着くまでが……。始めてて大丈夫です"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:08",
+      "content": "では開始します"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:09",
+      "content": "よろしくお願いします！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:09",
+      "content": "宜しくお願いします"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:10",
+      "content": "しゃす！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:10",
+      "content": "お願いします"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:11",
+      "content": "君たちは武器庫から城内へ戻った。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:11",
+      "content": "そしてこのまま回廊へ進む……ということで大丈夫かな？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:11",
+      "content": "OK！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:12",
+      "content": "OK"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:12",
+      "content": "ok"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:12",
+      "content": "では"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:12",
+      "content": "エリア移動：城内→回廊"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:12",
+      "content": "天守へ向かうには避けて通れない回廊。ここには多くの蛮族が待ち構えていた。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "蛮族",
+      "color": "#000000",
+      "timestamp": "21:13",
+      "content": "うろうろ……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "蛮族",
+      "color": "#000000",
+      "timestamp": "21:13",
+      "content": "うろうろ……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:14",
+      "content": "大体何がいる感じ？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:15",
+      "content": "そうですね、ざっくり見た感じだとゴブリンとボルグがいるようだと分かります"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:15",
+      "content": "具体的な数を把握したいなら隠密判定でこっそり近付かないと厳しいって感じです"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:17",
+      "content": "まあ遠目に見て具体的な数を把握するのが難しい程度には多いですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:17",
+      "content": "スニークミッションか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:17",
+      "content": "依頼内容は鏖殺じゃないしね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:17",
+      "content": "さけてこ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:18",
+      "content": "なんだ、避けるのか？　臆病者どもめ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "21:18",
+      "content": "では、君たちがどう蛮族たちを回避するしないという感じの相談をしていると、"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "21:18",
+      "content": "「あの」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "21:18",
+      "content": "アルくんが割って入ってきます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "21:19",
+      "content": "「あの蛮族たち、僕……の騎士たちに任せてくれませんか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:19",
+      "content": "ほう？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:20",
+      "content": "「結構いるけど、数間に合う？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:20",
+      "content": "「自信のほどは？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "21:20",
+      "content": "「<ruby><rb>騎士</rb><rp>（</rp><rt>こいつら</rt><rp>）</rp></ruby>で引きつけて逃げながら戦えば、なんとかなるはずです」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "21:20",
+      "content": "「自信は…………あります」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "21:21",
+      "content": "はっきりと断言する"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:21",
+      "content": "「へぇ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:21",
+      "content": "勇敢だな、立派な戦士だ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:21",
+      "content": "手をワキワキする"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:21",
+      "content": "しかし、やめた。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "21:21",
+      "content": "「……あの陣地で戦っていた時もそれなりの数を相手にしてましたし」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:21",
+      "content": "「……どの道、挟撃は避けなければならんしな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:22",
+      "content": "「大人として恥だが、仕方あるまいよ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:23",
+      "content": "「んじゃあ任せよっかな。でも死んだら骨拾うの間に合うかわかんないよ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:23",
+      "content": "「うん。無茶はしないで。生き延びることだけを考えてね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:24",
+      "content": "「大丈夫だ。この子はやれる。そんな気がする」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "21:24",
+      "content": "「……ありがとうございます！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "21:27",
+      "content": "「では、僕が蛮族たちを引きつけるので、皆さんは柱の影かどこか、隠れられそうなところに身を隠してて下さい」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:27",
+      "content": "うなずく"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "21:27",
+      "content": "「蛮族たちが行ったら、そのまま進んでください」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:29",
+      "content": "……君たちは適当な物陰に身を隠す。（判定は不要）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:29",
+      "content": "かくれる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:29",
+      "content": "それを確認したアルが騎士たちを蛮族にけしかけ、注意を惹きつける。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アル",
+      "color": "#000000",
+      "timestamp": "21:30",
+      "content": "「こ、こっちに来い！　蛮族ども！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "蛮族",
+      "color": "#000000",
+      "timestamp": "21:30",
+      "content": "「ガキ！　ガキ ダ！」汎用蛮族語"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "蛮族",
+      "color": "#000000",
+      "timestamp": "21:30",
+      "content": "「コロス！」汎用蛮族語"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:32",
+      "content": "アルと君たちの作戦は成功し、回廊の蛮族たちのすべて注意はアルの騎士たちへ注がれる。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:32",
+      "content": "というわけで天守へ突入できます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:33",
+      "content": "「いい男だ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:33",
+      "content": "「出会った頃の亭主を思い出す。あれは亭主が六歳の頃だったな……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:33",
+      "content": "「んじゃ、あの子が死ぬ前に片付け行こっか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:33",
+      "content": "「うむ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "アレックス",
+      "color": "#0062b1",
+      "timestamp": "21:33",
+      "content": "「そうだな。このまま進もう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イエサラ",
+      "color": "#000000",
+      "timestamp": "21:33",
+      "content": "「うん。早いところ、決着をつけないとね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:34",
+      "content": "エリア移動：回廊→天守"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:34",
+      "content": "回廊を抜け、階段を駆け上がると、そこは城下を見下ろす天守だった。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:34",
+      "content": "その奥には剣の形に似た漆黒の結晶体——"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:35",
+      "content": "〈<ruby><rb>奈落の核</rb><rp>（</rp><rt>アビスコア</rt><rp>）</rp></ruby>〉が浮かんでいる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:35",
+      "content": "そして、蛮族の長が、君たちを待ち構えていた。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ノーナ・フォルト",
+      "color": "#c45100",
+      "timestamp": "21:35",
+      "content": "「こんにちわ、死ね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "蛮族の長",
+      "color": "#000000",
+      "timestamp": "21:36",
+      "content": "『アイツ ナニ イッテル？』汎用蛮族語で参謀と思しき蛮族に尋ねる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "蛮族の参謀",
+      "color": "#000000",
+      "timestamp": "21:37",
+      "content": "『生意気なことを申しております』汎用蛮族語"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:38",
+      "content": "「悪いけど蛮族語とかわかんないんだよね〜」頭数は？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:39",
+      "content": "数は4体です"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:39",
+      "content": "種類は3種"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "蛮族の長",
+      "color": "#000000",
+      "timestamp": "21:39",
+      "content": "『ナマイキ ナ ヒトゾクドモ……コロス！』吠え猛る"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "蛮族の長",
+      "color": "#000000",
+      "timestamp": "21:40",
+      "content": "それに呼応するように、長と共にいた蛮族たちもオォーッ！と叫ぶ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ドーチェ",
+      "color": "#194d33",
+      "timestamp": "21:40",
+      "content": "「言葉がわかんなくても何言ってるかなんとなくわかる辺り、単純な連中だ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:41",
+      "content": "というわけで戦闘になります"
+    }
+  ]
+}

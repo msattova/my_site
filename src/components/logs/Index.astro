@@ -1,0 +1,17 @@
+---
+const {sections} = Astro.props;
+//console.log(sections);
+---
+
+<section class="index" id="index">
+  <h2>目次</h2>
+  <ul>
+    {
+      [].map.call(Object(sections), ((section, index) => (
+        section.isPreplay ?
+        (<li class="preplay"><a href="#chara-make">{section.title}</a></li>) :
+        (<li class="chap"><a href={`#sec${index}`}>{section.title}</a></li>)
+      )))
+    }
+  </ul>
+</section>

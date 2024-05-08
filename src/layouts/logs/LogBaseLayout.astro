@@ -1,0 +1,99 @@
+---
+import "@styles/reset.css";
+import "@styles/statusbar_style.css";
+import "@styles/global.css";
+import "@styles/data_style.css"
+
+import Header from "@components/logs/Header.astro";
+import Footer from "@components/logs/Footer.astro";
+import Main from "@layouts/logs/Main.astro";
+
+const { logData, sections,  } = Astro.props;
+
+const participants = logData.participants;
+
+const pageTitle = logData.title;
+const url = logData.url;
+const siteDescription = logData.siteDescription;
+const siteName = logData.siteName;
+const siteDescriptionTweet = logData.siteDescription;
+const rights = logData.rights;
+
+const playerColors = [].map.call(Object(participants), (participant, index) => {
+  return { index: index, color: participant.color };
+});
+
+const colorVars = playerColors
+  .map((el) => {
+    return `--part${el.index}-color: ${el.color};`;
+  })
+  .join("\n");
+const parts = playerColors
+  .map((el) => {
+    return (
+      `.part${el.index} { ` +
+      `--my-color: var(--part${el.index}-color);` +
+      `color: var(--my-color);` +
+      `}`
+    );
+  })
+  .join("\n");
+
+const partStyleHTML = `
+:root {
+  ${colorVars}
+}
+${parts}
+
+.participants li .charactor-name::before {
+  background-color: var(--my-color);
+}
+
+/* タブ名表示の設定 */
+.tab2 .name::before {
+  content: "【サブ】";
+}
+
+.tab3 .name::before {
+  content: "【雑談】";
+}
+
+`;
+
+//console.log(playerColors);
+
+---
+
+<html lang="ja" prefix="og: http://ogp.md/ns#">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="generator" content={Astro.generator} />
+
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="format-detection" content="telephone=no" />
+    <!--- discord等で埋め込みが表示されるようにするためのOGP設定 --->
+    <meta property="og:url" content={url} />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={siteDescription} />
+    <meta property="og:site_name" content={siteName} />
+    <meta name="twitter:card" content={siteDescriptionTweet} />
+    <!----->
+
+    <base target="_self" />
+
+    <title>{pageTitle}</title>
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+
+    <Fragment set:html={`<style>${partStyleHTML}</style>`} />
+  </head>
+  <body>
+    <Header title={pageTitle} />
+    <Main participants={participants} sections={sections}>
+      <slot />
+    </Main>
+    <Footer rights={rights} />
+  </body><script src="../../scripts/main.js"></script>
+</html>

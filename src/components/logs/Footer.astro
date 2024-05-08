@@ -1,0 +1,10 @@
+---
+const {rights} = Astro.props;
+---
+
+<footer class="footer" id="js-footer">
+  <p>
+    <!--権利表記など-->
+    <Fragment set:html={rights} />
+  </p>
+</footer>

@@ -1,0 +1,59 @@
+{
+  "ref": {
+    "book": "るるぶ",
+    "page": 666
+    },
+  "lv": 999,
+  "name": "monster",
+  "int": "低い",
+  "sense": "鋭敏",
+  "reaction": "機敏",
+  "kegere": "2",
+  "lang": "機械語、アセンブリ、BASIC、COBOL",
+  "habitat": "都市",
+  "famousPoint": "100",
+  "weakPoint": "120",
+  "weak": "太陽光",
+  "initiative": "0",
+  "speed": "おそい",
+  "speedAlt": "機敏（暗闇）",
+  "livResist": "10",
+  "mndResist": "-999",
+  "parts": [
+    {
+      "name": "手",
+      "hit": "90",
+      "attack": "1",
+      "avoid": "80",
+      "guard": "0",
+      "HP": "100",
+      "MP": "0"
+    },
+    {
+      "name": "足",
+      "hit": "9",
+      "attack": "100",
+      "avoid": "8",
+      "guard": "90",
+      "HP": "100",
+      "MP": "0"
+    }
+  ],
+  "skills": [
+    {
+      "name": "○視力：低",
+      "description": "「眼鏡」を装備してないと命中力が0に"
+    },
+    {
+      "name": "○色素：薄",
+      "description": "日光を浴びている間、毎ラウンドHP-10"
+    }
+  ],
+  "rewards": [
+    {
+      "roll": "自動",
+      "data": "純金の腕時計"
+    }
+  ],
+  "description": "description"
+}

@@ -1,0 +1,171 @@
+---
+import { getEntry } from "astro:content";
+import { getCollection } from "astro:content";
+
+const { dataSrc } = Astro.props;
+
+const data = await getEntry("pcData", dataSrc).then((res) => {
+  //console.log(res.data);
+  return res.data;
+});
+
+const calcStatus = (stt, addStt) => {
+  return addStt !== undefined
+    ? `${stt}<span class="add">+${addStt}</span>`
+    : stt;
+};
+---
+
+<div class="data ally">
+  <article>
+    <div class="first-row">
+      <div class="race">{data.race}</div>
+      <h3>
+        <span class="lv">Lv.<span class="adv-lv">{data.advLv}</span></span><span
+          class="pc-name">{data.pcName}</span
+        >
+      </h3>
+    </div>
+    <div class="parameter">
+      <ul class="status">
+        <li><span class="term">HP</span><span class="hp">{data.HP}</span></li>
+        <li><span class="term">MP</span><span class="mp">{data.MP}</span></li>
+        <li>
+          <span class="term">生命抵抗</span><span class="resist-vit"
+            >{data.resistVit}</span
+          >
+        </li>
+        <li>
+          <span class="term">精神抵抗</span><span class="resist-mnd"
+            >{data.resistMnd}</span
+          >
+        </li>
+        <li>
+          <span class="term">移動力</span><span class="move-point"
+            >{data.movePoint}</span
+          >
+        </li>
+        <li>
+          <span class="term">防護点</span><span class="guard-point"
+            >{data.guardPoint ? data.guardPoint : 0}</span
+          >
+        </li>
+      </ul>
+      <div class="dataComment">
+        <table class="battle-data">
+          <thead>
+            <tr>
+              <th></th>
+              <th>器用</th>
+              <th>敏捷</th>
+              <th>筋力</th>
+              <th>生命</th>
+              <th>知力</th>
+              <th>精神</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>能力値</th>
+              <td
+                ><span class="dex"
+                  ><Fragment
+                    set:html={calcStatus(data.dex, data.addDex)}
+                  /></span
+                >
+                <td
+                  ><span class="agi"
+                    ><Fragment
+                      set:html={calcStatus(data.agi, data.addAgi)}
+                    /></span
+                  >
+                  <td
+                    ><span class="mus"
+                      ><Fragment
+                        set:html={calcStatus(data.mus, data.addMus)}
+                      /></span
+                    >
+                    <td
+                      ><span class="vit"
+                        ><Fragment
+                          set:html={calcStatus(data.vit, data.addVit)}
+                        /></span
+                      >
+                      <td
+                        ><span class="int"
+                          ><Fragment
+                            set:html={calcStatus(data.int, data.addInt)}
+                          /></span
+                        >
+                        <td
+                          ><span class="mnd"
+                            ><Fragment
+                              set:html={calcStatus(data.mnd, data.addMnd)}
+                            /></span
+                          >
+                        </td>
+                        <tr>
+                          <th>能力値ボーナス</th>
+                          <td
+                            ><span class="dex-b"
+                              >{data.dexB >= 0 ? "+" : "-"}{data.dexB}</span
+                            ></td
+                          >
+                          <td
+                            ><span class="agi-b"
+                              >{data.agiB >= 0 ? "+" : "-"}{data.agiB}</span
+                            ></td
+                          >
+                          <td
+                            ><span class="mus-b"
+                              >{data.musB >= 0 ? "+" : "-"}{data.musB}</span
+                            ></td
+                          >
+                          <td
+                            ><span class="vit-b"
+                              >{data.vitB >= 0 ? "+" : "-"}{data.vitB}</span
+                            ></td
+                          >
+                          <td
+                            ><span class="int-b"
+                              >{data.intB >= 0 ? "+" : "-"}{data.intB}</span
+                            ></td
+                          >
+                          <td
+                            ><span class="mnd-b"
+                              >{data.mndB >= 0 ? "+" : "-"}{data.mndB}</span
+                            ></td
+                          >
+                        </tr>
+                      </td>
+                    </td>
+                    <small></small>
+                  </td>
+                </td>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <ul class="skill-data">
+        {
+          data.skillData.map((skill) => (
+            <li>
+              <span class="term">{skill.name}</span>
+              <span class="lv">{skill.lv}</span>
+            </li>
+          ))
+        }
+      </ul>
+      <hr />
+      <div class="description">
+        <details>
+          <summary>容姿・経歴・その他メモ</summary>
+          <div class="memo">
+            <Fragment set:html={data.description} />
+          </div>
+        </details>
+      </div>
+    </div>
+  </article>
+</div>

@@ -1,0 +1,8059 @@
+{
+  "title": "1階",
+  "sectionNum": 5,
+  "data": [
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:42",
+      "content": "では君たちは鍵を開けて屋敷の中へ入ります。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:43",
+      "content": "現在値：ホール"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:43",
+      "content": "すでにホールの時点で、謎の空間×２とは隣接してるんですよね、ふむ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:43",
+      "content": "ホール自体には窓がないこともあり、昼間にしては暗めです。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "14:44",
+      "content": "ホールから調べても良さそうな気配ですわね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:45",
+      "content": "変な空間の隣接地でもありますし、調べますか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:45",
+      "content": "ホールには古びた建物特有の、ほこりっぽいにおいが漂っています。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:46",
+      "content": "ですねー　応接間の北側と、物置の北側の二か所。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:46",
+      "content": "まずはどうします？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "14:46",
+      "content": "「当たり前ですが……手入れはされてないようですね。」ランタンの準備をしておきます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:47",
+      "content": "「最初から暗いの」ランタンつけます/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:47",
+      "content": "「えっと、確かあやしーところが２つあるんだよね、このホールに？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "14:47",
+      "content": "「ああ、そうだったな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "14:47",
+      "content": "「洞窟とはまた違う暗さね……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:48",
+      "content": "さて、ではランタンをつけたことで周囲の様子を（暗視持ちでなくとも）確認しやすくなりました"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "14:48",
+      "content": "「図面にあった空洞のエリアですね。」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:48",
+      "content": "暗視もってないのはラヴィとシルブ……だけですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "14:48",
+      "content": "3/5が暗視なのかこのパーティ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:48",
+      "content": "「ありがとシルブ！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "14:49",
+      "content": "「二階に行く前に調べておいて良いかと思われます」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:49",
+      "content": "異種族こみゅにけーしょん"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:49",
+      "content": "「じゃのお、さくっと見て回るき」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:49",
+      "content": "「うんっ！」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:50",
+      "content": "玄関から入った段階で見れる状況としては、右手側に扉が二つ、左手側手前にはやや広い通路があり、その奥、突き当たりはT字になるように通路が左右に一つずつ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:50",
+      "content": "そして、君達の真正面に扉があります。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:50",
+      "content": "ん、あれ。真正面に？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "14:51",
+      "content": "扉がある！？？？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:51",
+      "content": "右手側2つは応接間とコレクション"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:51",
+      "content": "図面にはない扉かな？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:51",
+      "content": "左手手前は物置とダイニングの間"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:51",
+      "content": "奥のTはトイレ寝室階段前のエリア"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:52",
+      "content": "真正面に扉は地図上になさそう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:52",
+      "content": "何の判定になります？　これ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "14:52",
+      "content": "調べられる奴かな？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:52",
+      "content": "ＧＭ、真正面とは地図上のこのあたりでしょうか？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:53",
+      "content": "はい。主人の寝室の壁面にくっついてる感じですね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:53",
+      "content": "＜確認用押しピン"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:53",
+      "content": "扉を開ければそのまま寝室に入れそうに見えます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:53",
+      "content": "ふむふむ、となるとやはり図面上は存在しない扉っぽいですね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:53",
+      "content": "ありがとうございます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:53",
+      "content": "この寝室……なにか変……？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "14:53",
+      "content": "なんだなんだ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:53",
+      "content": "そんな訳で所在ピン以外に確認ピンを作ってみました。なにかあればご利用くださいませ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:53",
+      "content": "図面上に存在しない、ということには判定不要で気付いて大丈夫です"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:54",
+      "content": "ありがとうございます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:54",
+      "content": "「んん？　なんぞ図面に無い扉が無いがか？」真正面から見える謎の扉に言及します/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:54",
+      "content": "「うん、図面にはなかったよね？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:54",
+      "content": "「改築したのかな？」（きょとん）/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:54",
+      "content": "「改築するなら先に階段じゃろ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "14:54",
+      "content": "「(図面と扉を見比べて、首をかしげる)」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "14:55",
+      "content": "「この扉……何か変……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "14:55",
+      "content": "ありがとうございます！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:55",
+      "content": "ありがとうございます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "14:56",
+      "content": "「図面上は我々の死角になる面に扉がある筈です。」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "14:56",
+      "content": "ありがとうございます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:56",
+      "content": "「とりあえずあの扉から調べてみようか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:56",
+      "content": "「罠とかには気をつけて」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:56",
+      "content": "「じゃのう、いきなり知らんもんが出るとは思わんかったが、調べといたほうがええじゃろ」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:57",
+      "content": "では警戒しながら正面に見える扉に近付く、でよろしいでしょうか？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "14:57",
+      "content": "おお"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:57",
+      "content": "OK"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:57",
+      "content": "「うんっ！」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "14:57",
+      "content": "「そう致しましょう。」弾丸装填を確認しつつ調べに行きます。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:57",
+      "content": "ですねー、警戒しながら扉へ近づきます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "14:57",
+      "content": "開けるのは慎重に行きたいわね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:58",
+      "content": "では、危険感知判定（目標値11）をしてください！　警戒しながら、とのことでしたので+2のボーナス修正付きです"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:59",
+      "content": "危険感知！？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:59",
+      "content": "2d6+3+4+2　危険感知判定：種族特徴：第六感　ボーナスあり<br>SwordWorld2.5 : (2D6+3+4+2) → 9[4,5]+3+4+2 → 18"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:59",
+      "content": "2d6+3+2&gt;=11　危機感知<br>SwordWorld2.5 : (2D6+3+2&gt;=11) → 2[1,1]+3+2 → 7 → 自動的失敗"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "14:59",
+      "content": "おう（汗）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "14:59",
+      "content": "また1ゾロ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:59",
+      "content": "ｺﾞｼﾞｯﾃｰﾝ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "14:59",
+      "content": "2d+1+4 スカウト観察<br>SwordWorld2.5 : (2D6+1+4) → 7[4,3]+1+4 → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "14:59",
+      "content": "序盤から飛ばし過ぎでは？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:00",
+      "content": "2d6+1+1+2 レンジャー危機感知<br>SwordWorld2.5 : (2D6+1+1+2) → 4[1,3]+1+1+2 → 8"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:00",
+      "content": "なにっ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:01",
+      "content": "2D6+{レンジャー}+2＋2　レンジャー+知力B 足跡/聞き耳/危険感知/探索/地図作製/天候/病気知識/薬品学/罠感知"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:01",
+      "content": "スカウトでは"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:01",
+      "content": "あ、屋内なのでレンジャーは使えないですね……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:01",
+      "content": "スカウトでしたね……失礼しました"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:02",
+      "content": "2D6+2+1＋2　スカウト/危険感知<br>SwordWorld2.5 : (2D6+2+1+2) → 7[6,1]+2+1+2 → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:02",
+      "content": "セーフ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:02",
+      "content": "後衛が全員成功、前衛が全員失敗"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:02",
+      "content": "（てへ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:02",
+      "content": "危険感知はレンジャーでも屋内可ですよ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:03",
+      "content": "そうなんです？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:03",
+      "content": "1－114"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:03",
+      "content": "いえ、そもそもトゥーアはレンジャー持ってなかったので……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:03",
+      "content": "異常感知はできない"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:03",
+      "content": "ないんかい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:03",
+      "content": "自然環境条件が書いてない"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:03",
+      "content": "ガバガバチャパレ操作ミスでした"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:03",
+      "content": "どっちかというと"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:03",
+      "content": "あ、ほんとうだ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:03",
+      "content": "イング君＞レンジャー"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:03",
+      "content": "うん"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:03",
+      "content": "とりあえず前失敗の後ろ成功の結果です"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:04",
+      "content": "ですね、可能なら声かけしてもらいたいところ。＜前二人は失敗"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:04",
+      "content": "まあ後衛がとっさに気付いて呼び止める、的なロールをしていただければセーフという扱いにしましょうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:04",
+      "content": "「まてえええええええええええええいいい！！！！」爆音で前衛を呼び止める/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:04",
+      "content": "「！」びくっと止まる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:04",
+      "content": "「どどっ、どしたのシルブ！？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:05",
+      "content": "「うぉっと」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:05",
+      "content": "おじいちゃんの大声が──活きた！ｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:05",
+      "content": "「独学の判断ですが……嫌な予感がいたします！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:05",
+      "content": "「戦闘態勢を！」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:05",
+      "content": "「その扉、変じゃぞ！　図面に無いとかじゃないけえ！　ワシの魔道が告げておる！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:05",
+      "content": "でかい！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "扉？",
+      "color": "#000000",
+      "timestamp": "15:06",
+      "content": "バンッ！　とひとりでに開いて前衛二人を攻撃しようとする"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:06",
+      "content": "えっ、アサルトドアーとか？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:06",
+      "content": "「その扉……魔道の物がか！？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:06",
+      "content": "ミミック的な！？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "扉？",
+      "color": "#000000",
+      "timestamp": "15:06",
+      "content": "魔物知識判定どうぞ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:06",
+      "content": "魔法生物にいたきがするドア"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:06",
+      "content": "2d6+1+4 セージ知識判定パッケージ<br>SwordWorld2.5 : (2D6+1+4) → 11[6,5]+1+4 → 16"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:06",
+      "content": "2d6　平目<br>SwordWorld2.5 : (2D6) → 10[5,5] → 10"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:06",
+      "content": "2d+1+4 セージ知識<br>SwordWorld2.5 : (2D6+1+4) → 7[1,6]+1+4 → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:07",
+      "content": "2d6<br>SwordWorld2.5 : (2D6) → 9[5,4] → 9"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:07",
+      "content": "セージ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:07",
+      "content": "2d6＋3　魔物知識！<br>SwordWorld2.5 : (2D6+3) → 11[5,6]+3 → 14"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:07",
+      "content": "知名度/弱点：9/12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:07",
+      "content": "なので弱点まで抜けましたね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:08",
+      "content": "はっそうか！そう言えば居た！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:08",
+      "content": "正体はドアイミテイター（ルルブ1 p.461、ML p.143）です"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:08",
+      "content": "弱点は物理ダメ+2と"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:09",
+      "content": "ちなみにトレジャーポイント2点入りです"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:09",
+      "content": "「独学で読んだ書の中に覚えがあります……恐らくは『ドアイミテイター』！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:09",
+      "content": "トレポン2，お得だけど強いやつ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:09",
+      "content": "手番終了時に1d6して5,6が出れば追加攻撃！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:09",
+      "content": "「扉に擬態する……魔法生物だったかしら。可食部はなし」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:10",
+      "content": "「知ってる、おばけドアだ！」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:10",
+      "content": "「殴り倒せば大人しくなる相手です！頑張って参りましょう！」チャカッ！/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:10",
+      "content": "「魔法生物じゃが、ここは魔動機文明に作られた建物じゃ……勝手に生えたたか誰かが作ったがか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:11",
+      "content": "「さっさとぶっ潰そう」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:11",
+      "content": "「まあええ、まずは戦いじゃああああああああああああああああああ！！！」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:11",
+      "content": "では戦闘準備で何かすることがある人ー？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:11",
+      "content": "シルブはなしです"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:11",
+      "content": "ありません！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:11",
+      "content": "なし"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:11",
+      "content": "特にはなかったはず"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:12",
+      "content": "戦闘準備時はなし！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:12",
+      "content": "あ、ちなみに今回は上級戦闘ルールですので、PCたちとドアイミテイターとの間の距離は5mの状態で開始とします。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:12",
+      "content": "了解です"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:13",
+      "content": "了解しました。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:13",
+      "content": "了解ですぜ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:13",
+      "content": "屋内だから少し近いわね。こいつだけなら平気だけれど。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:14",
+      "content": "後で制限移動でちょっと下がっておこう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:14",
+      "content": "では先制どうぞ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:14",
+      "content": "距離表示しおりを作成してみたので、よかったら使ってみて下せえ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:14",
+      "content": "2d6+3+4+1 ウォーリーダー先制判定（軍師の知略）<br>SwordWorld2.5 : (2D6+3+4+1) → 7[6,1]+3+4+1 → 15"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:14",
+      "content": "先制！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:14",
+      "content": "ありがとうございます！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:15",
+      "content": "2d6+6　先制判定<br>SwordWorld2.5 : (2D6+6) → 5[2,3]+6 → 11"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:15",
+      "content": "2d+1+3 スカウト運動<br>SwordWorld2.5 : (2D6+1+3) → 10[6,4]+1+3 → 14"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:15",
+      "content": "2d6＋3　先制！<br>SwordWorld2.5 : (2D6+3) → 5[3,2]+3 → 8"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:15",
+      "content": "頼れるおじいちゃん！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:15",
+      "content": "相手の先制は10なので先制！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:15",
+      "content": "ｻｽｶﾞﾃﾞｺﾞｻﾞｲﾏｽ…！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:16",
+      "content": "ではPC側の手番から！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:17",
+      "content": "じゃあバフばらまくんでシルブから行こうかと"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:17",
+      "content": "トゥーアのできる事は命中力＋2ソリッドバレットガンの為"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:17",
+      "content": "フィールドプロテクションが不要なら待機で、様子見て厳つき氷って感じになるわね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:17",
+      "content": "はーい！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:17",
+      "content": "そうかスノウエルフ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:18",
+      "content": "移動は制限移動で3mうしろに"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:18",
+      "content": "バフデバフ等ありましたらお先にお願い致します！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:18",
+      "content": "鼓咆：怒涛の攻陣1：物理ダメージ+1"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:18",
+      "content": "回避そうでもないし、素直に2回蹴ってもいいかもな。おじいちゃんがデバフってくれるなら"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:18",
+      "content": "（半径10m）の範囲の味方に物理+1を付けます"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:18",
+      "content": "あ、ちがう。おじいちゃんバフか。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:19",
+      "content": "んじゃ素直に投げておこう。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:19",
+      "content": "デバフもあるっちゃある"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:19",
+      "content": "もちろん必要ならFプロかけるけど、単体1行動だしあまり意味なさそうなのよね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:19",
+      "content": "魔法収束ダークミストで相手の回避下げワンチャンは可能です"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:19",
+      "content": "ですねー、まだ前哨戦も前哨戦なので"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:19",
+      "content": "リソース大事にたたかってこうかな、と。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:19",
+      "content": "最初だし様子見つつ温存戦で行きましょうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:20",
+      "content": "相手の回避下げます？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:20",
+      "content": "TPの追加行動あるから1行動ではないのか、まぁでも。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:20",
+      "content": "敵は5or6でもう一回攻撃してきますね。ただ1日一回だけですねコレは"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:20",
+      "content": "有難いパワー！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:21",
+      "content": "つまり……動く前に殺せばヨシ！（脳筋PL）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:21",
+      "content": "あるある"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:21",
+      "content": "真理！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:21",
+      "content": "んじゃ投げでデバフ付与してこうと思います＜おじいちゃんの演出終わったら"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:22",
+      "content": "ふむ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:22",
+      "content": "あ、たぶん投げできない気が"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:22",
+      "content": "足がないから？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:22",
+      "content": "です"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:22",
+      "content": "そうか……！ドアに足があるわけない！！！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:22",
+      "content": "ダメージ増やそう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:22",
+      "content": "2倍拡大エンチャント・ウェポンを前衛2人に"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:23",
+      "content": "二足歩行するキャラクターでないとできないので"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:23",
+      "content": "あ、投げ強化１あるからいけるかと思ったけど"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:23",
+      "content": "2d6+2+4 コンジャラー魔法行使判定<br>SwordWorld2.5 : (2D6+2+4) → 7[1,6]+2+4 → 13"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:23",
+      "content": "そもそも──立ってなかった！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:23",
+      "content": "足なぁあああい！！！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:23",
+      "content": "かきはらさーん！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:23",
+      "content": "成功、イングとラヴィは魔法武器化・物理ダメージ+1です"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:23",
+      "content": "あ、投げ強化1ならできるか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:23",
+      "content": "怒涛と合わせて物理+2になります"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:24",
+      "content": "「移動方法や足の数に制限されず」とあるのでできますね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:24",
+      "content": "やったぜ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:24",
+      "content": "すみません。こちらの確認不足でした"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:24",
+      "content": "「その扉は堅いんじゃああああ！　殴るなら蝶番を狙うんじゃあああああああああああ！！！！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:24",
+      "content": "いえいえ、こちらがきちんと特技取得の旨を宣言すべきでしたね、お手間を。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:24",
+      "content": "んじゃ続けて投げにいきますねー＜ALL"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:24",
+      "content": "と攻陣をかけながら魔法使いつつ攻め方を指示します"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:24",
+      "content": "演出終わり、次の方！/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:24",
+      "content": "シルブのMPを4減少(26 → 22)"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:25",
+      "content": "では補助はなし、移動アクションでドアのところまで移動。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:25",
+      "content": "がんばってー！！！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:25",
+      "content": "投げ強化１でパワーアップした投げ攻撃をドアイミテイターにみまいます！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:25",
+      "content": "2d6+7　イージーグリップ命中判定<br>SwordWorld2.5 : (2D6+7) → 9[5,4]+7 → 16"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:26",
+      "content": "命中！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:26",
+      "content": "当たり！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:26",
+      "content": "K20+8+2@12<br>SwordWorld2.5 : KeyNo.20c[12]+10 → 2D:[1,6]=7 → 5+10 → 15"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:26",
+      "content": "15点の物理！　支援心強いなぁ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:26",
+      "content": "弱点で物理ダメージ+2なので、物理ダメージは計17点ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:27",
+      "content": "そういや弱点あった"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:27",
+      "content": "あ、そうか。失礼しました。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:27",
+      "content": "防護点が5点なので、12点のダメージ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:27",
+      "content": "防護5だから12点か"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:27",
+      "content": "この扉、防護5あってかったいんですよね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:27",
+      "content": "「んしょっ！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:27",
+      "content": "がしっ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:27",
+      "content": "浮遊するドアの両側を両手で掴み──"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:27",
+      "content": "「えぇーいっ！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:27",
+      "content": "がごーんっ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:27",
+      "content": "まるでシーツでも<ruby><rb>叩</rb><rp>（</rp><rt>はた</rt><rp>）</rp></ruby>くかのように、床へと<ruby><rb>叩</rb><rp>（</rp><rt>たた</rt><rp>）</rp></ruby>きつける！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:27",
+      "content": "ドア剥ぎ取られちゃった"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:27",
+      "content": "（むろん蝶番もダメージを受けているぞ！）/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:28",
+      "content": "ドアイミテイターのHPを12減少(22 → 10)"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:28",
+      "content": "畳返しめいたドア叩きだ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:29",
+      "content": "ドアは床の上でもがいている！/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:29",
+      "content": "次の方どうぞ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:29",
+      "content": "じゃあ行きますか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:29",
+      "content": "キャッツアイ使用"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:30",
+      "content": "移動して接敵"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:30",
+      "content": "トドメヲサセーッ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:30",
+      "content": "実質ダメージ+4なので"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:30",
+      "content": "殴り倒せそうなんですよね本当に"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:31",
+      "content": "2d+6-2+1 1撃目命中<br>SwordWorld2.5 : (2D6+6-2+1) → 5[3,2]+6-2+1 → 10"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:31",
+      "content": "回避は10！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:31",
+      "content": "転倒”！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:31",
+      "content": "あ、そうだわ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:31",
+      "content": "当たります！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:31",
+      "content": "「そこだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:32",
+      "content": "投げ効果が効いたぜ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:32",
+      "content": "連携力が高い！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:32",
+      "content": "k10+4+2+2@11　1撃目ダメ<br>SwordWorld2.5 : KeyNo.10c[11]+8 → 2D:[5,5]=10 → 5+8 → 13"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:33",
+      "content": "防護点5点なので8点ダメージ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:33",
+      "content": "ドアイミテイターのHPを8減少(10 → 2)"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:33",
+      "content": "後2点！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:33",
+      "content": "2d+6-2+1 2撃目命中<br>SwordWorld2.5 : (2D6+6-2+1) → 7[1,6]+6-2+1 → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:33",
+      "content": "当たり！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:33",
+      "content": "「続けて喰らえ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:34",
+      "content": "両手利き＋追加攻撃で3回！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:34",
+      "content": "k10+4+2+2@11　2撃目ダメ<br>SwordWorld2.5 : KeyNo.10c[11]+8 → 2D:[4,5]=9 → 5+8 → 13"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:34",
+      "content": "勝ったッ！第一戦完ッ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:34",
+      "content": "死！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:34",
+      "content": "ドアイミテイターのHPを8減少(2 → -6)"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:35",
+      "content": "前衛組二人の息もつかせぬ（ドアなので息はしていないが）連撃に——ドアイミテイター、完全破壊！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:35",
+      "content": "君達の勝利！！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:35",
+      "content": "やったー！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:36",
+      "content": "流石でございますね……！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:36",
+      "content": "びくとりー！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:36",
+      "content": "では剥ぎ取りとトレジャードロップ表ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:37",
+      "content": "トレポン効果を発揮する前に本当に破壊してしまった"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:37",
+      "content": "トレジャーポイントは2点"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:38",
+      "content": "B表を1回ふるか、Aを2回ふるかですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:38",
+      "content": "ですね。その辺はPL陣で決めていただけたらと"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:38",
+      "content": "表Bはテンペスト(ガンA)が当たり枠でしょうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:38",
+      "content": "ガン！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:38",
+      "content": "幸運のおまもりもおいしいといえばおいしい＞B"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:38",
+      "content": "そのあたりの細かなところはわからないので、おまかせで。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:39",
+      "content": "任せます"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:39",
+      "content": "勉強しとかないとな、トレジャーポイントと"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:39",
+      "content": "ちなみに剥ぎ取りは誰が振ります？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:39",
+      "content": "倒した人でよいかな、とは。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:39",
+      "content": "皆様初期～レベル3冒険者だし、扱いやすそうなA表二回でもいい気はしますね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:39",
+      "content": "今のところプラス効果持ちは誰もいなかった（と思う）ので、振りたい方でいいかなと"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:40",
+      "content": "アルケミストいないですし、格闘武器は表BにはないのでA×2回でいいかと"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:40",
+      "content": "じゃあA2回に1票で"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:40",
+      "content": "エピックトレジャリーに該当リストが乗ってるぜ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:40",
+      "content": "エピトレP60あたりから説明があります"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:41",
+      "content": "A表を2回、誰が振ります？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:41",
+      "content": "1個振っていいならシルブふりたいです"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:41",
+      "content": "行動した3人が順に振るとかでいいんじゃない？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:41",
+      "content": "振りたい人が居なければ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:42",
+      "content": "A表2回なら、最初の1d6で表の決定"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:42",
+      "content": "1～3でA1,4~6でA2"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:42",
+      "content": "私も問題なくでございます！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:42",
+      "content": "2個目の1d6で黒地白文字の数字を参照、3個目で決定としましょうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:43",
+      "content": "了解です、んではそうしましょうか。時間をとられてしまうのはもったいない。1ｄ6すればオケですか？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:43",
+      "content": "了解です"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:43",
+      "content": "3d6 トレA<br>SwordWorld2.5 : (3D6) → 11[3,4,4] → 11"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:43",
+      "content": "A1-4-4"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:43",
+      "content": "ブレストアーマーですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:43",
+      "content": "ブレストアーマー：非金属鎧A"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:43",
+      "content": "あ、ちがうか。あとはイングくんが3ｄ6してくれれば大丈夫そう。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:43",
+      "content": "3d6<br>SwordWorld2.5 : (3D6) → 15[6,3,6] → 15"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:44",
+      "content": "A2-3-6"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:44",
+      "content": "迅雷の髪飾り"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:44",
+      "content": "お、なんかかっこよさそうなのが。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:44",
+      "content": "じゃあ剝ぎ取りはラヴィにお願いしよう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:44",
+      "content": "消耗品アイテムですね＞迅雷"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:44",
+      "content": "投げると雷ダメージの装飾品"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:44",
+      "content": "1500G"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:44",
+      "content": "了解です。２ｄ６でしたね＜剥ぎ取り"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:44",
+      "content": "迅雷の髪飾り（ET p.138）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:45",
+      "content": "はい。お願いします"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:45",
+      "content": "2d6　はぎはぎとりとり<br>SwordWorld2.5 : (2D6) → 5[3,2] → 5"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:45",
+      "content": "剥ぎ取り（13：40→13：50）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:45",
+      "content": "なし！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:45",
+      "content": "残念！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:45",
+      "content": "悲しい物語でございますね……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:45",
+      "content": "ブレストアーマーは非金属A：必筋10：防護点5：1000G"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:45",
+      "content": "チャンと時間画像が変わってるの、細かいぜ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:46",
+      "content": "ですねぇ、細やか。そしてわかりやすい。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:46",
+      "content": "グラップラー装備できないからコッチは売りかなあ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:46",
+      "content": "そのあたりはまとめておいて"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:46",
+      "content": "ブレストアーマーはグラップラー装備できないから売るしかなさそう　迅雷は……でも私は厳つき氷があるしなぁといったところ"
+    },
+    {
+      "type": "message",
+      "tabNum": "2",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:46",
+      "content": "トレジャードロップ結果<br>・迅雷の髪飾り（ET p.138）1500G<br>・ブレストアーマー（ET p.102）非金属鎧A 1000G"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:46",
+      "content": "後で分配かな"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:46",
+      "content": "ありがとうございます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:46",
+      "content": "シルブは必要なら収束スパークするので"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:46",
+      "content": "わたくしが装備出来るけどどうするか…くらいでございますね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:47",
+      "content": "まあ売っちゃっていいかなと"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:47",
+      "content": "売った方が有効活用できそうだわね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:48",
+      "content": "まあその辺はセッション終了時に決めても良いでしょうし"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:48",
+      "content": "売るぜ～超売るぜ～"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:48",
+      "content": "了解です＞セッション終了時"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:48",
+      "content": "皆で持ち帰りでございますね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:49",
+      "content": "とりあえず獲得したものはタブの戦利品欄に書いていきます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:49",
+      "content": "ありがとうございます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:49",
+      "content": "ありがとうございます、了解です。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:49",
+      "content": "「この扉、変なもん取り込んでるのう、どこから出てきたんじゃこの鎧」剥ぎ取りでアーマーが出てきた感じ/"
+    },
+    {
+      "type": "message",
+      "tabNum": "2",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:49",
+      "content": "ドアイミテイター（Lv3）：経験点3*10点 / 戦利品：なし"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:50",
+      "content": "「びっくりしたねぇ」つんつん鎧をつつきながら。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:50",
+      "content": "「他にもこんなのいるんだろうか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:50",
+      "content": "「防犯設備としては物騒ですが……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:50",
+      "content": "「あり得ますね。」くい。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:50",
+      "content": "「でもとりあえず一安心──かな？」他には図面と違う点はなさそうだ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:50",
+      "content": "「魔動機文明つっとるのに魔法文明の物があるのは奇妙じゃき」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:50",
+      "content": "「人を襲って食べたのかな……私たちは扉なんて食べられないのに……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:50",
+      "content": "「今のうちに、怪しいとこ２つ、調べちゃお？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:51",
+      "content": "「そうだな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:51",
+      "content": "「このドアは別に食ったりはしなかった気がするがのう……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:51",
+      "content": "「そう致しましょうか」見分を終え、立つ。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:51",
+      "content": "「他の所も調べるけぇ」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:51",
+      "content": "ではホールの探索？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:52",
+      "content": "ですね。具体的には物置の北側、コレクションルームと応接間の間にあたるスペースを"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:52",
+      "content": "了解です"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:52",
+      "content": "ホール側から調べてみたいところです。隠し扉とか。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:52",
+      "content": "では探索判定をまずは振ってもらいましょうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:53",
+      "content": "2d6　ひらめ<br>SwordWorld2.5 : (2D6) → 10[6,4] → 10"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:53",
+      "content": "知力は高いけど探索判定用の技能は……無い！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:53",
+      "content": "2d+1+4 スカウト観察<br>SwordWorld2.5 : (2D6+1+4) → 12[6,6]+1+4 → 17"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:53",
+      "content": "あ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:53",
+      "content": "2D6+1+2　スカウト+知力B 探索<br>SwordWorld2.5 : (2D6+1+2) → 7[5,2]+1+2 → 10"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:53",
+      "content": "自動成功！？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:53",
+      "content": "6ゾロだ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:53",
+      "content": "2d6+3<br>SwordWorld2.5 : (2D6+3) → 10[4,6]+3 → 13"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:53",
+      "content": "なにっ　でございます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:53",
+      "content": "おおー、すごい。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:53",
+      "content": "2d6 レンジャーにつき平目<br>SwordWorld2.5 : (2D6) → 4[1,3] → 4"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:53",
+      "content": "今日の出目も荒ぶってるなぁｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:54",
+      "content": "戦闘中に荒ぶってないのでまだ安全"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:55",
+      "content": "まあ結論から言うと、ここは「シナリオ上探索しても特に何も見つからない場所」だったのですが……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:55",
+      "content": "6ゾロを出されたので何かしら出そうかと"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:55",
+      "content": "やったぁ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "15:55",
+      "content": "わぁい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:55",
+      "content": "探索（13：50→13：55）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "15:55",
+      "content": "おおー"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "15:56",
+      "content": "思わぬ幸運ね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "15:56",
+      "content": "ほう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:59",
+      "content": "ではベルナデッタさんは床の敷物の下、床に空いた小さな穴にはさまっていて敷物をめくって確認しないとわからないようなところに落ちていた〈活性弾〉6発を発見できます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "15:59",
+      "content": "活性弾を育てるスペース！？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "15:59",
+      "content": "かなり昔のものですが場所が良かったのか、状態は悪くなさそうです"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:00",
+      "content": "変な家からバイオっぽく(｀・ω・´)＜弾丸を発見"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:00",
+      "content": "「……弾丸？」「トゥーア、これって食べられる？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:01",
+      "content": "「こちらは……恐らく活性弾でございますね。」伊達眼鏡で見分する。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:01",
+      "content": "バイオハザード、なるほど確かにそれなら弾丸落ちてますね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:01",
+      "content": "バイオの家はまぁ変な家"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:01",
+      "content": "「残念ながら食用ではありませんが、状態は悪くなさそうです」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:01",
+      "content": "判断基準ｗ＜食べられる"
+    },
+    {
+      "type": "message",
+      "tabNum": "2",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:01",
+      "content": "【ホール】ベルナデッタの6ゾロにより獲得：活性弾6発（16G*6=96G）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:02",
+      "content": "「そっか残念……じゃああげる」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:02",
+      "content": "よくわからない鍵とか、変な仕掛けとか　変率が高い"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:02",
+      "content": "「落ちてるの食べるのはめーだよ、ベルナデッタ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:02",
+      "content": "「3秒以内ならおっけーだけど」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:02",
+      "content": "「ありがとうございます。今後の研鑽に活かして参りますね」ごそごそ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:02",
+      "content": "「食べたらダメかは食べてみないと分からないじゃない！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:02",
+      "content": "「おまん死にたいのか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:02",
+      "content": "「言われてみれば！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:03",
+      "content": "＜食べないとわからない"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:03",
+      "content": "「まあ死にそうになったらおまんが自分で回復するんか……？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:04",
+      "content": "「ラヴィ様でしたら日光で結構ナントカなりそうな気も致しますが……」呆れ顔である。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:04",
+      "content": "「気絶まで行っちゃうと自分には回復かけられないんだよね……だからまぁ慎重にはしてる」(一敗)"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:04",
+      "content": "実際こいつ、モンスターの身体に指突っ込んで食べたからな。。。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:04",
+      "content": "コワ～……"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "16:04",
+      "content": "すごい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:05",
+      "content": "チョコのゴーレムだったんで、こー"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:05",
+      "content": "「慎重なぐらいがええ、　ふむ、他になんぞ見当たらんなら他行くか？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:05",
+      "content": "おいしそう（？）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:05",
+      "content": "※C-6,4　空腹のあまり失神したことがある"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:05",
+      "content": "「うん、食べられるかどうかはともかく」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:05",
+      "content": "一敗……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "16:05",
+      "content": "「そうだな。次はどこだ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:05",
+      "content": "「他はなにもなさそうだもんね」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:06",
+      "content": "特に問題なければ……応接間かコレクションルームを当たりたくなりますね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:06",
+      "content": "空白のスペース挟みエリアなので。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:06",
+      "content": "ですねー＞応接間かコレクション"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:06",
+      "content": "https://mao4649.sakura.ne.jp/log/20240402LOG_SW.html　チョコにまみれたりチョコを食べたりした大冒険がこちらとなります（ダイマ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:06",
+      "content": "はーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:06",
+      "content": "ダイマたすかる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:06",
+      "content": "どちらへ行きます？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:07",
+      "content": "たすかる"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:07",
+      "content": "二択ならやっぱコレクションルームでしょう（？）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:07",
+      "content": "それに探索済みマークもたすかります"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:07",
+      "content": "じゃあコレクションルームで"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:07",
+      "content": "あ、済マーク！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:07",
+      "content": "ありがたい。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:07",
+      "content": "それで構わないわ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:07",
+      "content": "了解です"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:07",
+      "content": "ではコレクションルームへ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:07",
+      "content": "ド忘れしてもあんしんだ！ありがとうございます"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:08",
+      "content": "でもこの部屋の間取り"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:08",
+      "content": "人間ぶっ殺し部屋とかないから、助かるなぁｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:08",
+      "content": "＜高度なボケを求められる"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:08",
+      "content": "さっき人間ぶっ殺しドア出てきたじゃないですか"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:08",
+      "content": "間取りにはないからセーフｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:08",
+      "content": "コレクションルームには窓から外の光が入ってきており、ランタンの明かりはなくても良さそうだ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:08",
+      "content": "困った時はアレですよ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:09",
+      "content": "ホールよりもいちだんとほこりっぽいにおいが強く、どことなくカビ臭い"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:09",
+      "content": "どこが変なのかなぁ☆で全てをなぎ倒していきましょう"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:09",
+      "content": "人間ぶっ殺し部屋出てきたら私たちじゃ到底勝てないわね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:09",
+      "content": "大丈夫"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:09",
+      "content": "このPTに人間はいない"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:09",
+      "content": "あ、そうだ。基本的にはずっと使われた形跡がないでオッケーでしょうか？＜部屋全般"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:10",
+      "content": "（タビット、ソレイユ、スノウエルフ、シャドウ、ルーンフォーク）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:10",
+      "content": "大勝利だ＜ノー人間"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:10",
+      "content": "様々な物——剣や杖などの武具と思しきものが多い——が飾られているが、ほとんどは経年劣化で使いものになりそうにない。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:10",
+      "content": "なんたる人間メタか！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:10",
+      "content": "そうですね。最近使われた形跡はなさそうです"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:10",
+      "content": "ありがとうございます。＜使われた形跡がない"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:10",
+      "content": "使えそうなものがないかは少々気になりますね……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:11",
+      "content": "「ぶえええっくしょい！！　ええい埃っぽいのが煩わしいわい！」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:11",
+      "content": "原型が残ってるものとかワンチャンあるかもですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:11",
+      "content": "物がなくても謎スペースの隣接地なので、探索などはしておきたい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:11",
+      "content": "探索判定振るならどうぞー。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:11",
+      "content": "2d6　ひらめ<br>SwordWorld2.5 : (2D6) → 12[6,6] → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:11",
+      "content": "「少々換気も致しましょうか。」/窓の具合を確かめに行きつつ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:11",
+      "content": "ですね～"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "16:11",
+      "content": "！？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:12",
+      "content": "平自動成功"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:12",
+      "content": "では、窓は抵抗があるものの、開けることができます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:12",
+      "content": "2D6+1+2　スカウト+知力B 探索<br>SwordWorld2.5 : (2D6+1+2) → 7[3,4]+1+2 → 10"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:12",
+      "content": "2d6+3　スカウト観察<br>SwordWorld2.5 : (2D6+3) → 8[5,3]+3 → 11"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "16:12",
+      "content": "2d6<br>SwordWorld2.5 : (2D6) → 6[2,4] → 6"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:12",
+      "content": "また6ゾロ……！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:12",
+      "content": "おじいちゃんすごい！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:12",
+      "content": "2d+1+4 スカウト観察<br>SwordWorld2.5 : (2D6+1+4) → 5[3,2]+1+4 → 10"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:13",
+      "content": "【コレクションルーム】探索判定（13：55→14；05）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:13",
+      "content": "「帰る前には閉めなおして置かないといけませんね。」ぎしぎしと窓を開く。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:13",
+      "content": "このダイス、変かも……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:14",
+      "content": "「これで少しはマシになるき、さて……」と調べる/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:14",
+      "content": "123なああい！！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:14",
+      "content": "では、ダガー（50G）x2、ハードノッカー（440G）x1、そして「何かの鍵」を発見します。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:15",
+      "content": "ファンブル無ぇぞオオオオ！！！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:15",
+      "content": "鍵はちょうど壁と展示棚の間の小さな隙間に挟まっていたようですね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:16",
+      "content": "ハードノッカーは格闘A拳で、ダガーは投擲と"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:16",
+      "content": "おお＜何かの鍵"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:16",
+      "content": "「おっ、裏に光る物あるけぇ、どれ」ちょいちょいと隙間に手を入れて取り出す/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:16",
+      "content": "グラップラー特有の装備！"
+    },
+    {
+      "type": "message",
+      "tabNum": "2",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:16",
+      "content": "【コレクションルーム】ダガー（50G）x2、ハードノッカー（440G）x1、「何かの鍵」（売却不可）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:17",
+      "content": "「だいじょーぶ、届く？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:17",
+      "content": "「こちらのダガーも……手入れすればまだ使えそうですね。」武器の見分をしていた。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:18",
+      "content": "「ちと遠いな……んぎぎぎぎぎ」隙間に無理やり入り込んで取り出そう"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:18",
+      "content": "スタッフ使って取り出そうと思ったら"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:18",
+      "content": "そういや杖もってなかった"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:19",
+      "content": "「それ出れなくならない？駄目そうだったらラヴィ引っ張ってあげて」自分は筋力7"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:19",
+      "content": "「よし、取れたぜよ……誰か引っ張ってくれんか！？」出られない"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:19",
+      "content": "なおシルブも筋力7"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:20",
+      "content": "私は一応防護点用に持ってるわ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:20",
+      "content": "「うんっ！」むんずっと首根っこを掴んで片手で引っ張り出す。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:20",
+      "content": "（ぶら～ん）/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:20",
+      "content": "今後のビルド次第で手に物を持ちそうなので、空けてるんですよね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:20",
+      "content": "「凄いお力ですね」←筋力12/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:21",
+      "content": "えへんとえらぶる＜筋力24/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:21",
+      "content": "なるほど"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:21",
+      "content": "「ぎえええーーーーっ！！！　首はやめんか！！！」とりあえず鍵ごと取り出されました/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:21",
+      "content": "なるべく空けたい気持ち、有りますよね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "16:21",
+      "content": "「さすがだな(筋力16)」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:22",
+      "content": "「あ、鍵！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:22",
+      "content": "そっとシルブを降ろしてそれを確認。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:22",
+      "content": "「鍵じゃな。　どこの鍵かは分からんが、閉まっとる場所がありゃそこにさしてみりゃええ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:22",
+      "content": "鍵にどこ用とかは書いてない、であってますかGM?"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:23",
+      "content": "はい。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:23",
+      "content": "「この部屋にはもうなんもないみたいだから、他の部屋のかなあ？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:23",
+      "content": "「一階の他の部屋も調べてみるべきかと。」くい。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:23",
+      "content": "小さな鍵なので、挿れるべき鍵穴自体の大きさもそれなりに小さいだろうということはわかります"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:23",
+      "content": "了解です　ありがとうございます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:24",
+      "content": "「これだけ小さい鍵だと、扉じゃなくて箱とかかしら」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:24",
+      "content": "「じゃのう。　鍵穴の方も小さい気がするけぇ」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:25",
+      "content": "「この部屋はこんなもんじゃき。　次の場所はどうするかのう……」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:25",
+      "content": "「応接間か──」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:26",
+      "content": "「あとは、上の部屋を調べに行ってみる？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:26",
+      "content": "間取り図を重ねたときに、シルブが気にしてたことを思い出す。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:27",
+      "content": "「2階はそもそも階段が壊れとるき。　別の登り口があるかもしれんし、先に一階の応接間行くがか？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:28",
+      "content": "「図面で言うと──右下から総当たりしていくという構図になりますね。」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:28",
+      "content": "「かしこまりました」ぺこり。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:28",
+      "content": "「うん！　ラヴィもそれでおっけーだよ」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "16:28",
+      "content": "「わかった」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:28",
+      "content": "「その方がよさそう。楽できるならそうしたいし」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:29",
+      "content": "では次は応接間ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:29",
+      "content": "はーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:29",
+      "content": "オウイエ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:30",
+      "content": "応接間"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:30",
+      "content": "かつては来客をもてなすために相応に飾られた部屋だったのだろうことはわかる。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:31",
+      "content": "しかし、今やあらゆるものが古びており家具も何もかも総入れ替えしないとならないだろう。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:32",
+      "content": "そんな状態でも、ソファには辛うじて座ることができそうだ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:32",
+      "content": "そして、テーブルの下には蒸留酒の瓶が転がっている（判定不要で気付く）。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:33",
+      "content": "中身は空ですかね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:33",
+      "content": "おさけ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:33",
+      "content": "中身はまだ残っていますね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:33",
+      "content": "「お？　酒が落ちとるな。　客人をもてなす為の酒がか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:33",
+      "content": "飲めるかどうかは保証しませんが……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "16:33",
+      "content": "「年代物…？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:34",
+      "content": "「……」じーっ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:34",
+      "content": "大丈夫か調べるなら"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:34",
+      "content": "「呑みたいの、ベルナデッタ？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:34",
+      "content": "薬品学判定あたりですかね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:34",
+      "content": "「…………いえ、仕事中に飲むわけには……っ」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:34",
+      "content": "また、蒸留酒の瓶を拾った君たちは、その瓶のラベルが「公益共通語」で書かれていることにも気付くでしょう。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:34",
+      "content": "「……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:35",
+      "content": "お、これは違和感が。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:35",
+      "content": "＜公共語"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:35",
+      "content": "「製造年月は確かめたほうがよろしいかと具申いたします。」よめそうなので。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:35",
+      "content": "「んんん？　なんじゃ『今の』言葉？　魔動機文明じゃないとなると……依頼人が言ってた人間とリカントが持ってきちょったか？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:36",
+      "content": "ラベルの文字を見るに、およそ40年ほど前のお酒だとわかります。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:36",
+      "content": "「じゃあここに居たのかな？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:36",
+      "content": "痕跡なぞないか調べてみましょうか。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:37",
+      "content": "さっき座れそうなソファがあったので"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:37",
+      "content": "実はソファが中開きしないかなーとか、その辺りを調べてみます"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:37",
+      "content": "そうかこの表記だと公共語って略せるのか(公式には交易共通語だけど)"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:37",
+      "content": "なるほど！＜ソファー"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:37",
+      "content": "おお！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:38",
+      "content": "他にも何かあるかもしれないし、とりあえず探索ですかね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:38",
+      "content": "では探索どうぞ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:38",
+      "content": "ですねー"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:38",
+      "content": "2d+1+4 スカウト観察<br>SwordWorld2.5 : (2D6+1+4) → 9[3,6]+1+4 → 14"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:38",
+      "content": "2d6　ひらめ<br>SwordWorld2.5 : (2D6) → 4[1,3] → 4"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:38",
+      "content": "2d6+3　スカウト観察<br>SwordWorld2.5 : (2D6+3) → 5[3,2]+3 → 8"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "16:38",
+      "content": "2d6 平目<br>SwordWorld2.5 : (2D6) → 6[1,5] → 6"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:38",
+      "content": "2D6+1+2　スカウト+知力B 探索<br>SwordWorld2.5 : (2D6+1+2) → 4[2,2]+1+2 → 7"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:38",
+      "content": "ベルナデッタさん14がMAX"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:39",
+      "content": "【応接間】探索判定（14：05→14：10）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:39",
+      "content": "めぼしいものはこれといって見つけられませんでした。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:39",
+      "content": "この部屋にははじめから特になにもないようですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:39",
+      "content": "悲しい物語ですね…"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:40",
+      "content": "「ふーむ、酒以外とくに何もないのう……」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:40",
+      "content": "「ソファもこれといった隠し物はありませんでしたし」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:40",
+      "content": "「他の部屋に切り替えたほうが良さそうですね。」くい。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:41",
+      "content": "「でもやっぱり、40年くらい前には誰かが居たってわかったよね」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:41",
+      "content": "「……彼らはどこに消えたのかしら」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:41",
+      "content": "「じゃな。　ここにいた後、別の部屋に行ったがか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "16:42",
+      "content": "「怪しいスペースのところの壁を壊すのは…さすがにダメか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:42",
+      "content": "「ダメじゃろ。　依頼人から極力壊さんように言われとったじゃろがい」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:42",
+      "content": "「『あんまり壊さないでね』って言われてるから」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:42",
+      "content": "「最後の最後かなぁ？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:43",
+      "content": "「壊すにしても調べきった後のがええ」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "16:43",
+      "content": "「そうか」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:43",
+      "content": "「戦闘規模に寄りますが、大義名分は必要かと思いますね……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:44",
+      "content": "「いきなり壊しにかかってはハヴィングランド様も良い顔はされないでしょう。」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:44",
+      "content": "「じゃ、他のとこ調べてみよー！」（おー）/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:44",
+      "content": "「壊さないで済むならその方がいいわね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:45",
+      "content": "本命は寝室として、左下からクリアリングしていきます？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:45",
+      "content": "「次は……一番近いダイニングにでも行くか」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:45",
+      "content": "ですね＞左下から"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:45",
+      "content": "了解です。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:45",
+      "content": "異議なし"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:45",
+      "content": "では次はダイニングですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:45",
+      "content": "雰囲気は概ね応接間と変わりありません。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:46",
+      "content": "使えないこともないくらいの朽ちた家具——テーブルや椅子など——が置かれています。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:47",
+      "content": "これは5分ルートの気配だが…調べておきましょうか？日数制限もないとの事ですし"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:47",
+      "content": "ですね　調べるなら調べちゃいましょう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:47",
+      "content": "そうしましょう。何があるかわかりませんし。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:47",
+      "content": "総当たり"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:47",
+      "content": "ドアが襲ってくる世の中、椅子やテーブルにも注意しなければ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:48",
+      "content": "了解です！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:48",
+      "content": "探索ですかね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:48",
+      "content": "2D6+1+2　スカウト+知力B 探索<br>SwordWorld2.5 : (2D6+1+2) → 3[1,2]+1+2 → 6"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "16:48",
+      "content": "2d6<br>SwordWorld2.5 : (2D6) → 10[4,6] → 10"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:48",
+      "content": "クゥーン"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:48",
+      "content": "2d6+3　スカウト観察<br>SwordWorld2.5 : (2D6+3) → 7[1,6]+3 → 10"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:48",
+      "content": "2d+1+4 「個人的には、新しい家具に交換した方がいいとは思うわね」<br>SwordWorld2.5 : (2D6+1+4) → 7[3,4]+1+4 → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:48",
+      "content": "2d6　ひらめ<br>SwordWorld2.5 : (2D6) → 7[1,6] → 7"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:49",
+      "content": "ベルナデッタさんMAX12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:49",
+      "content": "【ダイニング】探索判定（14：10→14：20）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:49",
+      "content": "ムッ10分"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:50",
+      "content": "では君たちは部屋の隅っこの方、調べようと思わなければ見逃してしまいそうな箇所に手記が落ちているのを見付けることができます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:50",
+      "content": "おおー＜手記"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:50",
+      "content": "中身は公益共通語ですね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:50",
+      "content": "おっとこっちも交易共通語"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:50",
+      "content": "紙やインクの劣化があるものの、読むことは問題なくできそうです"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:50",
+      "content": "なにっ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:51",
+      "content": "読んでいきましょうか。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:51",
+      "content": "どんな内容でしょうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "16:51",
+      "content": "いったいなんの手記だよてめ―――っ!!"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:52",
+      "content": "内容としては持ち主がとりとめなくその日あったことを書いている日記のようなものですね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:52",
+      "content": "持ち主が反社会的な——いわゆる匪賊という略奪などを行う賊の一味にいたことなどが分かります。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:53",
+      "content": "それから日付が少し飛ぶと、どうやらいつの間にか匪賊を抜けて気の合う者と二人組を組んで旅を始めていたようです。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:54",
+      "content": "そして、最後の方では二日連続で日記が綴られていました。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:54",
+      "content": "○○月◇◇日<br><br>街で朽ちた屋敷についての情報を耳にした。<br>なんでも250年くらい前に起きた〈大破局〉以前に建てられたもんがそのまま残っているらしい。<br>まともに管理されてないのか、廃墟同然だそうだが……ひょっとしたら何か、掘り出し物が見つかるかもしれない。<br><br>そうすりゃ俺たちも、ちっとはまともな暮らしができるはずだ。<br><br>相棒に話したら犬になって雄叫びを上げやがった。うるせえし何言ってんのか分かんねぇからやめろって何度言えばわかるんだか。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:55",
+      "content": "○○月□□日<br><br>今日はツいてる。たまたま助けたガキがあの屋敷の所有者の一族だった。<br>屋敷に入りたいと言ったら親に内緒で入れてくれた。こういう悪ガキは都合が良い。<br><br>正面扉には鍵がかかっているが、勝手口の扉は鍵が壊れていて、ちょいと力を込めてノブを引けば開くようになってるそうだ。<br>さすがに古びちゃいるがいくつかのベッドはまだなんとか使えそうだ。しばらくはここを拠点にするのも良いかもしれない。<br><br>退散する時は屋敷の正面側に出ることなく勝手口から出て行けるのも都合が良い。<br>この屋敷に住んでた奴は、人目を避けてこの部屋から勝手口を通って外へ出なきゃいけないようなことでもしてたのかね？　なんて、考え過ぎか。<br><br>今日は酒を呑みすぎたのでもう寝る。<br><br>明日は相棒と一緒に屋敷の探索だ。何か金目のものが見付かると良いが……。<br><br>あいつ、頭悪いからまた今日と同じドアのトラップに引っかかりそうだな。気をつけないと。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:55",
+      "content": "いぬ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "16:55",
+      "content": "それから先は記述がありません。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:56",
+      "content": "ドアモンスターここにヒントあったのか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:57",
+      "content": "勝手口への言及もあるし、後で調べたい所"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:57",
+      "content": "ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:57",
+      "content": "「……ハヴィングランドさんが言ってた二人かなあ？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:58",
+      "content": "「可能性は高いですね。」「しかし、4~50年前ですか……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:58",
+      "content": "「じゃろうな。『犬になった』っちゅうのはリカントの変貌じゃろ。それなら書いてたのが人間、相棒がリカントって事じゃけぇ」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "16:58",
+      "content": "「盗賊なら、特に連絡も痕跡も無しに居なくなっても違和感はないけど……なんか引っかかるわね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "16:59",
+      "content": "「主人用と客人用、どっちで寝たんだろうな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "16:59",
+      "content": "「生きているかはわかりませんが、『この本を拾う暇もない』目に遭った可能性は高いかと」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "16:59",
+      "content": "「あ、そうか。日記を落としちゃうくらい慌ててたってことだもんね」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "16:59",
+      "content": "「階段がいつ壊れたか分からんが、もしこやつらが来る前に壊れとったら1階じゃろうな」＞どこで寝てたか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "17:00",
+      "content": "「手記が落ちとるとなると無事じゃないじゃろうが、ソイツらの痕跡くらいはもう少し探すき」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "17:00",
+      "content": "「うん！　じゃあ、次は物置？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "17:01",
+      "content": "さて、17時になりましたしこのくらいで一旦中断としましょうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "17:01",
+      "content": "はーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "17:01",
+      "content": "了解です！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "17:01",
+      "content": "りょうかいですぜ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "17:01",
+      "content": "探索楽し～　お疲れさまでした。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "17:01",
+      "content": "夜は21時集合でしたかね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "17:02",
+      "content": "お疲れ様でした！　続きは21時からですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "17:02",
+      "content": "ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "17:02",
+      "content": "ありがとうございます！お疲れさまでした！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "17:02",
+      "content": "お疲れ様でした！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "17:02",
+      "content": "21時再開了解です。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "17:02",
+      "content": "お疲れさまでした"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "17:02",
+      "content": "お疲れ様ですー"
+    },
+    {
+      "type": "message",
+      "tabNum": "2",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "17:09",
+      "content": "【応接間】蒸留酒1瓶（売却不可）"
+    },
+    {
+      "type": "message",
+      "tabNum": "2",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "17:09",
+      "content": "【ダイニング】誰かの手記（売却不可）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "20:51",
+      "content": "こんばんはー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "20:51",
+      "content": "こんばんはー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "20:56",
+      "content": "こんにちはー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "20:57",
+      "content": "もどりましたー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:00",
+      "content": "全員いますかね？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:00",
+      "content": "ノ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:00",
+      "content": "ノシ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:01",
+      "content": "あとは黄色の月さんですかね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:01",
+      "content": "ズササササ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:01",
+      "content": "（ビデオ判定"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:01",
+      "content": "こんばんはです！寝落ちしてしまったぜ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:01",
+      "content": "お、来ましたね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:01",
+      "content": "こんばんはー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:01",
+      "content": "こんばんはー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:01",
+      "content": "こんばんは"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:01",
+      "content": "こんばんはー。1分遅れくらいならセーフセーフ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:02",
+      "content": "揃ったわね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:02",
+      "content": "では始めていきましょうか。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:02",
+      "content": "よろしくお願いします"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:02",
+      "content": "よろしくお願いします！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:02",
+      "content": "よろしくお願いします"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:02",
+      "content": "はい、よろしくお願いします！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:02",
+      "content": "よろしゅ～"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:02",
+      "content": "宜しくお願い致しまーす！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:03",
+      "content": "「この部屋の向かいじゃし、変なスペースの近くじゃけえ。物置行くかの」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:04",
+      "content": "では物置へ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:05",
+      "content": "図面に「物置」とあるように用具入れとして使われていたようです。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:05",
+      "content": "基本的にどの部屋も"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:05",
+      "content": "探索判定を行ってく感じが良さそうですね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:05",
+      "content": "ですねー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:05",
+      "content": "とりあえず探索"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:05",
+      "content": "うん、とりあえず探索してから"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:06",
+      "content": "確認やロールとかにすると、時短にもなるかもしれない。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:06",
+      "content": "ややカビくさく、コレクションルームや応接間よりはマシですが、やはり中にあるものは劣化が進んでいますね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:06",
+      "content": "予想外しましたしな…！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:06",
+      "content": "しっかりチェックだぜ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:06",
+      "content": "先に判定全部確認してからのがいいですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:06",
+      "content": "では探索判定してみますか？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:06",
+      "content": "ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:06",
+      "content": "はい、します"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:06",
+      "content": "2d6　ひらめ<br>SwordWorld2.5 : (2D6) → 7[5,2] → 7"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:06",
+      "content": "2d+1+4 スカウト観察<br>SwordWorld2.5 : (2D6+1+4) → 6[2,4]+1+4 → 11"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:06",
+      "content": "2d6<br>SwordWorld2.5 : (2D6) → 8[5,3] → 8"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:06",
+      "content": "ですです、それでなにかあればリアクションもしやすいですし。どうでしょうＧＭ？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:07",
+      "content": "2D6+1+2　スカウト+知力B 探索<br>SwordWorld2.5 : (2D6+1+2) → 8[3,5]+1+2 → 11"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:07",
+      "content": "2d6+3　観察<br>SwordWorld2.5 : (2D6+3) → 4[2,2]+3 → 7"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:07",
+      "content": "了解しました"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:07",
+      "content": "ではそういう方向でいきましょう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:07",
+      "content": "MAXはベルナデッタさん、トゥーアさんの11"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:07",
+      "content": "ありがとうございます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:07",
+      "content": "11でございますね！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:07",
+      "content": "探索判定【物置】（14：20→14：25）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:07",
+      "content": "スカウトは結構いるのに"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:07",
+      "content": "特にめぼしいものは見つかりませんでした"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:08",
+      "content": "あっなんもないわ（5分）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:08",
+      "content": "出目がちょっと微妙な気が、全般的に。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:08",
+      "content": "「怪しいと思ったが、これといったもんは特にないのう……」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:08",
+      "content": "なんもない！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:08",
+      "content": "まだ使えそうなものとしてはモップやホウキなどの掃除道具などが見つかりましたが、お金にはならないでしょう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:08",
+      "content": "「……うん、なんもなさそう」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:09",
+      "content": "「本当にただの物置か」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:09",
+      "content": "「こちらの道具は……屋敷内で使いまわすべきでしょうね。」ホコリ塗れ！/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:09",
+      "content": "「いや、掃除道具はきれいな方がよくない！？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:09",
+      "content": "「掃除は頼まれとらんからやらんぞ。　それにこれから汚れるかもしれんから今掃除してもな」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:09",
+      "content": "「うん。じゃあ次は──食堂を調べて、そのあと厨房？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:10",
+      "content": "「じゃなあ。人間とリカントが酒を飲んどったようじゃが、メシは食堂で食ってたかもしれん」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:11",
+      "content": "「その辺も調べるために食堂行くけ」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:11",
+      "content": "「かしこまりました。」拾ったはたきで自分の埃を払っている…/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:11",
+      "content": "では食堂へ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:12",
+      "content": "ではとりあえず探索判定振ってもらってから描写しましょうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:12",
+      "content": "はーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:12",
+      "content": "2d6　ひらめ<br>SwordWorld2.5 : (2D6) → 3[1,2] → 3"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:12",
+      "content": "2d+1+4 何かごはんは残ってないかしら<br>SwordWorld2.5 : (2D6+1+4) → 4[3,1]+1+4 → 9"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:12",
+      "content": "owari no dice"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:12",
+      "content": "のこってなさそう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:12",
+      "content": "2d6+3　スカウト観察<br>SwordWorld2.5 : (2D6+3) → 5[4,1]+3 → 8"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:12",
+      "content": "2d6<br>SwordWorld2.5 : (2D6) → 6[5,1] → 6"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:13",
+      "content": "2D6+1+2　スカウト+知力B 探索<br>SwordWorld2.5 : (2D6+1+2) → 4[3,1]+1+2 → 7"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:13",
+      "content": "すごい、全員やばい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:13",
+      "content": "なんかみんな出目低めだ……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:13",
+      "content": "ダメかもしれませんね……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:13",
+      "content": "なんですよね（汗）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:13",
+      "content": "探索判定【食堂】（14：25→14：30）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:13",
+      "content": "はい。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:13",
+      "content": "一応マックスはベルナデッタさんの9"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:13",
+      "content": "なんもないわ（5分）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:14",
+      "content": "食堂は部屋の真ん中に長テーブルが置かれ、その左右に椅子が並べられています。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:14",
+      "content": "かつては風格ある、豪華な一室だったのでしょうが、やはり時の流れに押し流されるようにその栄華さを失っていますね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:15",
+      "content": "なんもなかった！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:15",
+      "content": "「ここもボロボロじゃのう。それに手かがりも無いき。　一体どこにいったんじゃ例のやつらは……」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:15",
+      "content": "「物置もここも、空いたとこにつながらないね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:15",
+      "content": "「隠し扉とかじゃないのかな？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:16",
+      "content": "「やはり二階のどこかから繋がっているのでしょうか……」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:16",
+      "content": "テーブルクロスに降り積もった埃を指でなぞっている。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:16",
+      "content": "「ここにはなくとも厨房には……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:16",
+      "content": "「建付けの悪い勝手口あるっちゅう厨房じゃな」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:17",
+      "content": "「そっち行ってみようか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:17",
+      "content": "「魔動機文明の技術で保存が効いてる食いもんなんぞあるのかのう……行くか」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:17",
+      "content": "では厨房へ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:18",
+      "content": "まずは探索判定どうぞー"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:18",
+      "content": "2d6　ひらめ<br>SwordWorld2.5 : (2D6) → 11[6,5] → 11"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:18",
+      "content": "o"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:18",
+      "content": "2d6+3　スカウト観察<br>SwordWorld2.5 : (2D6+3) → 8[2,6]+3 → 11"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:18",
+      "content": "2d+1+4 ごはん<br>SwordWorld2.5 : (2D6+1+4) → 3[2,1]+1+4 → 8"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:18",
+      "content": "2d6<br>SwordWorld2.5 : (2D6) → 12[6,6] → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:18",
+      "content": "ない……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:18",
+      "content": "おっ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:18",
+      "content": "おお！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:18",
+      "content": "2D6+1+2　スカウト+知力B 探索<br>SwordWorld2.5 : (2D6+1+2) → 9[5,4]+1+2 → 12"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:18",
+      "content": "6ゾロだ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:18",
+      "content": "ええやん"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:18",
+      "content": "おお、自動成功"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:18",
+      "content": "急に6ゾロが出たので"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:19",
+      "content": "探索判定【厨房】（14：30→14：35）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:20",
+      "content": "5分"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:20",
+      "content": "とりあえずまずは描写から"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:20",
+      "content": "本当に何もないパターンでしたね……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:20",
+      "content": "厨房には様々な設備がありましたが、どれも朽ちているか壊れているかで使いものになりそうにありません。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:20",
+      "content": "ニ階が本命っぽいですね　この感じだと"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:21",
+      "content": "また、収納等の中身もほとんどは空っぽですね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:21",
+      "content": "そんな厨房ですが、一つ、君たちの目を引く点があります"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:23",
+      "content": "厨房と食堂を行き来する扉から見て右手側に縄梯子が降りているのです。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:23",
+      "content": "それはちょうど、二階へ続いているようですね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:23",
+      "content": "おお！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:23",
+      "content": "おお"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:23",
+      "content": "「こんなところに」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:23",
+      "content": "「縄梯子だ！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:24",
+      "content": "また、縄梯子が降りている箇所の下のあたり。設備と床面の間、その隙間に一枚のメモが落ちているのを、イングくんは発見します。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:24",
+      "content": "「以前の侵入者が設置したのでしょうか……」強度を確かめつつ。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:25",
+      "content": "ふむＧＭ。縄梯子の先ですが、破壊して穴を開けたような感じでしょうか？　それとも最初からそうした造りな感じでしょうか？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:25",
+      "content": "「こんなところから上り下りしとったのか。出入り口に近いからここにしたんか？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:26",
+      "content": "最初から上り下りできるような作りになってますね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:26",
+      "content": "ありがとうございます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:26",
+      "content": "「──でもでも、最初っからこれあったっぽいよ？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:26",
+      "content": "よく見ようとすれば、上の階の床が持ち上がっていることも確認できます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:26",
+      "content": "下から覗き、構造を確かめる。強引な後付けではなく、間違いなく最初から備え付けられてたものだ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:26",
+      "content": "お風呂の番が今来たのです"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:27",
+      "content": "「む？　ならこの屋敷を建てたっちゅう奴が元々備え付けたがか？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "21:27",
+      "content": "できるだけすぐ上がってくる"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:27",
+      "content": "了解です！いってらっしゃいませー！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:27",
+      "content": "了解です"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:27",
+      "content": "ＰＣはあの動画を見てないので、確認は大事ですねｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "21:27",
+      "content": "「それも厨房に。普通の作りでないのは間違いないわね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:27",
+      "content": "っと、行ってらっしゃませー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:27",
+      "content": "了解です"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:27",
+      "content": "イング君がメモを見つけましたし"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:28",
+      "content": "戻られるまでいったん休憩ですかね？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:28",
+      "content": "ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:28",
+      "content": "「本格的に変な屋敷の気配となって参りましたね……」くい。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:28",
+      "content": "はーい！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:28",
+      "content": "自分もお手洗い行ってきますか"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:29",
+      "content": "私はストレッチしてきます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:31",
+      "content": "とりあえず35分までは休憩。以降はヒロトさんが戻ってきたら再開、としましょうか"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:31",
+      "content": "はーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:31",
+      "content": "了解しました"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:34",
+      "content": "了解です！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:43",
+      "content": "ん、あれ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:44",
+      "content": "どしました？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:44",
+      "content": "シルブさん、表で転んでファンブってましたよね？"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:44",
+      "content": "ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:44",
+      "content": "ステータステーブルのとこに記載がないな、と。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:44",
+      "content": "地図作成の時ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:44",
+      "content": "ああ、ステータステーブルに書く所あったんですか"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:44",
+      "content": "＜実は項目にある１ゾロ回数"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:44",
+      "content": "あっほんとだ　そういえば50点メモがあった"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:44",
+      "content": "ですです"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:44",
+      "content": "キャラシに直に書いてました"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:44",
+      "content": "なるほど"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:45",
+      "content": "メモられてるようなら大丈夫っぽいですね。結構忘れがちな要素ですので。杞憂杞憂（ほっ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:53",
+      "content": "もちっとかかりそうかなぁ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "21:53",
+      "content": "ちょっとレシートの整理してきます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:54",
+      "content": "いってらっしゃいましー！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:54",
+      "content": "何分ぐらいになるか聞いといたほうがよかったですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "21:54",
+      "content": "ですねー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "21:54",
+      "content": "30分経ったらちょっと声掛けしてみますか"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "21:54",
+      "content": "そうですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:01",
+      "content": "戻りました"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:01",
+      "content": "おかえりなさいー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:01",
+      "content": "おかえりなさいませ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:01",
+      "content": "確かに人によって全然違いますからね、ニューヨーク時間"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:01",
+      "content": "おかえりなさい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:02",
+      "content": "急ぐときは10分台をめざす月です（レイヴン行水）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:02",
+      "content": "＜何分くらいになるか確認"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:10",
+      "content": "……ちょっと心配になってきました。病み上がりですしのぼせたりしてないかしら（汗）"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:10",
+      "content": "しますか……『声かけ』ッ…"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:11",
+      "content": "ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:11",
+      "content": "ご家族と暮らされてるみたいなので大丈夫かとは杞憂かとは思いますが。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:11",
+      "content": "そろそろ45分ですからね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:11",
+      "content": "まあ、そもそもPC（もしくはスマホ）を確認できる状態かわかりませんが……"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:13",
+      "content": "確かに。できるだけすぐと仰られてましたので、であれば持ち込んだりとかはしてなさそう。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:13",
+      "content": "うーむ、悩ましい……"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:14",
+      "content": "あ、よびかけ。ありがとうございます。＜ディスコ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:15",
+      "content": "呼び掛けありがとうございますー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:15",
+      "content": "戻ってきました"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:15",
+      "content": "おかえりなさい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:16",
+      "content": "おかえりなさい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:16",
+      "content": "おかえりなさいませー！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:16",
+      "content": "大したことなくてよかったですぜ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:16",
+      "content": "ではとりあえず点呼ー"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:16",
+      "content": "1"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:16",
+      "content": "２"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:17",
+      "content": "３"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:17",
+      "content": "おかえりなさーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:17",
+      "content": "4"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:17",
+      "content": "5！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:18",
+      "content": "揃ってますね。では再開！"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:18",
+      "content": "よろしくお願いします！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:18",
+      "content": "「怪しいな…」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:18",
+      "content": "「そしてこれはなんだ…？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:18",
+      "content": "とりあえず、イング君がメモを発見したくだりからですかね？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:18",
+      "content": "「なんぞ拾ったがか？　どれ」何語？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:19",
+      "content": "「なになに、どしたの？」（覗き込み"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:19",
+      "content": "イングくんが見つけたのは魔動機文明語のメモですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:19",
+      "content": "一文だけのシンプルなものです"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:19",
+      "content": "「魔動機でしたら私とイング様ですね。」しゃがみ込む。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:19",
+      "content": "「ワシも読めるぞ」のぞきこむ/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:20",
+      "content": "メモには魔動機文明語でこう書かれています。"
+    },
+    {
+      "type": "request",
+      "title": "",
+      "content": ["地下にお連れする時は就寝したのを確認すること！"]
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:20",
+      "content": "「…………」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:20",
+      "content": "「……地下？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:20",
+      "content": "「うー、読めない」眉間にしわ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:20",
+      "content": "「？」首をかしげる。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:21",
+      "content": "「「地下にお連れする時は就寝したのを確認すること！」だそうじゃ」翻訳"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:21",
+      "content": "Ｂ１Ｆがあるのかー"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:21",
+      "content": "「まさか…まだあるのか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:21",
+      "content": "「地下？　地下室があるの、このおうち？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:21",
+      "content": "言語忘れてたな(読めない)"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:22",
+      "content": "「メモの仔細は不明ですが、謎のスペースとも関連がありそうですね……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:22",
+      "content": "「魔動機文明じゃから、こいつは屋敷を建てた頃の物じゃろうな。　とりあえず地下もあると分かったのは大きいの」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:22",
+      "content": "「うん、きちんと調べないとだね！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:23",
+      "content": "ではＧＭ、念のため勝手口も確認しておきましょう。念のため罠チェックしてから建てつけの確認をしたく思うのですが。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:23",
+      "content": "はーい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:23",
+      "content": "んじゃ確認しちゃいますねー"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:23",
+      "content": "2d6+3　スカウト観察@罠確認"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:23",
+      "content": "うおうお！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:23",
+      "content": "2D6+1+2　スカウト+知力B 探索<br>SwordWorld2.5 : (2D6+1+2) → 5[4,1]+1+2 → 8"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:23",
+      "content": "2d6+3<br>SwordWorld2.5 : (2D6+3) → 5[2,3]+3 → 8"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:24",
+      "content": "2d+1+4 スカウト観察<br>SwordWorld2.5 : (2D6+1+4) → 4[2,2]+1+4 → 9"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:24",
+      "content": "低い……！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:24",
+      "content": "2d6<br>SwordWorld2.5 : (2D6) → 6[3,3] → 6"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:24",
+      "content": "2d6　ひらめ<br>SwordWorld2.5 : (2D6) → 10[6,4] → 10"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:24",
+      "content": "持ってる人が軒並みかなしい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:24",
+      "content": "シルブがMAXで10"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:24",
+      "content": "おじいちゃんの平目、安定してるｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:24",
+      "content": "勝手口周辺の罠と限定されてますので所要時間は5分とします"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:25",
+      "content": "罠確認【厨房】（14：35→14：40）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:25",
+      "content": "罠は見つかりませんでした。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:26",
+      "content": "うし、では建てつけ確認。なんかあってもＨＰ受けでけそうな私が開けられるかどうか確認するとしましょうか。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:26",
+      "content": "お願いします"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:26",
+      "content": "がんばってー！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:26",
+      "content": "ではＧＭ、勝手口を開きます。おーぷんざ勝手口！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:26",
+      "content": "すまないな"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:27",
+      "content": "では、建付の悪さから抵抗はありますが、何度か試して力の込め方やノブの回し方を変えてみると、勝手口は開きます"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:27",
+      "content": "無問題。役割分担は冒険の基本よ～"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:27",
+      "content": "がちゃがちゃがちゃこんっ！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:27",
+      "content": "「──うん大丈夫。開くよ！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:28",
+      "content": "外は屋敷に入る前に確認した通り、鬱蒼とした森が広がっていますね。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:28",
+      "content": "「依頼人の言っとった通り開く訳か。　それぐらいじゃな」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:28",
+      "content": "「うん、あと日記にあったみたいに。玄関がどうにかなってもここから出られそう！」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:29",
+      "content": "「いざという時に逃げ道の一つ……と覚えておく程度で良さそうですね」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:29",
+      "content": "「えっと、それじゃどうしよっか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:29",
+      "content": "「寝室とトイレ、調べてみる？　それとも上に昇ってみる？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:30",
+      "content": "「じゃなあ……さて、次はどうするかが？　上への道もあるし、上に行くけ？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:30",
+      "content": "「何か見逃しでもあったら事だし、調べておくか？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:31",
+      "content": "個人的にはローラーしてきたくはありますね。ちょこちょこ痕跡も残ってますし。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:31",
+      "content": "悩ましいですけど夜まで時間もあるし、一階全探索で良さそうですかね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:31",
+      "content": "「えっとね、とーちゃんがね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:31",
+      "content": "ローラーしたいところですが"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:31",
+      "content": "「日記の彼らが拠点として使うなら、寝室だろうという気もするわね」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:31",
+      "content": "時間が……"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:31",
+      "content": "その意見に賛成だ！（ダンガンロンパ2）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:31",
+      "content": "「『時間に余裕があるなら、隅々まできちんと調べたほーがいい』って言ってた！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:31",
+      "content": "時間ってのはコマの方です"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:32",
+      "content": "そこは確かに（汗）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:32",
+      "content": "「ふーむ、んじゃ寝室行くけぇ」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:32",
+      "content": "では主人の寝室へ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:32",
+      "content": "ちなみに月曜以降の夜は基本開けられます。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:32",
+      "content": "＜リアルな方の時間"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:32",
+      "content": "探索どうぞー"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:33",
+      "content": "2d6　ひらめ<br>SwordWorld2.5 : (2D6) → 5[1,4] → 5"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:33",
+      "content": "2d6+3　スカウトアイ！<br>SwordWorld2.5 : (2D6+3) → 3[2,1]+3 → 6"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:33",
+      "content": "2d+1+4 スカウト観察<br>SwordWorld2.5 : (2D6+1+4) → 11[6,5]+1+4 → 16"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:33",
+      "content": "そして出目ぇ（汗）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:33",
+      "content": "2D6+1+2　スカウト+知力B 探索<br>SwordWorld2.5 : (2D6+1+2) → 5[3,2]+1+2 → 8"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:33",
+      "content": "2d6<br>SwordWorld2.5 : (2D6) → 9[4,5] → 9"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:33",
+      "content": "やっぱ探索判定欲しくなってくる"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:33",
+      "content": "ジオマンサーとるか……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:33",
+      "content": "探索判定【主人の寝室】（14：40→14：45）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:34",
+      "content": "5分"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:34",
+      "content": "主人の寝室もやはり家具などは朽ちていた。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:34",
+      "content": "そして、ベッドは——300年の間に誰かに盗まれたのだろうか——置かれていなかった。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:34",
+      "content": "こっちは現状GW全空け行けますが……まあ皆様に合わせる方針ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:35",
+      "content": "「ベッドがございませんね…………」じとー。/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:35",
+      "content": "変なのが盗まれてるな？（汗）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:35",
+      "content": "ほこりの積もり方からして、もうずっと前からベッドはこの部屋から消えていたのだろう。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:35",
+      "content": "「盗られちゃったのかな？」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:36",
+      "content": "「どういうことなんだ…？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:36",
+      "content": "「よくもまあデカいもんを持っていっとるのお。　この間取り図あんまアテにならんき」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:36",
+      "content": "「すっごく大きな人が住んでたのかもしれないよ！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:36",
+      "content": "力士とは言わない理性ｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:36",
+      "content": "平日日中以外は大丈夫なはず"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:37",
+      "content": "「謎だわね……」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:37",
+      "content": "「だから、ベッドも大きくて」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:37",
+      "content": "「引っ越しの時に、持っていったのかも！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:38",
+      "content": "「そういや元の家主がどうなったかは詳しく聞いとらんかったの」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:38",
+      "content": "「体が大きすぎた分、逆に合うベッドが無かったのかもしれませんね。」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:38",
+      "content": "「そういえばそうね……知りようもないのかもしれないけど」＞元の家主"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:38",
+      "content": "「床に寝転ぶ方がまだ快適に眠れた可能性を具申いたします」くい！/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:39",
+      "content": "「あ、じゃあひょっとしたらトイレもおっきかも！」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:39",
+      "content": "「しかし分からんもんは分からんし無いもんは無い。　ええい次じゃ次」次行きましょ/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:39",
+      "content": "「見にいってみればわかるかも！」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:39",
+      "content": "クソでかいトイレ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:39",
+      "content": "（そんな感じでトイレにゴーしたく"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:39",
+      "content": "ではトイレへ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:39",
+      "content": "……といってもトイレは普通にトイレですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:40",
+      "content": "それでも一応調べます？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:40",
+      "content": "一応……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:40",
+      "content": "2d6　ひらめ<br>SwordWorld2.5 : (2D6) → 6[1,5] → 6"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:40",
+      "content": "2d+1+4 サイズは普通かぁ<br>SwordWorld2.5 : (2D6+1+4) → 12[6,6]+1+4 → 17"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:40",
+      "content": "ですね"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:40",
+      "content": "2d6<br>SwordWorld2.5 : (2D6) → 5[3,2] → 5"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:40",
+      "content": "自動成功だ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:40",
+      "content": "えぇ……？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:40",
+      "content": "出たぁ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:40",
+      "content": "6ゾロ出た！？"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:40",
+      "content": "2d6+3　トイレの真実を探るべく我々は観察判定を以下略<br>SwordWorld2.5 : (2D6+3) → 5[3,2]+3 → 8"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:40",
+      "content": "この場合何を発見したことになるんでしょう"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:40",
+      "content": "そうか、ベルナデッタさんは食べることのプロ。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1 diceroll",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:40",
+      "content": "2D6+1+2　スカウト+知力B 探索<br>SwordWorld2.5 : (2D6+1+2) → 8[5,3]+1+2 → 11"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:41",
+      "content": "なら食べた後のことに関しても一言あるのかもしれない（おい"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:41",
+      "content": "すごい　ことに　なってまいりました"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:41",
+      "content": "……硝石が見つかるのかもしれないｗ＜何を"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:42",
+      "content": "なんだろう、トイレの物置くスペースに何か置いてあったりしたのかな"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:42",
+      "content": "探索判定【トイレ】（14：45→14：50）"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:42",
+      "content": "えー……ベルナデッタさんはじゃあ、どうしよっかな……"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:43",
+      "content": "全体的に探索の出目は悪いと思うんですけど"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:43",
+      "content": "結構な確率で六ゾロも出てて、結果プラスマイナスでプラスな気もしてきましたねｗ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:43",
+      "content": "5人いるのでなんとかなってる気はしますね"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:43",
+      "content": "6ゾロに出目が吸われてますねぇ"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:43",
+      "content": "毎回5回分判定があるので、1箇所につき誰かが高目出してくれる　かも"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:44",
+      "content": "確かに。"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:44",
+      "content": "数の暴力、実際大きいぜ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:46",
+      "content": "ふむ、まあ六ゾロが出ても「なにもなかった」も普通に全然ありかと。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:46",
+      "content": "難しいなら特になしでもいいかと"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:46",
+      "content": "なんかあったらあったで怖い位置ですもんね……"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:46",
+      "content": "ですです。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ベルナデッタ",
+      "color": "#ff9020",
+      "timestamp": "22:46",
+      "content": "思いついたときにまた"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:46",
+      "content": "まあではそういうことで"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:46",
+      "content": "了解です！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "イング",
+      "color": "#999999",
+      "timestamp": "22:47",
+      "content": "そうなった"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "トゥーア",
+      "color": "#0c797d",
+      "timestamp": "22:47",
+      "content": "先に進んでいきましょう！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:48",
+      "content": "ですね！"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:48",
+      "content": "んじゃ2階いきましょう"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:48",
+      "content": "「トイレはトイレだったし、階段からは上に行けないんだよね？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:48",
+      "content": "厨房にある登り口から行くから……使用人室へ"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:48",
+      "content": "「じゃあ、さっきのとこからお二階？」"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "シルブ",
+      "color": "#653294",
+      "timestamp": "22:48",
+      "content": "「じゃなあ。　1階はもう調べ尽くしたし上行くけぇ」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "3",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:48",
+      "content": "そしてきれいに全部済マークだ。美しい。"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "ラヴィ",
+      "color": "#9f0500",
+      "timestamp": "22:49",
+      "content": "「うんっ！」/"
+    },
+    {
+      "type": "message",
+      "tabNum": "1",
+      "name": "GM",
+      "color": "#000000",
+      "timestamp": "22:49",
+      "content": "はい。では2階へ"
+    }
+  ]
+}
