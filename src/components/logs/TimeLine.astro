@@ -1,0 +1,123 @@
+---
+const { timeline } = Astro.props;
+---
+
+<ul class="timeline">
+  {
+    timeline.map((el) => (
+      <li>
+        <div class="timeline-period">{el.period}</div>
+        <div class="timeline-content">
+          <div class="timeline-event">
+            {el.summary ? (
+              <h3 class="timeline-summary">{el.summary}</h3>
+            ) : (
+              <div />
+            )}
+            {el.content.length > 1 ? (
+              <Fragment set:html={el.content.join("<br/>")} />
+            ) : (
+              <Fragment set:html={el.content[0]} />
+            )}
+          </div>
+        </div>
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  /* タイムライン用 */
+
+  .timeline {
+    list-style: none;
+    padding-left: 8px;
+  }
+
+  .timeline-title {
+    font-size: 1.4rem;
+    font-weight: 600;
+  }
+
+  .timeline > li {
+    margin-bottom: 60px;
+  }
+
+  .timeline-period {
+    font-size: 0.9em;
+    color: #223;
+  }
+
+  .timeline-summary {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+
+  @media (min-width: 640px) {
+    .timeline {
+      --event-color: hsl(216, 55%, 46%);
+      --event-light-color: hsl(220, 62%, 79%);
+      --event-text-color: aliceblue;
+    }
+    .timeline > li {
+      overflow: hidden;
+      margin: 0;
+      position: relative;
+    }
+
+    .timeline-period {
+      width: 110px;
+      float: left;
+      margin-top: 20px;
+    }
+
+    .timeline-content {
+      width: 75%;
+      float: left;
+      border-left: 3px var(--event-light-color) solid;
+      padding-left: 30px;
+      padding-bottom: 2em;
+    }
+
+    .timeline-content:before {
+      content: "";
+      width: 12px;
+      height: 12px;
+      background: var(--event-color);
+      position: absolute;
+      left: 106px;
+      top: 24px;
+      border-radius: 100%;
+    }
+    .timeline-event {
+      background: var(--event-color);
+      border-radius: 10px;
+      padding: 1em;
+      color: var(--event-text-color);
+    }
+    .timeline-event::after {
+      border: solid transparent;
+      border-top-width: medium;
+      border-right-width: medium;
+      border-right-color: transparent;
+      border-bottom-width: medium;
+      border-left-width: medium;
+      border-top-width: medium;
+      border-right-width: medium;
+      border-right-color: transparent;
+      border-bottom-width: medium;
+      border-left-width: medium;
+      content: " ";
+      height: 1em;
+      width: 1.2em;
+      position: absolute;
+      pointer-events: none;
+      border-right-color: var(--event-color);
+      border-width: 10px;
+      top: 1.2em;
+      left: 124px;
+    }
+  }
+
+  /* =========== */
+</style>

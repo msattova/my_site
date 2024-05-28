@@ -7,19 +7,7 @@ import { ElementTypes } from "@modules/elementTypes";
 
 import { getCollection, getEntries, getEntry } from "astro:content";
 
-const collections = await getCollection("sessionLog");
-const data = collections.filter(
-  (el) => el.id.includes("cried-barbarian"))
-  .sort((a, b) => a.data.sectionNum - b.data.sectionNum)
-  .map(el => new SectionData(
-    el.data.title,
-    el.data.data,
-    (el.data.isPreplay ? true : false)));
 
-
-const logData = await getEntry("sessionData", "cried-barbarian/logData").then(res => res.data);
-
-const sections = data;
 ---
 
-<LogTemplateComponent sections={sections} logData={logData} />
+<LogTemplateComponent sessionId={"cried-barbarian"} />

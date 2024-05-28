@@ -15,14 +15,49 @@ import Note from "@layouts/logs/Note.astro";
 
 // モジュール
 import { ElementTypes } from "@modules/elementTypes";
+import TimeLine from "./TimeLine.astro";
 
-const { sections, logData } = Astro.props;
+import { SectionData } from "@modules/sectionData";
+
+import { getCollection, getEntries, getEntry } from "astro:content";
+
+const { sessionId } = Astro.props;
+
+const collections = await getCollection("sessionLog");
+const data = collections
+  .filter((el) => el.id.includes(sessionId))
+  // sectionNum順に中身を表示するために事前にソート
+  .sort((a, b) => a.data.sectionNum - b.data.sectionNum)
+  .map((el) => {
+    //console.log(el.data.charaData);
+    return new SectionData(
+      el.data.title,
+      el.data.data,
+      el.data.sectionNum,
+      el.data.sectionType ? el.data.sectionType : "normal",
+      el.data.charaData ? el.data.charaData : []
+    );
+  });
+
+const logData = await getEntry("sessionData", `${sessionId}/logData`).then(
+  (res) => res ? res.data : ''
+);
+
+const sections = data;
+
+//console.log(sections);
+
 ---
 
 <LogBaseLayout sections={sections} logData={logData}>
   {
     sections.map((el, i) => (
-      <Section title={el.title} isPreplay={el.isPreplay} num={i} charaData={el.charaData}>
+      <Section
+        title={el.title}
+        sectionType={el.sectionType}
+        num={el.sectionNum}
+        charaData={el.charaData}
+      >
         {el.content.map((msg) =>
           msg.type === ElementTypes.message ? (
             <Message
@@ -56,6 +91,8 @@ const { sections, logData } = Astro.props;
                 <Fragment set:html={msg.content[0]} />
               )}
             </Note>
+          ) : msg.type === ElementTypes.timeline ? (
+            <TimeLine timeline={msg.data} />
           ) : msg.type === ElementTypes.allayData ? (
             <AllayData dataSrc={msg.dataSrc} />
           ) : (

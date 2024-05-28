@@ -1,16 +1,22 @@
 ---
+import { SectionTypes } from "@modules/sectionTypes";
+
 const {sections} = Astro.props;
+
 //console.log(sections);
 ---
+
 
 <section class="index" id="index">
   <h2>目次</h2>
   <ul>
     {
       [].map.call(Object(sections), ((section, index) => (
-        section.isPreplay ?
+        section.sectionType === SectionTypes.preplay ?
         (<li class="preplay"><a href="#chara-make">{section.title}</a></li>) :
-        (<li class="chap"><a href={`#sec${index}`}>{section.title}</a></li>)
+        (section.sectionType === SectionTypes.appendix ?
+        (<li class="ex"><a href="#appendix">{section.title}</a></li>) :
+        (<li class="chap"><a href={`#sec${index}`}>{section.title}</a></li>))
       )))
     }
   </ul>

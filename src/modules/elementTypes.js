@@ -7,6 +7,8 @@ export const ElementTypes = {
   request: "request",
   //メモ
   note: "note",
+  // タイムライン
+  timeline: "timeline",
   //戦闘状況
   situation: "situation",
   //味方データ

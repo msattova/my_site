@@ -420,6 +420,10 @@ html.is-drawerActive {
   content: "N";
 }
 
+.main-logs .ex[id] h2::before {
+  content: "EX";
+}
+
 .main section {
   margin-bottom: 28px;
 }
@@ -597,6 +601,10 @@ html.is-drawerActive {
 
 .index li.preplay::before {
   content: "N";
+}
+
+.index li.ex::before {
+  content: "EX";
 }
 
 /* =========== */
@@ -854,6 +862,7 @@ input[checkbox] {
 
   .main {
     padding: 0;
+    margin: 2px;
   }
 
   .data {

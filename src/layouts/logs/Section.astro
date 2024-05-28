@@ -2,19 +2,34 @@
 import BackToIndex from "@components/logs/BackToIndex.astro";
 import AllayData from "@components/logs/AllayData.astro";
 
-const { num, title, isPreplay = false, charaData = [] } = Astro.props;
+import { SectionTypes } from "@modules/sectionTypes";
 
-const sectionClass = isPreplay ? "preplay" : "chap";
-const sectionId = isPreplay ? "chara-make" : `sec${num}`;
+const {
+  num,
+  title,
+  sectionType = "normal",
+  charaData = [],
+} = Astro.props;
+
+const sifter = (sectionType) => {
+  if (sectionType === "preplay"){
+      return {sectionClass: "preplay", sectionId: "chara-make"};
+  }else if (sectionType === "appendix"){
+      return {sectionClass: "ex", sectionId: "appendix"};
+  }else {
+      return {sectionClass: "chap", sectionId: `sec${num}`};
+  }
+};
+
+const {sectionClass, sectionId} = sifter(sectionType);
 
 const hasCharaData = charaData.length !== 0;
-
 ---
 
 <section class={sectionClass} id={sectionId}>
   <h2>{title}</h2>
   {
-    isPreplay && (
+    sectionType === SectionTypes.preplay && (
       <details>
         <summary>クリックしてキャラメイクを開く</summary>
         <div class="chatlog">
@@ -24,7 +39,14 @@ const hasCharaData = charaData.length !== 0;
     )
   }
   {
-    !isPreplay && (
+    sectionType === SectionTypes.appendix && (
+        <div class="chatlog">
+          <slot />
+        </div>
+    )
+  }
+  {
+    sectionType === SectionTypes.normal && (
       <div class="chatlog">
         <slot />
       </div>
@@ -35,11 +57,9 @@ const hasCharaData = charaData.length !== 0;
       <details>
         <summary>クリックしてPCデータを開く</summary>
         <div class="chatlog">
-          {
-            charaData.map(el => (
-              <AllayData dataSrc={el} />
-            ))
-          }
+          {charaData.map((el) => (
+            <AllayData dataSrc={el} />
+          ))}
         </div>
       </details>
     )

@@ -1,4 +1,16 @@
 import { z, defineCollection } from "astro:content"
+import { ElementTypes } from "@modules/elementTypes";
+import { SectionTypes } from "@modules/sectionTypes";
+
+
+const sectionTypeEnum = z.enum(
+  [
+    SectionTypes.normal,
+    SectionTypes.preplay,
+    SectionTypes.appendix
+  ]);
+type sectionTypeEnum = z.infer<typeof sectionTypeEnum>;
+
 
 const message = z.object({
         type: z.string(),
@@ -9,7 +21,7 @@ const message = z.object({
         content: z.string()
       });
 
-const sill = z.object({
+const still = z.object({
   type: z.string(),
   imageSrc: z.string(),
   alt: z.string(),
@@ -29,6 +41,15 @@ const note = z.object({
   content: z.array(z.string()),
 });
 
+const timeline = z.object({
+  type: z.string(),
+  data: z.array(z.object({
+    period: z.string(),
+    summary: z.string().optional(),
+    content: z.array(z.string())
+  })),
+});
+
 const unitData = z.object({
   type: z.string(),
   dataSrc: z.string(),
@@ -46,19 +67,19 @@ const pcDataCollection = defineCollection({
     resistVit: z.string(),
     resistMnd: z.string(),
     movePoint: z.string(),
-    guardPoint: z.string().or(z.void()),
+    guardPoint: z.string().optional(),
     dex: z.string(),
     agi: z.string(),
     mus: z.string(),
     vit: z.string(),
     int: z.string(),
     mnd: z.string(),
-    addDex: z.string().or(z.void()),
-    addAgi: z.string().or(z.void()),
-    addMus: z.string().or(z.void()),
-    addVit: z.string().or(z.void()),
-    addInt: z.string().or(z.void()),
-    addMnd: z.string().or(z.void()),
+    addDex: z.string().optional(),
+    addAgi: z.string().optional(),
+    addMus: z.string().optional(),
+    addVit: z.string().optional(),
+    addInt: z.string().optional(),
+    addMnd: z.string().optional(),
     dexB: z.string(),
     agiB: z.string(),
     musB: z.string(),
@@ -73,13 +94,14 @@ const pcDataCollection = defineCollection({
   }),
 });
 
+
 const sessionLogCollection = defineCollection({
   type: "data",
   schema: z.object({
     title: z.string(),
     sectionNum: z.number(),
-    isPreplay: z.boolean().or(z.void()),
-    charaData: z.array(z.string()).or(z.void()),
+    sectionType: z.enum(["normal", "preplay", "appendix"]).optional(),
+    charaData: z.array(z.string()).optional(),
     data: z.array(
       z.any()
     )
@@ -102,10 +124,10 @@ const sessionDataCollection = defineCollection({
         name: z.string(),
         characterSheet: z.string().url(),
         imageSrc: z.string(),
-        copyright: z.union([z.void(), z.object({
+        copyright: z.object({
           name: z.string(),
           link: z.string().url()
-        })])
+        }).optional()
       })).or(z.any())
     }))
   })
